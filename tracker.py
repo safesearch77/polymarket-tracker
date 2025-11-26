@@ -2,61 +2,49 @@
 """
 Polymarket Ukraine War Activity Tracker
 Tracks: volume leaders, price movers, hottest markets
+Fetches ALL Ukraine-related markets (territorial + peace deals + relations)
 Runs hourly via GitHub Actions
 """
 
 import json
 import os
+import re
 import requests
 import time
 from datetime import datetime, timezone
 
 GAMMA_API = "https://gamma-api.polymarket.com"
-TAG_SLUG = "ukraine-map"
+
+# Multiple search terms to catch all Ukraine markets
+SEARCH_TERMS = ["ukraine", "kyiv", "zelensky", "crimea", "donbas", "donbass", "kherson", "zaporizhzhia"]
+TAG_SLUGS = ["ukraine-map", "ukraine", "russia-ukraine"]
 
 OUTPUT_FILE = "polymarket-activity.json"
 HISTORY_FILE = "price-history.json"
 
-REQUEST_DELAY = 0.15
+REQUEST_DELAY = 0.2
 
 
 def resolve_tag_id(slug):
     """Resolve tag slug to numeric ID"""
-    print(f"Resolving tag slug: {slug}")
+    print(f"  Resolving tag: {slug}")
     
-    # Try direct slug endpoint first
     try:
         r = requests.get(f"{GAMMA_API}/tags/slug/{slug}", timeout=15)
         if r.status_code == 200:
             data = r.json()
             tag_id = data.get("id")
-            print(f"  Found tag ID: {tag_id}")
-            return tag_id
-    except Exception as e:
-        print(f"  Slug endpoint failed: {e}")
-    
-    # Fallback: search all tags
-    print("  Falling back to tag list search...")
-    try:
-        r = requests.get(f"{GAMMA_API}/tags", timeout=30)
-        r.raise_for_status()
-        tags = r.json()
-        
-        for t in tags:
-            if t.get("slug") == slug or slug in t.get("label", "").lower():
-                tag_id = t.get("id")
-                print(f"  Found tag ID via search: {tag_id} ({t.get('label')})")
+            if tag_id:
+                print(f"    Found ID: {tag_id}")
                 return tag_id
     except Exception as e:
-        print(f"  Tag list search failed: {e}")
+        print(f"    Failed: {e}")
     
     return None
 
 
-def fetch_markets(tag_id):
-    """Fetch all open markets for a tag"""
-    print(f"Fetching markets for tag ID: {tag_id}")
-    
+def fetch_markets_by_tag(tag_id):
+    """Fetch markets for a specific tag ID"""
     all_markets = []
     offset = 0
     limit = 100
@@ -81,7 +69,121 @@ def fetch_markets(tag_id):
                 break
             
             all_markets.extend(markets)
-            print(f"  Fetched {len(markets)} markets (total: {len(all_markets)})")
+            
+            if len(markets) < limit:
+                break
+            
+            offset += limit
+            time.sleep(REQUEST_DELAY)
+            
+        except Exception:
+            break
+    
+    return all_markets
+
+
+def fetch_markets_by_search(term):
+    """Fetch markets matching a search term via text search"""
+    all_markets = []
+    offset = 0
+    limit = 100
+    
+    while True:
+        params = {
+            "closed": "false",
+            "limit": limit,
+            "offset": offset,
+            "order": "volumeNum",
+            "ascending": "false"
+        }
+        
+        try:
+            # Try text_query parameter
+            r = requests.get(f"{GAMMA_API}/markets?text_query={term}", params=params, timeout=30)
+            if r.status_code != 200:
+                # Fallback - just get all and filter
+                break
+            
+            markets = r.json()
+            if not markets:
+                break
+            
+            all_markets.extend(markets)
+            
+            if len(markets) < limit:
+                break
+            
+            offset += limit
+            time.sleep(REQUEST_DELAY)
+            
+        except Exception:
+            break
+    
+    return all_markets
+
+
+def is_ukraine_related(market):
+    """Check if market is Ukraine-related by keywords in question/description"""
+    text = (market.get("question", "") + " " + market.get("description", "")).lower()
+    
+    keywords = [
+        "ukraine", "ukrainian", "kyiv", "kiev", "zelensky", "zelenskyy",
+        "crimea", "donbas", "donbass", "kherson", "zaporizhzhia", "mariupol",
+        "bakhmut", "avdiivka", "pokrovsk", "kursk", "kharkiv", "odesa", "odessa",
+        "russia capture", "russian capture", "russia enter", "russian forces",
+        "putin", "moscow", "kremlin"
+    ]
+    
+    return any(kw in text for kw in keywords)
+
+
+def fetch_all_ukraine_markets():
+    """Fetch ALL Ukraine-related markets from multiple sources"""
+    print("Fetching ALL Ukraine-related markets...")
+    
+    seen_slugs = set()
+    all_markets = []
+    
+    # Method 1: Fetch from known tags
+    for slug in TAG_SLUGS:
+        tag_id = resolve_tag_id(slug)
+        if tag_id:
+            markets = fetch_markets_by_tag(tag_id)
+            for m in markets:
+                if m.get("slug") not in seen_slugs:
+                    seen_slugs.add(m.get("slug"))
+                    all_markets.append(m)
+            print(f"    Tag '{slug}': {len(markets)} markets")
+            time.sleep(REQUEST_DELAY)
+    
+    # Method 2: Fetch all open markets and filter by Ukraine keywords
+    print("  Fetching all markets and filtering...")
+    offset = 0
+    limit = 100
+    checked = 0
+    
+    while offset < 2000:  # Cap at 2000 to avoid infinite loops
+        try:
+            params = {
+                "closed": "false",
+                "limit": limit,
+                "offset": offset,
+                "order": "volumeNum",
+                "ascending": "false"
+            }
+            r = requests.get(f"{GAMMA_API}/markets", params=params, timeout=30)
+            r.raise_for_status()
+            markets = r.json()
+            
+            if not markets:
+                break
+            
+            for m in markets:
+                checked += 1
+                slug = m.get("slug")
+                if slug and slug not in seen_slugs and is_ukraine_related(m):
+                    seen_slugs.add(slug)
+                    all_markets.append(m)
             
             if len(markets) < limit:
                 break
@@ -90,9 +192,10 @@ def fetch_markets(tag_id):
             time.sleep(REQUEST_DELAY)
             
         except Exception as e:
-            print(f"  Error fetching markets: {e}")
+            print(f"    Error: {e}")
             break
     
+    print(f"  Checked {checked} markets total, found {len(all_markets)} Ukraine-related")
     return all_markets
 
 
@@ -129,10 +232,29 @@ def save_snapshot(markets):
     return snapshot
 
 
+def classify_market(question):
+    """Classify market type for better display"""
+    q = question.lower()
+    
+    if any(x in q for x in ["capture", "enter", "recapture", "take control"]):
+        return "territorial"
+    elif any(x in q for x in ["peace", "ceasefire", "truce", "armistice", "negotiate", "treaty"]):
+        return "peace"
+    elif any(x in q for x in ["election", "president", "zelensky", "putin", "leader"]):
+        return "political"
+    elif any(x in q for x in ["aid", "weapon", "military assistance", "funding", "billion"]):
+        return "aid"
+    elif any(x in q for x in ["nato", "eu", "european union", "alliance"]):
+        return "diplomatic"
+    else:
+        return "general"
+
+
 def build_report(markets, previous_snapshot):
     """Build activity report using API-provided fields"""
     
     def simplify(m):
+        mtype = classify_market(m.get("question", ""))
         return {
             "slug": m.get("slug", ""),
             "question": m.get("question", ""),
@@ -140,6 +262,7 @@ def build_report(markets, previous_snapshot):
             "volumeNum": round(m.get("volumeNum") or 0, 2),
             "lastTradePrice": m.get("lastTradePrice"),
             "endDate": m.get("endDate"),
+            "market_type": mtype,
         }
     
     # Top by 24h volume
@@ -246,19 +369,20 @@ def main():
     print(f"Running at: {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
     
-    # Resolve tag
-    tag_id = resolve_tag_id(TAG_SLUG)
-    if not tag_id:
-        print("ERROR: Could not resolve tag ID")
-        return
-    
-    # Fetch markets
-    markets = fetch_markets(tag_id)
-    print(f"\nFound {len(markets)} open markets")
+    # Fetch ALL Ukraine-related markets
+    markets = fetch_all_ukraine_markets()
+    print(f"\nFound {len(markets)} total Ukraine-related markets")
     
     if not markets:
         print("No markets found, exiting")
         return
+    
+    # Count by type
+    type_counts = {}
+    for m in markets:
+        mtype = classify_market(m.get("question", ""))
+        type_counts[mtype] = type_counts.get(mtype, 0) + 1
+    print(f"Market types: {type_counts}")
     
     # Load previous snapshot
     prev = load_previous_snapshot()
