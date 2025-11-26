@@ -1,0 +1,51 @@
+{
+  "generated_at": "2025-11-26T00:15:00.000000+00:00",
+  "previous_snapshot": "none",
+  "total_markets": 45,
+  "top_volume_24h": [
+    {
+      "slug": "will-russia-control-pokrovsk-on-february-28-2025",
+      "question": "Will Russia control Pokrovsk on February 28, 2025?",
+      "volume24hr": 125432.50,
+      "volumeNum": 856230.00,
+      "lastTradePrice": 0.45,
+      "endDate": "2025-02-28",
+      "outcomes": ["Yes", "No"],
+      "rank": 1
+    }
+  ],
+  "top_volume_total": [],
+  "hottest_markets": [
+    {
+      "slug": "will-russia-capture-kupiansk",
+      "question": "Will Russia capture Kupiansk by December 31?",
+      "volume24hr": 8500,
+      "volumeNum": 45000,
+      "heat_score": 18.89,
+      "rank": 1
+    }
+  ],
+  "top_movers_1h": [
+    {
+      "slug": "will-russia-capture-vovchansk",
+      "question": "Will Russia capture Vovchansk by January 31?",
+      "current_price": 35.5,
+      "price_1h_ago": 31.0,
+      "points_change": 4.5,
+      "pct_change": 14.52,
+      "rank": 1
+    }
+  ],
+  "top_movers_24h": [
+    {
+      "slug": "will-russia-capture-pokrovsk-by-september-30",
+      "question": "Will Russia capture all of Pokrovsk by September 30?",
+      "current_price": 48.0,
+      "price_24h_ago": 42.0,
+      "points_change": 6.0,
+      "pct_change": 14.29,
+      "rank": 1
+    }
+  ],
+  "volume_spikes": []
+}
