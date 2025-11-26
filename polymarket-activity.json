@@ -1,50 +1,875 @@
 {
-  "generated_at": "2025-11-26T00:15:00.000000+00:00",
+  "generated_at": "2025-11-26T14:19:08.340896+00:00",
   "previous_snapshot": "none",
-  "total_markets": 45,
+  "total_markets": 38,
   "top_volume_24h": [
     {
-      "slug": "will-russia-control-pokrovsk-on-february-28-2025",
-      "question": "Will Russia control Pokrovsk on February 28, 2025?",
-      "volume24hr": 125432.50,
-      "volumeNum": 856230.00,
-      "lastTradePrice": 0.45,
-      "endDate": "2025-02-28",
-      "outcomes": ["Yes", "No"],
+      "slug": "will-russia-capture-all-of-pokrovsk-by-november-30-216-555-463",
+      "question": "Will Russia capture all of Pokrovsk by November 30?",
+      "volume24hr": 47051.06,
+      "volumeNum": 1059083.5,
+      "lastTradePrice": 0.14,
+      "endDate": "2025-09-30T00:00:00Z",
       "rank": 1
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-december-31-696-746-327-188",
+      "question": "Will Russia capture all of Pokrovsk by December 31?",
+      "volume24hr": 22617.05,
+      "volumeNum": 653883.37,
+      "lastTradePrice": 0.81,
+      "endDate": "2025-09-30T00:00:00Z",
+      "rank": 2
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-december-31",
+      "question": "Will Russia capture all of Myrnohrad by December 31?",
+      "volume24hr": 15009.57,
+      "volumeNum": 121435.06,
+      "lastTradePrice": 0.73,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-vovchansk-by-december-31",
+      "question": "Will Russia capture all of Vovchansk by December 31?",
+      "volume24hr": 13058.8,
+      "volumeNum": 124503.69,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 4
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-december-31",
+      "question": "Will Russia capture all of Kupiansk by December 31?",
+      "volume24hr": 11820.34,
+      "volumeNum": 215599.81,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 5
+    },
+    {
+      "slug": "will-russia-enter-siversk-by-november-30",
+      "question": "Will Russia enter Siversk by November 30?",
+      "volume24hr": 11517.73,
+      "volumeNum": 131897.17,
+      "lastTradePrice": 0.983,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-november-30",
+      "question": "Will Russia capture all of Myrnohrad by November 30?",
+      "volume24hr": 9772.6,
+      "volumeNum": 174613.96,
+      "lastTradePrice": 0.04,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 7
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-november-30",
+      "question": "Will Russia capture Siversk by November 30?",
+      "volume24hr": 8573.03,
+      "volumeNum": 294627.15,
+      "lastTradePrice": 0.044,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-november-30",
+      "question": "Will Russia capture Kostyantynivka by November 30?",
+      "volume24hr": 6908.45,
+      "volumeNum": 214959.55,
+      "lastTradePrice": 0.022,
+      "endDate": "2025-10-31T12:00:00Z",
+      "rank": 9
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-december-31-266-839-138",
+      "question": "Will Russia capture Kostyantynivka by December 31?",
+      "volume24hr": 6772.4,
+      "volumeNum": 980352.48,
+      "lastTradePrice": 0.39,
+      "endDate": "2025-12-31T12:00:00Z",
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-capture-lyman-in-2025-816",
+      "question": "Will Russia capture Lyman by December 31?",
+      "volume24hr": 6687.55,
+      "volumeNum": 505417.85,
+      "lastTradePrice": 0.39,
+      "endDate": "2025-12-31T23:55:00Z",
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-november-30",
+      "question": "Will Russia capture all of Kupiansk by November 30?",
+      "volume24hr": 6176.68,
+      "volumeNum": 192790.08,
+      "lastTradePrice": 0.071,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-december-31-132-853",
+      "question": "Will Russia capture Siversk by December 31?",
+      "volume24hr": 6163.17,
+      "volumeNum": 707297.45,
+      "lastTradePrice": 0.69,
+      "endDate": "2025-09-30T00:00:00Z",
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-enter-huliaipole-by-november-30",
+      "question": "Will Russia enter Huliaipole by November 30?",
+      "volume24hr": 5914.25,
+      "volumeNum": 102325.02,
+      "lastTradePrice": 0.32,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-capture-huliaipole-by-december-31",
+      "question": "Will Russia capture Huliaipole by December 31?",
+      "volume24hr": 5818.48,
+      "volumeNum": 179622.22,
+      "lastTradePrice": 0.53,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 15
+    },
+    {
+      "slug": "will-russia-recapture-territory-in-vilne-by-november-30",
+      "question": "Will Russia recapture territory in Vilne by November 30?",
+      "volume24hr": 4041.55,
+      "volumeNum": 138436.19,
+      "lastTradePrice": 0.048,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 16
+    },
+    {
+      "slug": "will-russia-capture-slovainsk-in-2025",
+      "question": "Will Russia capture Slovainsk in 2025?",
+      "volume24hr": 3640.32,
+      "volumeNum": 359630.72,
+      "lastTradePrice": 0.039,
+      "endDate": "2025-12-31T23:55:00Z",
+      "rank": 17
+    },
+    {
+      "slug": "will-russia-capture-yampil-by-november-30",
+      "question": "Will Russia capture Yampil' by November 30?",
+      "volume24hr": 3566.61,
+      "volumeNum": 84460.4,
+      "lastTradePrice": 0.57,
+      "endDate": "2025-10-31T00:00:00Z",
+      "rank": 18
+    },
+    {
+      "slug": "will-russia-enter-lyman-by-november-30",
+      "question": "Will Russia enter Lyman by November 30?",
+      "volume24hr": 3326.52,
+      "volumeNum": 110701.48,
+      "lastTradePrice": 0.223,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 19
+    },
+    {
+      "slug": "will-russia-capture-shakhove-by-november-30",
+      "question": "Will Russia capture Shakhove by November 30?",
+      "volume24hr": 3222.19,
+      "volumeNum": 76198.47,
+      "lastTradePrice": 0.33,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 20
     }
   ],
-  "top_volume_total": [],
+  "top_volume_total": [
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-november-30-216-555-463",
+      "question": "Will Russia capture all of Pokrovsk by November 30?",
+      "volume24hr": 47051.06,
+      "volumeNum": 1059083.5,
+      "lastTradePrice": 0.14,
+      "endDate": "2025-09-30T00:00:00Z",
+      "rank": 1
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-december-31-266-839-138",
+      "question": "Will Russia capture Kostyantynivka by December 31?",
+      "volume24hr": 6772.4,
+      "volumeNum": 980352.48,
+      "lastTradePrice": 0.39,
+      "endDate": "2025-12-31T12:00:00Z",
+      "rank": 2
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-december-31-132-853",
+      "question": "Will Russia capture Siversk by December 31?",
+      "volume24hr": 6163.17,
+      "volumeNum": 707297.45,
+      "lastTradePrice": 0.69,
+      "endDate": "2025-09-30T00:00:00Z",
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-december-31-696-746-327-188",
+      "question": "Will Russia capture all of Pokrovsk by December 31?",
+      "volume24hr": 22617.05,
+      "volumeNum": 653883.37,
+      "lastTradePrice": 0.81,
+      "endDate": "2025-09-30T00:00:00Z",
+      "rank": 4
+    },
+    {
+      "slug": "will-russia-capture-lyman-in-2025-816",
+      "question": "Will Russia capture Lyman by December 31?",
+      "volume24hr": 6687.55,
+      "volumeNum": 505417.85,
+      "lastTradePrice": 0.39,
+      "endDate": "2025-12-31T23:55:00Z",
+      "rank": 5
+    },
+    {
+      "slug": "will-russia-capture-slovainsk-in-2025",
+      "question": "Will Russia capture Slovainsk in 2025?",
+      "volume24hr": 3640.32,
+      "volumeNum": 359630.72,
+      "lastTradePrice": 0.039,
+      "endDate": "2025-12-31T23:55:00Z",
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-november-30",
+      "question": "Will Russia capture Siversk by November 30?",
+      "volume24hr": 8573.03,
+      "volumeNum": 294627.15,
+      "lastTradePrice": 0.044,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 7
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-december-31",
+      "question": "Will Russia capture all of Kupiansk by December 31?",
+      "volume24hr": 11820.34,
+      "volumeNum": 215599.81,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-november-30",
+      "question": "Will Russia capture Kostyantynivka by November 30?",
+      "volume24hr": 6908.45,
+      "volumeNum": 214959.55,
+      "lastTradePrice": 0.022,
+      "endDate": "2025-10-31T12:00:00Z",
+      "rank": 9
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-november-30",
+      "question": "Will Russia capture Rodynske by November 30?",
+      "volume24hr": 2178.32,
+      "volumeNum": 212649.89,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-11-30T23:00:00Z",
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-recapture-territory-in-kucheriv-yar-by-november-30",
+      "question": "Will Russia recapture territory in Kucheriv Yar by November 30?",
+      "volume24hr": 2213.39,
+      "volumeNum": 202872.02,
+      "lastTradePrice": 0.041,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-november-30",
+      "question": "Will Russia capture all of Kupiansk by November 30?",
+      "volume24hr": 6176.68,
+      "volumeNum": 192790.08,
+      "lastTradePrice": 0.071,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-capture-huliaipole-by-december-31",
+      "question": "Will Russia capture Huliaipole by December 31?",
+      "volume24hr": 5818.48,
+      "volumeNum": 179622.22,
+      "lastTradePrice": 0.53,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-november-30",
+      "question": "Will Russia capture all of Myrnohrad by November 30?",
+      "volume24hr": 9772.6,
+      "volumeNum": 174613.96,
+      "lastTradePrice": 0.04,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-recapture-territory-in-vilne-by-november-30",
+      "question": "Will Russia recapture territory in Vilne by November 30?",
+      "volume24hr": 4041.55,
+      "volumeNum": 138436.19,
+      "lastTradePrice": 0.048,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 15
+    },
+    {
+      "slug": "will-russia-enter-siversk-by-november-30",
+      "question": "Will Russia enter Siversk by November 30?",
+      "volume24hr": 11517.73,
+      "volumeNum": 131897.17,
+      "lastTradePrice": 0.983,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 16
+    },
+    {
+      "slug": "will-russia-capture-lyman-by-november-30-884",
+      "question": "Will Russia capture Lyman by November 30?",
+      "volume24hr": 648.62,
+      "volumeNum": 124897.56,
+      "lastTradePrice": 0.031,
+      "endDate": "2025-12-31T23:55:00Z",
+      "rank": 17
+    },
+    {
+      "slug": "will-russia-capture-all-of-vovchansk-by-december-31",
+      "question": "Will Russia capture all of Vovchansk by December 31?",
+      "volume24hr": 13058.8,
+      "volumeNum": 124503.69,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 18
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-december-31",
+      "question": "Will Russia capture all of Myrnohrad by December 31?",
+      "volume24hr": 15009.57,
+      "volumeNum": 121435.06,
+      "lastTradePrice": 0.73,
+      "endDate": "2025-12-31T00:00:00Z",
+      "rank": 19
+    },
+    {
+      "slug": "will-russia-enter-lyman-by-november-30",
+      "question": "Will Russia enter Lyman by November 30?",
+      "volume24hr": 3326.52,
+      "volumeNum": 110701.48,
+      "lastTradePrice": 0.223,
+      "endDate": "2025-11-30T00:00:00Z",
+      "rank": 20
+    }
+  ],
   "hottest_markets": [
     {
-      "slug": "will-russia-capture-kupiansk",
-      "question": "Will Russia capture Kupiansk by December 31?",
-      "volume24hr": 8500,
-      "volumeNum": 45000,
-      "heat_score": 18.89,
+      "slug": "will-russia-enter-orikhiv-by-december-31",
+      "question": "Will Russia enter Orikhiv by December 31?",
+      "volume24hr": 955.74,
+      "volumeNum": 3637.54,
+      "lastTradePrice": 0.42,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 26.27,
       "rank": 1
+    },
+    {
+      "slug": "will-russia-enter-pokrovskoe-by-december-31",
+      "question": "Will Russia enter Pokrovskoe by December 31?",
+      "volume24hr": 620.92,
+      "volumeNum": 2556.11,
+      "lastTradePrice": 0.48,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 24.29,
+      "rank": 2
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-december-31",
+      "question": "Will Russia capture all of Myrnohrad by December 31?",
+      "volume24hr": 15009.57,
+      "volumeNum": 121435.06,
+      "lastTradePrice": 0.73,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 12.36,
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-vovchansk-by-december-31",
+      "question": "Will Russia capture all of Vovchansk by December 31?",
+      "volume24hr": 13058.8,
+      "volumeNum": 124503.69,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 10.49,
+      "rank": 4
+    },
+    {
+      "slug": "will-russia-capture-kupiansk-vuzlovyi-by-november-30",
+      "question": "Will Russia capture Kupiansk-Vuzlovyi by November 30?",
+      "volume24hr": 2249.79,
+      "volumeNum": 22900.46,
+      "lastTradePrice": 0.032,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 9.82,
+      "rank": 5
+    },
+    {
+      "slug": "will-russia-capture-dovha-balka-by-november-30",
+      "question": "Will Russia capture Dovha Balka by November 30?",
+      "volume24hr": 1357.43,
+      "volumeNum": 14115.13,
+      "lastTradePrice": 0.023,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 9.62,
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-enter-siversk-by-november-30",
+      "question": "Will Russia enter Siversk by November 30?",
+      "volume24hr": 11517.73,
+      "volumeNum": 131897.17,
+      "lastTradePrice": 0.983,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 8.73,
+      "rank": 7
+    },
+    {
+      "slug": "will-russia-enter-huliaipole-by-november-30",
+      "question": "Will Russia enter Huliaipole by November 30?",
+      "volume24hr": 5914.25,
+      "volumeNum": 102325.02,
+      "lastTradePrice": 0.32,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 5.78,
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-november-30",
+      "question": "Will Russia capture all of Myrnohrad by November 30?",
+      "volume24hr": 9772.6,
+      "volumeNum": 174613.96,
+      "lastTradePrice": 0.04,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 5.6,
+      "rank": 9
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-december-31",
+      "question": "Will Russia capture all of Kupiansk by December 31?",
+      "volume24hr": 11820.34,
+      "volumeNum": 215599.81,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 5.48,
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-november-30-216-555-463",
+      "question": "Will Russia capture all of Pokrovsk by November 30?",
+      "volume24hr": 47051.06,
+      "volumeNum": 1059083.5,
+      "lastTradePrice": 0.14,
+      "endDate": "2025-09-30T00:00:00Z",
+      "heat_score": 4.44,
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-shakhove-by-november-30",
+      "question": "Will Russia capture Shakhove by November 30?",
+      "volume24hr": 3222.19,
+      "volumeNum": 76198.47,
+      "lastTradePrice": 0.33,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 4.23,
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-capture-yampil-by-november-30",
+      "question": "Will Russia capture Yampil' by November 30?",
+      "volume24hr": 3566.61,
+      "volumeNum": 84460.4,
+      "lastTradePrice": 0.57,
+      "endDate": "2025-10-31T00:00:00Z",
+      "heat_score": 4.22,
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-capture-velykomykhailivka-by-november-30",
+      "question": "Will Russia capture Velykomykhailivka by November 30?",
+      "volume24hr": 964.52,
+      "volumeNum": 25953.52,
+      "lastTradePrice": 0.082,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 3.72,
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-capture-kupiansk-vuzlovyi-by-december-31",
+      "question": "Will Russia capture Kupiansk-Vuzlovyi by December 31?",
+      "volume24hr": 471.09,
+      "volumeNum": 13330.07,
+      "lastTradePrice": 0.24,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 3.53,
+      "rank": 15
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-december-31-696-746-327-188",
+      "question": "Will Russia capture all of Pokrovsk by December 31?",
+      "volume24hr": 22617.05,
+      "volumeNum": 653883.37,
+      "lastTradePrice": 0.81,
+      "endDate": "2025-09-30T00:00:00Z",
+      "heat_score": 3.46,
+      "rank": 16
+    },
+    {
+      "slug": "will-russia-capture-huliaipole-by-december-31",
+      "question": "Will Russia capture Huliaipole by December 31?",
+      "volume24hr": 5818.48,
+      "volumeNum": 179622.22,
+      "lastTradePrice": 0.53,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 3.24,
+      "rank": 17
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-november-30",
+      "question": "Will Russia capture Kostyantynivka by November 30?",
+      "volume24hr": 6908.45,
+      "volumeNum": 214959.55,
+      "lastTradePrice": 0.022,
+      "endDate": "2025-10-31T12:00:00Z",
+      "heat_score": 3.21,
+      "rank": 18
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-november-30",
+      "question": "Will Russia capture all of Kupiansk by November 30?",
+      "volume24hr": 6176.68,
+      "volumeNum": 192790.08,
+      "lastTradePrice": 0.071,
+      "endDate": "2025-12-31T00:00:00Z",
+      "heat_score": 3.2,
+      "rank": 19
+    },
+    {
+      "slug": "will-russia-enter-lyman-by-november-30",
+      "question": "Will Russia enter Lyman by November 30?",
+      "volume24hr": 3326.52,
+      "volumeNum": 110701.48,
+      "lastTradePrice": 0.223,
+      "endDate": "2025-11-30T00:00:00Z",
+      "heat_score": 3.0,
+      "rank": 20
     }
   ],
   "top_movers_1h": [
     {
-      "slug": "will-russia-capture-vovchansk",
-      "question": "Will Russia capture Vovchansk by January 31?",
-      "current_price": 35.5,
-      "price_1h_ago": 31.0,
-      "points_change": 4.5,
-      "pct_change": 14.52,
+      "slug": "will-russia-enter-orikhiv-by-december-31",
+      "question": "Will Russia enter Orikhiv by December 31?",
+      "volume24hr": 955.74,
+      "volumeNum": 3637.54,
+      "lastTradePrice": 0.42,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_1h": -2.0,
       "rank": 1
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-november-30",
+      "question": "Will Russia capture Siversk by November 30?",
+      "volume24hr": 8573.03,
+      "volumeNum": 294627.15,
+      "lastTradePrice": 0.044,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": -1.05,
+      "rank": 2
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-november-30-216-555-463",
+      "question": "Will Russia capture all of Pokrovsk by November 30?",
+      "volume24hr": 47051.06,
+      "volumeNum": 1059083.5,
+      "lastTradePrice": 0.14,
+      "endDate": "2025-09-30T00:00:00Z",
+      "price_change_1h": -1.0,
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-december-31",
+      "question": "Will Russia capture all of Myrnohrad by December 31?",
+      "volume24hr": 15009.57,
+      "volumeNum": 121435.06,
+      "lastTradePrice": 0.73,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_1h": -1.0,
+      "rank": 4
+    },
+    {
+      "slug": "will-russia-capture-yampil-by-november-30",
+      "question": "Will Russia capture Yampil' by November 30?",
+      "volume24hr": 3566.61,
+      "volumeNum": 84460.4,
+      "lastTradePrice": 0.57,
+      "endDate": "2025-10-31T00:00:00Z",
+      "price_change_1h": 0.85,
+      "rank": 5
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-december-31-696-746-327-188",
+      "question": "Will Russia capture all of Pokrovsk by December 31?",
+      "volume24hr": 22617.05,
+      "volumeNum": 653883.37,
+      "lastTradePrice": 0.81,
+      "endDate": "2025-09-30T00:00:00Z",
+      "price_change_1h": -0.5,
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-november-30",
+      "question": "Will Russia capture Rodynske by November 30?",
+      "volume24hr": 2178.32,
+      "volumeNum": 212649.89,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-11-30T23:00:00Z",
+      "price_change_1h": 0.5,
+      "rank": 7
+    },
+    {
+      "slug": "will-russia-enter-huliaipole-by-november-30",
+      "question": "Will Russia enter Huliaipole by November 30?",
+      "volume24hr": 5914.25,
+      "volumeNum": 102325.02,
+      "lastTradePrice": 0.32,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": -0.5,
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-december-31",
+      "question": "Will Russia capture Rodynske by December 31?",
+      "volume24hr": 893.52,
+      "volumeNum": 86761.97,
+      "lastTradePrice": 0.77,
+      "endDate": "2025-12-31T22:00:00Z",
+      "price_change_1h": -0.5,
+      "rank": 9
+    },
+    {
+      "slug": "will-russia-capture-shakhove-by-november-30",
+      "question": "Will Russia capture Shakhove by November 30?",
+      "volume24hr": 3222.19,
+      "volumeNum": 76198.47,
+      "lastTradePrice": 0.33,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": -0.5,
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-enter-pokrovskoe-by-december-31",
+      "question": "Will Russia enter Pokrovskoe by December 31?",
+      "volume24hr": 620.92,
+      "volumeNum": 2556.11,
+      "lastTradePrice": 0.48,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_1h": -0.5,
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-november-30",
+      "question": "Will Russia capture all of Kupiansk by November 30?",
+      "volume24hr": 6176.68,
+      "volumeNum": 192790.08,
+      "lastTradePrice": 0.071,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_1h": -0.35,
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-capture-kupiansk-vuzlovyi-by-november-30",
+      "question": "Will Russia capture Kupiansk-Vuzlovyi by November 30?",
+      "volume24hr": 2249.79,
+      "volumeNum": 22900.46,
+      "lastTradePrice": 0.032,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": -0.15,
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-recapture-territory-in-kucheriv-yar-by-november-30",
+      "question": "Will Russia recapture territory in Kucheriv Yar by November 30?",
+      "volume24hr": 2213.39,
+      "volumeNum": 202872.02,
+      "lastTradePrice": 0.041,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": 0.1,
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-enter-lyman-by-november-30",
+      "question": "Will Russia enter Lyman by November 30?",
+      "volume24hr": 3326.52,
+      "volumeNum": 110701.48,
+      "lastTradePrice": 0.223,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_1h": 0.1,
+      "rank": 15
     }
   ],
   "top_movers_24h": [
     {
-      "slug": "will-russia-capture-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by September 30?",
-      "current_price": 48.0,
-      "price_24h_ago": 42.0,
-      "points_change": 6.0,
-      "pct_change": 14.29,
+      "slug": "will-russia-enter-pokrovskoe-by-december-31",
+      "question": "Will Russia enter Pokrovskoe by December 31?",
+      "volume24hr": 620.92,
+      "volumeNum": 2556.11,
+      "lastTradePrice": 0.48,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_24h": -15.5,
       "rank": 1
+    },
+    {
+      "slug": "will-russia-enter-lyman-by-november-30",
+      "question": "Will Russia enter Lyman by November 30?",
+      "volume24hr": 3326.52,
+      "volumeNum": 110701.48,
+      "lastTradePrice": 0.223,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_24h": -13.9,
+      "rank": 2
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-december-31",
+      "question": "Will Russia capture all of Myrnohrad by December 31?",
+      "volume24hr": 15009.57,
+      "volumeNum": 121435.06,
+      "lastTradePrice": 0.73,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_24h": 8.0,
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-vovchansk-by-december-31",
+      "question": "Will Russia capture all of Vovchansk by December 31?",
+      "volume24hr": 13058.8,
+      "volumeNum": 124503.69,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_24h": 7.5,
+      "rank": 4
+    },
+    {
+      "slug": "will-russia-enter-siversk-by-november-30",
+      "question": "Will Russia enter Siversk by November 30?",
+      "volume24hr": 11517.73,
+      "volumeNum": 131897.17,
+      "lastTradePrice": 0.983,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_24h": 7.25,
+      "rank": 5
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-november-30-216-555-463",
+      "question": "Will Russia capture all of Pokrovsk by November 30?",
+      "volume24hr": 47051.06,
+      "volumeNum": 1059083.5,
+      "lastTradePrice": 0.14,
+      "endDate": "2025-09-30T00:00:00Z",
+      "price_change_24h": 5.0,
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-november-30",
+      "question": "Will Russia capture Rodynske by November 30?",
+      "volume24hr": 2178.32,
+      "volumeNum": 212649.89,
+      "lastTradePrice": 0.34,
+      "endDate": "2025-11-30T23:00:00Z",
+      "price_change_24h": 4.5,
+      "rank": 7
+    },
+    {
+      "slug": "will-russia-capture-drobysheve-by-november-30",
+      "question": "Will Russia capture Drobysheve by November 30?",
+      "volume24hr": 151.81,
+      "volumeNum": 21138.51,
+      "lastTradePrice": 0.005,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_24h": -4.25,
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-all-of-kupiansk-by-december-31",
+      "question": "Will Russia capture all of Kupiansk by December 31?",
+      "volume24hr": 11820.34,
+      "volumeNum": 215599.81,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T00:00:00Z",
+      "price_change_24h": 3.0,
+      "rank": 9
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-december-31",
+      "question": "Will Russia capture Rodynske by December 31?",
+      "volume24hr": 893.52,
+      "volumeNum": 86761.97,
+      "lastTradePrice": 0.77,
+      "endDate": "2025-12-31T22:00:00Z",
+      "price_change_24h": -3.0,
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-recapture-territory-in-vilne-by-november-30",
+      "question": "Will Russia recapture territory in Vilne by November 30?",
+      "volume24hr": 4041.55,
+      "volumeNum": 138436.19,
+      "lastTradePrice": 0.048,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_24h": 2.95,
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-lyman-in-2025-816",
+      "question": "Will Russia capture Lyman by December 31?",
+      "volume24hr": 6687.55,
+      "volumeNum": 505417.85,
+      "lastTradePrice": 0.39,
+      "endDate": "2025-12-31T23:55:00Z",
+      "price_change_24h": 2.5,
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-enter-huliaipole-by-november-30",
+      "question": "Will Russia enter Huliaipole by November 30?",
+      "volume24hr": 5914.25,
+      "volumeNum": 102325.02,
+      "lastTradePrice": 0.32,
+      "endDate": "2025-11-30T00:00:00Z",
+      "price_change_24h": -2.5,
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-capture-yampil-by-november-30",
+      "question": "Will Russia capture Yampil' by November 30?",
+      "volume24hr": 3566.61,
+      "volumeNum": 84460.4,
+      "lastTradePrice": 0.57,
+      "endDate": "2025-10-31T00:00:00Z",
+      "price_change_24h": 2.5,
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-capture-siversk-by-december-31-132-853",
+      "question": "Will Russia capture Siversk by December 31?",
+      "volume24hr": 6163.17,
+      "volumeNum": 707297.45,
+      "lastTradePrice": 0.69,
+      "endDate": "2025-09-30T00:00:00Z",
+      "price_change_24h": 2.0,
+      "rank": 15
     }
   ],
   "volume_spikes": []
