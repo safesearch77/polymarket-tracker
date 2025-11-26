@@ -255,8 +255,11 @@ def build_report(markets, previous_snapshot):
     
     def simplify(m):
         mtype = classify_market(m.get("question", ""))
+        # Use eventSlug if available, otherwise fall back to slug
+        event_slug = m.get("eventSlug") or m.get("slug", "")
         return {
             "slug": m.get("slug", ""),
+            "eventSlug": event_slug,
             "question": m.get("question", ""),
             "volume24hr": round(m.get("volume24hr") or 0, 2),
             "volumeNum": round(m.get("volumeNum") or 0, 2),
