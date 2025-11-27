@@ -255,11 +255,20 @@ def build_report(markets, previous_snapshot):
     
     def simplify(m):
         mtype = classify_market(m.get("question", ""))
-        # Use eventSlug if available, otherwise fall back to slug
-        event_slug = m.get("eventSlug") or m.get("slug", "")
+        
+        # Extract parent event slug from events array for correct URL
+        # The 'events' array contains parent event objects with the correct slug
+        parent_event_slug = ""
+        events = m.get("events", [])
+        if events and isinstance(events, list) and len(events) > 0:
+            parent_event_slug = events[0].get("slug", "")
+        
+        # Fall back to market slug if no parent event found
+        url_slug = parent_event_slug or m.get("slug", "")
+        
         return {
             "slug": m.get("slug", ""),
-            "eventSlug": event_slug,
+            "eventSlug": url_slug,  # This is now the parent event slug for URLs
             "question": m.get("question", ""),
             "volume24hr": round(m.get("volume24hr") or 0, 2),
             "volumeNum": round(m.get("volumeNum") or 0, 2),
