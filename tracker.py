@@ -253,6 +253,26 @@ def classify_market(question):
 def build_report(markets, previous_snapshot):
     """Build activity report using API-provided fields"""
     
+    def get_current_price(m):
+        """Get current market price from outcomePrices (mid-market), fall back to lastTradePrice"""
+        # outcomePrices contains actual current market prices, not just last trade
+        outcome_prices = m.get("outcomePrices")
+        if outcome_prices:
+            try:
+                # Parse if it's a string (API returns stringified JSON)
+                if isinstance(outcome_prices, str):
+                    import json
+                    prices = json.loads(outcome_prices)
+                else:
+                    prices = outcome_prices
+                # First price is typically YES outcome
+                if prices and len(prices) > 0:
+                    return float(prices[0])
+            except:
+                pass
+        # Fall back to lastTradePrice
+        return m.get("lastTradePrice")
+    
     def simplify(m):
         mtype = classify_market(m.get("question", ""))
         
@@ -266,13 +286,17 @@ def build_report(markets, previous_snapshot):
         # Fall back to market slug if no parent event found
         url_slug = parent_event_slug or m.get("slug", "")
         
+        # Get current price (prefer outcomePrices over lastTradePrice)
+        current_price = get_current_price(m)
+        
         return {
             "slug": m.get("slug", ""),
             "eventSlug": url_slug,  # This is now the parent event slug for URLs
             "question": m.get("question", ""),
             "volume24hr": round(m.get("volume24hr") or 0, 2),
             "volumeNum": round(m.get("volumeNum") or 0, 2),
-            "lastTradePrice": m.get("lastTradePrice"),
+            "currentPrice": current_price,  # Actual market price from order book
+            "lastTradePrice": m.get("lastTradePrice"),  # Keep for reference
             "endDate": m.get("endDate"),
             "market_type": mtype,
         }
