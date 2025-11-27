@@ -301,19 +301,19 @@ def build_report(markets, previous_snapshot):
             "market_type": mtype,
         }
     
-    # Top by 24h volume
+    # Top by 24h volume - fetch more for filtering
     top_volume_24h = sorted(
         [m for m in markets if m.get("volume24hr")],
         key=lambda x: x.get("volume24hr", 0),
         reverse=True
-    )[:20]
+    )[:100]
     
     # Top by total volume
     top_volume_total = sorted(
         [m for m in markets if m.get("volumeNum")],
         key=lambda x: x.get("volumeNum", 0),
         reverse=True
-    )[:20]
+    )[:100]
     
     # Hottest: 24h volume as % of total (which markets are heating up)
     hot = []
@@ -323,21 +323,21 @@ def build_report(markets, previous_snapshot):
         if vtotal > 1000:
             heat = (v24 / vtotal) * 100
             hot.append({"market": m, "heat_score": round(heat, 2)})
-    hot = sorted(hot, key=lambda x: x["heat_score"], reverse=True)[:20]
+    hot = sorted(hot, key=lambda x: x["heat_score"], reverse=True)[:100]
     
     # Top movers 1h (using API field)
     movers_1h = sorted(
         [m for m in markets if m.get("oneHourPriceChange") is not None],
         key=lambda x: abs(x.get("oneHourPriceChange", 0)),
         reverse=True
-    )[:15]
+    )[:50]
     
     # Top movers 24h (using API field)
     movers_24h = sorted(
         [m for m in markets if m.get("oneDayPriceChange") is not None],
         key=lambda x: abs(x.get("oneDayPriceChange", 0)),
         reverse=True
-    )[:15]
+    )[:50]
     
     # Volume spikes since last snapshot
     prev_markets = previous_snapshot.get("markets", {})
@@ -350,7 +350,7 @@ def build_report(markets, previous_snapshot):
             delta = curr - prev
             if delta > 100:
                 spikes.append({"market": m, "delta": round(delta, 2)})
-    spikes = sorted(spikes, key=lambda x: x["delta"], reverse=True)[:15]
+    spikes = sorted(spikes, key=lambda x: x["delta"], reverse=True)[:50]
     
     report = {
         "generated_at": datetime.now(timezone.utc).isoformat(),
