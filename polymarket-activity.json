@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-01-05T18:48:50.658745+00:00",
-  "previous_snapshot": "2026-01-05T17:36:16.485744+00:00",
-  "total_markets": 149,
+  "generated_at": "2026-01-05T19:30:49.602501+00:00",
+  "previous_snapshot": "2026-01-05T18:48:50.666357+00:00",
+  "total_markets": 155,
   "top_volume_24h": [
     {
       "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
       "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
       "question": "Russia x Ukraine ceasefire by January 31, 2026?",
       "volume24hr": 539391.12,
-      "volumeNum": 7344984.13,
-      "currentPrice": 0.0375,
-      "lastTradePrice": 0.038,
+      "volumeNum": 7351364.38,
+      "currentPrice": 0.037,
+      "lastTradePrice": 0.037,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "rank": 1
@@ -20,7 +20,7 @@
       "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
       "question": "Russia x Ukraine ceasefire by March 31, 2026?",
       "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
+      "volumeNum": 7328526.26,
       "currentPrice": 0.165,
       "lastTradePrice": 0.16,
       "endDate": "2026-03-31T00:00:00Z",
@@ -32,7 +32,7 @@
       "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
       "question": "Russia x Ukraine ceasefire by end of 2026?",
       "volume24hr": 153695.24,
-      "volumeNum": 5737092.24,
+      "volumeNum": 5737707.86,
       "currentPrice": 0.445,
       "lastTradePrice": 0.45,
       "endDate": "2026-12-31T00:00:00Z",
@@ -40,52 +40,40 @@
       "rank": 3
     },
     {
-      "slug": "khl-hcs-hcd-2026-01-05",
-      "eventSlug": "khl-hcs-hcd-2026-01-05",
-      "question": "KHL: HC Sochi vs. HC Dynamo Moscow",
-      "volume24hr": 71094.55,
-      "volumeNum": 71874.65,
-      "currentPrice": 0.9995,
-      "lastTradePrice": 0.999,
-      "endDate": "2026-01-05T14:00:00Z",
-      "market_type": "general",
-      "rank": 4
-    },
-    {
       "slug": "putin-out-before-2027",
       "eventSlug": "putin-out-before-2027",
       "question": "Putin out as President of Russia by end of 2026?",
       "volume24hr": 41014.71,
-      "volumeNum": 1277734.47,
+      "volumeNum": 1277755.36,
       "currentPrice": 0.095,
       "lastTradePrice": 0.1,
       "endDate": "2026-12-31T18:30:00Z",
       "market_type": "political",
-      "rank": 5
+      "rank": 4
     },
     {
       "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 10, 2026?",
       "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
       "lastTradePrice": 0.928,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "rank": 6
+      "rank": 5
     },
     {
       "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 31?",
       "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
       "lastTradePrice": 0.56,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 7
+      "rank": 6
     },
     {
       "slug": "ukraine-strike-in-russia-on-26-november-2025",
@@ -97,7 +85,7 @@
       "lastTradePrice": 0.999,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 8
+      "rank": 7
     },
     {
       "slug": "will-ukraine-qualify-for-the-2026-fifa-world-cup",
@@ -109,7 +97,7 @@
       "lastTradePrice": 0.29,
       "endDate": "2026-04-12T00:00:00Z",
       "market_type": "general",
-      "rank": 9
+      "rank": 8
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-january-31",
@@ -121,67 +109,67 @@
       "lastTradePrice": 0.42,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
-      "rank": 10
+      "rank": 9
     },
     {
       "slug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
       "eventSlug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
       "question": "Will Ukraine agree to cede territory to Russia before 2027?",
       "volume24hr": 22583.27,
-      "volumeNum": 222646.06,
+      "volumeNum": 222661.68,
       "currentPrice": 0.315,
       "lastTradePrice": 0.32,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 11
+      "rank": 10
     },
     {
       "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
       "eventSlug": "nobel-peace-prize-winner-2026-139",
       "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
       "volume24hr": 21608.79,
-      "volumeNum": 1205764.1,
+      "volumeNum": 1212313.27,
       "currentPrice": 0.135,
       "lastTradePrice": 0.14,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 12
+      "rank": 11
     },
     {
       "slug": "will-russia-announce-a-christmas-truce",
       "eventSlug": "will-russia-announce-a-christmas-truce",
       "question": "Will Russia announce a Christmas truce?",
       "volume24hr": 20426.09,
-      "volumeNum": 273956.6,
+      "volumeNum": 275097.24,
       "currentPrice": 0.075,
-      "lastTradePrice": 0.09,
+      "lastTradePrice": 0.07,
       "endDate": "2026-01-07T00:00:00Z",
       "market_type": "peace",
-      "rank": 13
+      "rank": 12
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-march-31",
       "eventSlug": "ukraine-signs-peace-deal-with-russia-by-march-31",
       "question": "Ukraine signs peace deal with Russia by March 31?",
       "volume24hr": 20230.47,
-      "volumeNum": 131965.47,
-      "currentPrice": 0.225,
+      "volumeNum": 133737.97,
+      "currentPrice": 0.215,
       "lastTradePrice": 0.24,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 14
+      "rank": 13
     },
     {
       "slug": "will-russia-capture-rodynske-by-january-31",
       "eventSlug": "will-russia-capture-rodynske-by-september-15",
       "question": "Will Russia capture Rodynske by January 31?",
       "volume24hr": 16521.72,
-      "volumeNum": 109143.81,
+      "volumeNum": 109179.43,
       "currentPrice": 0.28,
       "lastTradePrice": 0.27,
       "endDate": "2025-12-31T22:00:00Z",
       "market_type": "territorial",
-      "rank": 15
+      "rank": 14
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-march-31-2026",
@@ -193,31 +181,31 @@
       "lastTradePrice": 0.068,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
-      "rank": 16
+      "rank": 15
     },
     {
       "slug": "putin-out-as-president-of-russia-by-june-30",
       "eventSlug": "putin-out-as-president-of-russia-by-june-30",
       "question": "Putin out as President of Russia by June 30?",
       "volume24hr": 13628.09,
-      "volumeNum": 120698.1,
-      "currentPrice": 0.0535,
+      "volumeNum": 124161.27,
+      "currentPrice": 0.0525,
       "lastTradePrice": 0.054,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 17
+      "rank": 16
     },
     {
       "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 15?",
       "volume24hr": 12856.71,
-      "volumeNum": 532176.02,
+      "volumeNum": 532246.48,
       "currentPrice": 0.21,
-      "lastTradePrice": 0.22,
+      "lastTradePrice": 0.2,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 18
+      "rank": 17
     },
     {
       "slug": "will-russia-invade-a-nato-country-by-june-30-2026",
@@ -225,11 +213,11 @@
       "question": "Will Russia invade a NATO country by June 30, 2026?",
       "volume24hr": 12183.09,
       "volumeNum": 261540.33,
-      "currentPrice": 0.05,
+      "currentPrice": 0.045,
       "lastTradePrice": 0.06,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "diplomatic",
-      "rank": 19
+      "rank": 18
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
@@ -241,19 +229,19 @@
       "lastTradePrice": 0.67,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 20
+      "rank": 19
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-before-2027",
       "eventSlug": "zelenskyy-out-as-ukraine-president-before-2027",
       "question": "Zelenskyy out as Ukraine president by end of 2026?",
       "volume24hr": 11099.04,
-      "volumeNum": 1160551.07,
+      "volumeNum": 1160576.05,
       "currentPrice": 0.325,
-      "lastTradePrice": 0.32,
+      "lastTradePrice": 0.33,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 21
+      "rank": 20
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-june-30-933-897",
@@ -265,7 +253,7 @@
       "lastTradePrice": 0.47,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 22
+      "rank": 21
     },
     {
       "slug": "nuclear-weapon-detonation-by-december-31",
@@ -277,79 +265,79 @@
       "lastTradePrice": 0.1,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "aid",
-      "rank": 23
+      "rank": 22
     },
     {
       "slug": "will-russia-enter-sloviansk-by-june-30",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Sloviansk by June 30?",
       "volume24hr": 9689.98,
-      "volumeNum": 52748.37,
-      "currentPrice": 0.305,
+      "volumeNum": 52836.51,
+      "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 24
+      "rank": 23
     },
     {
       "slug": "ukraine-hits-moscow-by-january-15",
       "eventSlug": "ukraine-hits-moscow-by-september-30",
       "question": "Ukraine hits Moscow by January 15?",
       "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
+      "volumeNum": 48350.11,
       "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
+      "lastTradePrice": 0.05,
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
-      "rank": 25
+      "rank": 24
     },
     {
       "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 17, 2026?",
       "volume24hr": 9161.7,
-      "volumeNum": 16918.43,
-      "currentPrice": 0.9835,
-      "lastTradePrice": 0.986,
+      "volumeNum": 17001.82,
+      "currentPrice": 0.9285,
+      "lastTradePrice": 0.933,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "rank": 26
+      "rank": 25
     },
     {
       "slug": "will-russia-enter-kramatorsk-by-june-30-821-192",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Kramatorsk by June 30?",
       "volume24hr": 8598.84,
-      "volumeNum": 35896.53,
+      "volumeNum": 35924.7,
       "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 27
+      "rank": 26
     },
     {
       "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-january-31",
       "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
       "question": "Ukraine officially agrees to a US backed ceasefire framework by January 31?",
       "volume24hr": 8464.45,
-      "volumeNum": 157409.21,
+      "volumeNum": 157489.21,
       "currentPrice": 0.14,
-      "lastTradePrice": 0.13,
+      "lastTradePrice": 0.15,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 28
+      "rank": 27
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-march-31-872-578",
       "eventSlug": "will-russia-capture-kostyantynivka-by",
       "question": "Will Russia capture Kostyantynivka by March 31?",
       "volume24hr": 8119.47,
-      "volumeNum": 200205.59,
-      "currentPrice": 0.865,
+      "volumeNum": 200872.25,
+      "currentPrice": 0.86,
       "lastTradePrice": 0.86,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
-      "rank": 29
+      "rank": 28
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-february-28",
@@ -361,7 +349,7 @@
       "lastTradePrice": 0.69,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
-      "rank": 30
+      "rank": 29
     },
     {
       "slug": "nato-x-russia-military-clash-by-march-31-2026",
@@ -373,7 +361,7 @@
       "lastTradePrice": 0.07,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "diplomatic",
-      "rank": 31
+      "rank": 30
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
@@ -381,11 +369,11 @@
       "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
       "volume24hr": 5451.87,
       "volumeNum": 57359.58,
-      "currentPrice": 0.335,
+      "currentPrice": 0.33,
       "lastTradePrice": 0.38,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 32
+      "rank": 31
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-january-31",
@@ -393,11 +381,11 @@
       "question": "Ukraine signs peace deal with Russia by January 31?",
       "volume24hr": 5299.58,
       "volumeNum": 30952.57,
-      "currentPrice": 0.0435,
+      "currentPrice": 0.043,
       "lastTradePrice": 0.042,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 33
+      "rank": 32
     },
     {
       "slug": "will-russia-enter-sumy-by-june-30-893-434",
@@ -409,19 +397,19 @@
       "lastTradePrice": 0.14,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 34
+      "rank": 33
     },
     {
       "slug": "nuclear-weapon-detonation-by-march-31",
       "eventSlug": "nuclear-weapon-detonation-by-562",
       "question": "Nuclear weapon detonation by March 31?",
       "volume24hr": 3743.16,
-      "volumeNum": 13491.49,
+      "volumeNum": 13548.9,
       "currentPrice": 0.0485,
       "lastTradePrice": 0.044,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "aid",
-      "rank": 35
+      "rank": 34
     },
     {
       "slug": "will-russia-enter-dopropillia-by-june-30-122-495",
@@ -433,55 +421,55 @@
       "lastTradePrice": 0.65,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 36
+      "rank": 35
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 15?",
       "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
+      "volumeNum": 62300.27,
+      "currentPrice": 0.055,
       "lastTradePrice": 0.07,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 37
+      "rank": 36
     },
     {
       "slug": "will-russia-enter-zaliznychne-by-january-31",
       "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
       "question": "Will Russia enter Zaliznychne by January 31?",
       "volume24hr": 3284.71,
-      "volumeNum": 54265.38,
-      "currentPrice": 0.445,
+      "volumeNum": 54274.15,
+      "currentPrice": 0.44,
       "lastTradePrice": 0.43,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 38
+      "rank": 37
     },
     {
       "slug": "russia-x-ukraine-peace-parlay",
       "eventSlug": "russia-x-ukraine-peace-parlay",
       "question": "Russia x Ukraine Peace Parlay",
       "volume24hr": 3068.15,
-      "volumeNum": 152751.31,
+      "volumeNum": 152828.23,
       "currentPrice": 0.25,
-      "lastTradePrice": 0.24,
+      "lastTradePrice": 0.26,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 39
+      "rank": 38
     },
     {
       "slug": "will-russia-capture-lyman-by-january-31-2026",
       "eventSlug": "will-russia-capture-lyman-in-2025",
       "question": "Will Russia capture Lyman by January 31, 2026?",
       "volume24hr": 2811.29,
-      "volumeNum": 26816.02,
-      "currentPrice": 0.17,
-      "lastTradePrice": 0.18,
+      "volumeNum": 26826.02,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
-      "rank": 40
+      "rank": 39
     },
     {
       "slug": "ukraine-agrees-not-to-join-nato-before-2027",
@@ -493,7 +481,7 @@
       "lastTradePrice": 0.3,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "diplomatic",
-      "rank": 41
+      "rank": 40
     },
     {
       "slug": "will-zelenskyy-talk-to-putin-by-january-31",
@@ -505,7 +493,7 @@
       "lastTradePrice": 0.039,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 42
+      "rank": 41
     },
     {
       "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31",
@@ -517,7 +505,7 @@
       "lastTradePrice": 0.33,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 43
+      "rank": 42
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-december-31-2026-936-942",
@@ -529,19 +517,19 @@
       "lastTradePrice": 0.94,
       "endDate": "2026-12-31T12:00:00Z",
       "market_type": "territorial",
-      "rank": 44
+      "rank": 43
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-31",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 31?",
       "volume24hr": 2058.0,
-      "volumeNum": 41502.55,
-      "currentPrice": 0.285,
+      "volumeNum": 41529.95,
+      "currentPrice": 0.28,
       "lastTradePrice": 0.3,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 45
+      "rank": 44
     },
     {
       "slug": "will-russia-test-a-nuclear-weapon-by-march-31-2026",
@@ -553,7 +541,7 @@
       "lastTradePrice": 0.049,
       "endDate": null,
       "market_type": "aid",
-      "rank": 46
+      "rank": 45
     },
     {
       "slug": "will-russia-capture-sumy-by-march-31-2027",
@@ -565,7 +553,7 @@
       "lastTradePrice": 0.22,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 47
+      "rank": 46
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-31-2026",
@@ -577,19 +565,19 @@
       "lastTradePrice": 0.081,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 48
+      "rank": 47
     },
     {
       "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "eventSlug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "question": "Ukraine agrees to limit size of armed forces before 2027?",
       "volume24hr": 1279.4,
-      "volumeNum": 49959.83,
-      "currentPrice": 0.445,
+      "volumeNum": 50011.12,
+      "currentPrice": 0.42,
       "lastTradePrice": 0.4,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 49
+      "rank": 48
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-january-31",
@@ -597,11 +585,11 @@
       "question": "Will Russia enter Druzkhivka by January 31?",
       "volume24hr": 1269.62,
       "volumeNum": 15855.37,
-      "currentPrice": 0.064,
+      "currentPrice": 0.0645,
       "lastTradePrice": 0.06,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 50
+      "rank": 49
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-ukraine",
@@ -609,11 +597,11 @@
       "question": "Will Zelenskyy and Putin meet next in Ukraine before 2027?",
       "volume24hr": 1242.91,
       "volumeNum": 28477.72,
-      "currentPrice": 0.027,
+      "currentPrice": 0.0255,
       "lastTradePrice": 0.011,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 51
+      "rank": 50
     },
     {
       "slug": "european-country-agrees-to-give-ukraine-security-guarantee-by-june-30",
@@ -625,7 +613,7 @@
       "lastTradePrice": 0.14,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "diplomatic",
-      "rank": 52
+      "rank": 51
     },
     {
       "slug": "us-x-russia-nuclear-deal-by-february-4",
@@ -637,7 +625,7 @@
       "lastTradePrice": 0.22,
       "endDate": "2026-02-04T00:00:00Z",
       "market_type": "general",
-      "rank": 53
+      "rank": 52
     },
     {
       "slug": "will-russia-enter-toretske-by-january-31",
@@ -649,7 +637,7 @@
       "lastTradePrice": 0.21,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 54
+      "rank": 53
     },
     {
       "slug": "will-russia-enter-orikhiv-by-march-31",
@@ -661,7 +649,7 @@
       "lastTradePrice": 0.62,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 55
+      "rank": 54
     },
     {
       "slug": "will-russia-capture-all-of-kupiansk-by-march-31",
@@ -673,7 +661,7 @@
       "lastTradePrice": 0.13,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 56
+      "rank": 55
     },
     {
       "slug": "will-russia-enter-toretske-by-january-15",
@@ -685,19 +673,19 @@
       "lastTradePrice": 0.07,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 57
+      "rank": 56
     },
     {
       "slug": "will-zelenskyy-and-putin-not-meet",
       "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
       "question": "Will Zelenskyy and Putin not meet before 2027?",
       "volume24hr": 984.84,
-      "volumeNum": 24925.82,
-      "currentPrice": 0.785,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
       "lastTradePrice": 0.8,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 58
+      "rank": 57
     },
     {
       "slug": "ukraine-election-called-by-march-31-2026",
@@ -709,7 +697,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
-      "rank": 59
+      "rank": 58
     },
     {
       "slug": "eunato-country-announces-peacekeeping-force-in-ukraine-before-2027",
@@ -721,7 +709,7 @@
       "lastTradePrice": 0.08,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 60
+      "rank": 59
     },
     {
       "slug": "will-russia-capture-lyman-by-march-31-2026",
@@ -733,7 +721,7 @@
       "lastTradePrice": 0.73,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
-      "rank": 61
+      "rank": 60
     },
     {
       "slug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
@@ -745,7 +733,7 @@
       "lastTradePrice": 0.034,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 62
+      "rank": 61
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-january-31-2026",
@@ -757,7 +745,7 @@
       "lastTradePrice": 0.15,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 63
+      "rank": 62
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-march-31-2026-627",
@@ -769,7 +757,7 @@
       "lastTradePrice": 0.75,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 64
+      "rank": 63
     },
     {
       "slug": "nuclear-weapon-detonation-by-june-30-299",
@@ -781,7 +769,7 @@
       "lastTradePrice": 0.07,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "aid",
-      "rank": 65
+      "rank": 64
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344",
@@ -793,7 +781,7 @@
       "lastTradePrice": 0.007,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 66
+      "rank": 65
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-before-2027",
@@ -805,7 +793,7 @@
       "lastTradePrice": 0.55,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 67
+      "rank": 66
     },
     {
       "slug": "will-russia-enter-orikhiv-by-january-31",
@@ -817,7 +805,7 @@
       "lastTradePrice": 0.14,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 68
+      "rank": 67
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
@@ -829,7 +817,7 @@
       "lastTradePrice": 0.029,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 69
+      "rank": 68
     },
     {
       "slug": "ukraine-strikes-another-tanker-in-black-sea-by-january-15-2026",
@@ -841,7 +829,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
-      "rank": 70
+      "rank": 69
     },
     {
       "slug": "will-trump-meet-with-putin-by-march-31",
@@ -853,7 +841,7 @@
       "lastTradePrice": 0.22,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
-      "rank": 71
+      "rank": 70
     },
     {
       "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
@@ -861,11 +849,11 @@
       "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
       "volume24hr": 520.43,
       "volumeNum": 45335.57,
-      "currentPrice": 0.32,
+      "currentPrice": 0.35,
       "lastTradePrice": 0.33,
       "endDate": "2026-01-22T00:00:00Z",
       "market_type": "political",
-      "rank": 72
+      "rank": 71
     },
     {
       "slug": "trump-putin-and-zelensky-seen-together-before-2027",
@@ -877,7 +865,7 @@
       "lastTradePrice": 0.24,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 73
+      "rank": 72
     },
     {
       "slug": "will-russia-capture-all-of-kupiansk-by-january-31",
@@ -885,11 +873,11 @@
       "question": "Will Russia capture all of Kupiansk by January 31?",
       "volume24hr": 495.56,
       "volumeNum": 27348.52,
-      "currentPrice": 0.0165,
+      "currentPrice": 0.016,
       "lastTradePrice": 0.02,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 74
+      "rank": 73
     },
     {
       "slug": "will-trump-send-tomahawk-to-ukraine-by-march-31",
@@ -901,7 +889,7 @@
       "lastTradePrice": 0.06,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "general",
-      "rank": 75
+      "rank": 74
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-15-2026",
@@ -913,7 +901,7 @@
       "lastTradePrice": 0.013,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 76
+      "rank": 75
     },
     {
       "slug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
@@ -925,7 +913,7 @@
       "lastTradePrice": 0.075,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
-      "rank": 77
+      "rank": 76
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-saudi-arabia",
@@ -937,7 +925,7 @@
       "lastTradePrice": 0.01,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 78
+      "rank": 77
     },
     {
       "slug": "will-charlie-kirk-win-the-nobel-peace-prize-in-2026",
@@ -949,7 +937,7 @@
       "lastTradePrice": 0.027,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 79
+      "rank": 78
     },
     {
       "slug": "will-russia-enter-zaporizhia-by-june-30-845",
@@ -961,7 +949,7 @@
       "lastTradePrice": 0.21,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 80
+      "rank": 79
     },
     {
       "slug": "will-ukraine-agree-to-give-up-the-rest-of-donbas-before-2027",
@@ -973,19 +961,19 @@
       "lastTradePrice": 0.2,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 81
+      "rank": 80
     },
     {
       "slug": "will-putin-meet-with-zelenskyy-by-june-30-2026",
       "eventSlug": "will-putin-meet-with-zelenskyy-by-june-30-2026",
       "question": "Will Putin meet with Zelenskyy by June 30, 2026?",
       "volume24hr": 306.88,
-      "volumeNum": 61086.2,
+      "volumeNum": 61177.86,
       "currentPrice": 0.12,
       "lastTradePrice": 0.11,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 82
+      "rank": 81
     },
     {
       "slug": "will-russia-capture-slovainsk-by-2027",
@@ -997,7 +985,7 @@
       "lastTradePrice": 0.16,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 83
+      "rank": 82
     },
     {
       "slug": "ukraine-recognizes-russian-sovereignty-over-its-territory-by-june-30-2026",
@@ -1009,7 +997,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "general",
-      "rank": 84
+      "rank": 83
     },
     {
       "slug": "ukraine-coup-attempt-by-june-30",
@@ -1021,7 +1009,7 @@
       "lastTradePrice": 0.09,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "general",
-      "rank": 85
+      "rank": 84
     },
     {
       "slug": "will-trump-and-putin-not-meet-315-857-437-514",
@@ -1033,7 +1021,7 @@
       "lastTradePrice": 0.519,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 86
+      "rank": 85
     },
     {
       "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
@@ -1045,7 +1033,7 @@
       "lastTradePrice": 0.61,
       "endDate": "2026-07-31T12:00:00Z",
       "market_type": "peace",
-      "rank": 87
+      "rank": 86
     },
     {
       "slug": "ukraine-election-held-by-june-30-2026-465-757",
@@ -1057,7 +1045,7 @@
       "lastTradePrice": 0.22,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
-      "rank": 88
+      "rank": 87
     },
     {
       "slug": "will-russia-enter-vozdvyzhivka-by-january-31",
@@ -1069,31 +1057,31 @@
       "lastTradePrice": 0.13,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 89
+      "rank": 88
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
       "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
       "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
       "volume24hr": 226.14,
-      "volumeNum": 8904.63,
-      "currentPrice": 0.0305,
-      "lastTradePrice": 0.022,
+      "volumeNum": 9032.46,
+      "currentPrice": 0.065,
+      "lastTradePrice": 0.039,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 90
+      "rank": 89
     },
     {
       "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
       "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
       "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
       "volume24hr": 223.54,
-      "volumeNum": 27080.77,
-      "currentPrice": 0.19,
-      "lastTradePrice": 0.19,
+      "volumeNum": 28140.01,
+      "currentPrice": 0.195,
+      "lastTradePrice": 0.21,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 91
+      "rank": 90
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-ukraine-328-474",
@@ -1105,7 +1093,7 @@
       "lastTradePrice": 0.003,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 92
+      "rank": 91
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-italy-vatican",
@@ -1117,7 +1105,7 @@
       "lastTradePrice": 0.005,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 93
+      "rank": 92
     },
     {
       "slug": "will-russia-enter-dobropillia-by-january-31",
@@ -1129,7 +1117,7 @@
       "lastTradePrice": 0.057,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 94
+      "rank": 93
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
@@ -1141,7 +1129,7 @@
       "lastTradePrice": 0.31,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "peace",
-      "rank": 95
+      "rank": 94
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
@@ -1149,11 +1137,11 @@
       "question": "Will Trump and Putin meet next in another EU country?",
       "volume24hr": 192.31,
       "volumeNum": 36716.31,
-      "currentPrice": 0.2845,
+      "currentPrice": 0.2875,
       "lastTradePrice": 0.313,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 96
+      "rank": 95
     },
     {
       "slug": "will-russia-capture-all-of-vovchansk-by-march-31",
@@ -1165,7 +1153,7 @@
       "lastTradePrice": 0.52,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 97
+      "rank": 96
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
@@ -1173,11 +1161,11 @@
       "question": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
       "volume24hr": 187.36,
       "volumeNum": 30980.97,
-      "currentPrice": 0.0505,
+      "currentPrice": 0.0485,
       "lastTradePrice": 0.037,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 98
+      "rank": 97
     },
     {
       "slug": "will-russia-enter-borova-by-march-31",
@@ -1189,7 +1177,7 @@
       "lastTradePrice": 0.51,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 99
+      "rank": 98
     },
     {
       "slug": "ukraine-election-called-by-june-30-2026-392",
@@ -1201,6 +1189,18 @@
       "lastTradePrice": 0.28,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
+      "rank": 99
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in another country?",
+      "volume24hr": 169.5,
+      "volumeNum": 12195.29,
+      "currentPrice": 0.036,
+      "lastTradePrice": 0.067,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
       "rank": 100
     }
   ],
@@ -1210,9 +1210,9 @@
       "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
       "question": "Russia x Ukraine ceasefire by January 31, 2026?",
       "volume24hr": 539391.12,
-      "volumeNum": 7344984.13,
-      "currentPrice": 0.0375,
-      "lastTradePrice": 0.038,
+      "volumeNum": 7351364.38,
+      "currentPrice": 0.037,
+      "lastTradePrice": 0.037,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "rank": 1
@@ -1222,7 +1222,7 @@
       "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
       "question": "Russia x Ukraine ceasefire by March 31, 2026?",
       "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
+      "volumeNum": 7328526.26,
       "currentPrice": 0.165,
       "lastTradePrice": 0.16,
       "endDate": "2026-03-31T00:00:00Z",
@@ -1234,7 +1234,7 @@
       "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
       "question": "Russia x Ukraine ceasefire by end of 2026?",
       "volume24hr": 153695.24,
-      "volumeNum": 5737092.24,
+      "volumeNum": 5737707.86,
       "currentPrice": 0.445,
       "lastTradePrice": 0.45,
       "endDate": "2026-12-31T00:00:00Z",
@@ -1246,7 +1246,7 @@
       "eventSlug": "putin-out-before-2027",
       "question": "Putin out as President of Russia by end of 2026?",
       "volume24hr": 41014.71,
-      "volumeNum": 1277734.47,
+      "volumeNum": 1277755.36,
       "currentPrice": 0.095,
       "lastTradePrice": 0.1,
       "endDate": "2026-12-31T18:30:00Z",
@@ -1258,7 +1258,7 @@
       "eventSlug": "nobel-peace-prize-winner-2026-139",
       "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
       "volume24hr": 21608.79,
-      "volumeNum": 1205764.1,
+      "volumeNum": 1212313.27,
       "currentPrice": 0.135,
       "lastTradePrice": 0.14,
       "endDate": "2026-10-10T00:00:00Z",
@@ -1270,9 +1270,9 @@
       "eventSlug": "zelenskyy-out-as-ukraine-president-before-2027",
       "question": "Zelenskyy out as Ukraine president by end of 2026?",
       "volume24hr": 11099.04,
-      "volumeNum": 1160551.07,
+      "volumeNum": 1160576.05,
       "currentPrice": 0.325,
-      "lastTradePrice": 0.32,
+      "lastTradePrice": 0.33,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "rank": 6
@@ -1282,9 +1282,9 @@
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 15?",
       "volume24hr": 12856.71,
-      "volumeNum": 532176.02,
+      "volumeNum": 532246.48,
       "currentPrice": 0.21,
-      "lastTradePrice": 0.22,
+      "lastTradePrice": 0.2,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "rank": 7
@@ -1318,8 +1318,8 @@
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 31?",
       "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
       "lastTradePrice": 0.56,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
@@ -1330,9 +1330,9 @@
       "eventSlug": "will-russia-announce-a-christmas-truce",
       "question": "Will Russia announce a Christmas truce?",
       "volume24hr": 20426.09,
-      "volumeNum": 273956.6,
+      "volumeNum": 275097.24,
       "currentPrice": 0.075,
-      "lastTradePrice": 0.09,
+      "lastTradePrice": 0.07,
       "endDate": "2026-01-07T00:00:00Z",
       "market_type": "peace",
       "rank": 11
@@ -1343,7 +1343,7 @@
       "question": "Will Russia invade a NATO country by June 30, 2026?",
       "volume24hr": 12183.09,
       "volumeNum": 261540.33,
-      "currentPrice": 0.05,
+      "currentPrice": 0.045,
       "lastTradePrice": 0.06,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "diplomatic",
@@ -1366,7 +1366,7 @@
       "eventSlug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
       "question": "Will Ukraine agree to cede territory to Russia before 2027?",
       "volume24hr": 22583.27,
-      "volumeNum": 222646.06,
+      "volumeNum": 222661.68,
       "currentPrice": 0.315,
       "lastTradePrice": 0.32,
       "endDate": "2026-12-31T00:00:00Z",
@@ -1390,8 +1390,8 @@
       "eventSlug": "will-russia-capture-kostyantynivka-by",
       "question": "Will Russia capture Kostyantynivka by March 31?",
       "volume24hr": 8119.47,
-      "volumeNum": 200205.59,
-      "currentPrice": 0.865,
+      "volumeNum": 200872.25,
+      "currentPrice": 0.86,
       "lastTradePrice": 0.86,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
@@ -1426,9 +1426,9 @@
       "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
       "question": "Ukraine officially agrees to a US backed ceasefire framework by January 31?",
       "volume24hr": 8464.45,
-      "volumeNum": 157409.21,
+      "volumeNum": 157489.21,
       "currentPrice": 0.14,
-      "lastTradePrice": 0.13,
+      "lastTradePrice": 0.15,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "rank": 19
@@ -1438,9 +1438,9 @@
       "eventSlug": "russia-x-ukraine-peace-parlay",
       "question": "Russia x Ukraine Peace Parlay",
       "volume24hr": 3068.15,
-      "volumeNum": 152751.31,
+      "volumeNum": 152828.23,
       "currentPrice": 0.25,
-      "lastTradePrice": 0.24,
+      "lastTradePrice": 0.26,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "rank": 20
@@ -1486,8 +1486,8 @@
       "eventSlug": "ukraine-signs-peace-deal-with-russia-by-march-31",
       "question": "Ukraine signs peace deal with Russia by March 31?",
       "volume24hr": 20230.47,
-      "volumeNum": 131965.47,
-      "currentPrice": 0.225,
+      "volumeNum": 133737.97,
+      "currentPrice": 0.215,
       "lastTradePrice": 0.24,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
@@ -1522,8 +1522,8 @@
       "eventSlug": "putin-out-as-president-of-russia-by-june-30",
       "question": "Putin out as President of Russia by June 30?",
       "volume24hr": 13628.09,
-      "volumeNum": 120698.1,
-      "currentPrice": 0.0535,
+      "volumeNum": 124161.27,
+      "currentPrice": 0.0525,
       "lastTradePrice": 0.054,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
@@ -1546,7 +1546,7 @@
       "eventSlug": "will-russia-capture-rodynske-by-september-15",
       "question": "Will Russia capture Rodynske by January 31?",
       "volume24hr": 16521.72,
-      "volumeNum": 109143.81,
+      "volumeNum": 109179.43,
       "currentPrice": 0.28,
       "lastTradePrice": 0.27,
       "endDate": "2025-12-31T22:00:00Z",
@@ -1614,18 +1614,6 @@
       "rank": 34
     },
     {
-      "slug": "khl-hcs-hcd-2026-01-05",
-      "eventSlug": "khl-hcs-hcd-2026-01-05",
-      "question": "KHL: HC Sochi vs. HC Dynamo Moscow",
-      "volume24hr": 71094.55,
-      "volumeNum": 71874.65,
-      "currentPrice": 0.9995,
-      "lastTradePrice": 0.999,
-      "endDate": "2026-01-05T14:00:00Z",
-      "market_type": "general",
-      "rank": 35
-    },
-    {
       "slug": "ukraine-recognizes-russian-sovereignty-over-its-territory-by-june-30-2026",
       "eventSlug": "ukraine-recognizes-russian-sovereignty-over-ukrainian-territory-in-2025",
       "question": "Ukraine recognizes Russian sovereignty over its territory by June 30, 2026?",
@@ -1635,7 +1623,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "general",
-      "rank": 36
+      "rank": 35
     },
     {
       "slug": "nuclear-weapon-detonation-by-june-30-299",
@@ -1647,7 +1635,7 @@
       "lastTradePrice": 0.07,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "aid",
-      "rank": 37
+      "rank": 36
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-february-28",
@@ -1659,7 +1647,7 @@
       "lastTradePrice": 0.69,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
-      "rank": 38
+      "rank": 37
     },
     {
       "slug": "will-julian-assange-win-the-nobel-peace-prize-in-2026-899",
@@ -1671,31 +1659,31 @@
       "lastTradePrice": 0.015,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 39
+      "rank": 38
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 15?",
       "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
+      "volumeNum": 62300.27,
+      "currentPrice": 0.055,
       "lastTradePrice": 0.07,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 40
+      "rank": 39
     },
     {
       "slug": "will-putin-meet-with-zelenskyy-by-june-30-2026",
       "eventSlug": "will-putin-meet-with-zelenskyy-by-june-30-2026",
       "question": "Will Putin meet with Zelenskyy by June 30, 2026?",
       "volume24hr": 306.88,
-      "volumeNum": 61086.2,
+      "volumeNum": 61177.86,
       "currentPrice": 0.12,
       "lastTradePrice": 0.11,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 41
+      "rank": 40
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
@@ -1707,7 +1695,7 @@
       "lastTradePrice": 0.67,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 42
+      "rank": 41
     },
     {
       "slug": "will-volodymyr-zelensky-win-the-nobel-peace-prize-in-2026-637",
@@ -1719,7 +1707,7 @@
       "lastTradePrice": 0.038,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 43
+      "rank": 42
     },
     {
       "slug": "will-benjamin-netanyahu-win-the-nobel-peace-prize-in-2026",
@@ -1731,7 +1719,7 @@
       "lastTradePrice": 0.018,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 44
+      "rank": 43
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-belarus-572",
@@ -1743,7 +1731,7 @@
       "lastTradePrice": 0.006,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 45
+      "rank": 44
     },
     {
       "slug": "will-trump-meet-with-putin-by-march-31",
@@ -1755,7 +1743,7 @@
       "lastTradePrice": 0.22,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
-      "rank": 46
+      "rank": 45
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-china-586-328",
@@ -1763,11 +1751,11 @@
       "question": "Will Trump and Putin meet next in China?",
       "volume24hr": 74.06,
       "volumeNum": 57787.77,
-      "currentPrice": 0.0245,
+      "currentPrice": 0.0235,
       "lastTradePrice": 0.046,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 47
+      "rank": 46
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
@@ -1775,23 +1763,23 @@
       "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
       "volume24hr": 5451.87,
       "volumeNum": 57359.58,
-      "currentPrice": 0.335,
+      "currentPrice": 0.33,
       "lastTradePrice": 0.38,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 48
+      "rank": 47
     },
     {
       "slug": "will-russia-enter-zaliznychne-by-january-31",
       "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
       "question": "Will Russia enter Zaliznychne by January 31?",
       "volume24hr": 3284.71,
-      "volumeNum": 54265.38,
-      "currentPrice": 0.445,
+      "volumeNum": 54274.15,
+      "currentPrice": 0.44,
       "lastTradePrice": 0.43,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 49
+      "rank": 48
     },
     {
       "slug": "will-the-us-test-a-nuclear-weapon-by-march-31-2026",
@@ -1803,43 +1791,43 @@
       "lastTradePrice": 0.023,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "aid",
-      "rank": 50
+      "rank": 49
     },
     {
       "slug": "will-russia-enter-sloviansk-by-june-30",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Sloviansk by June 30?",
       "volume24hr": 9689.98,
-      "volumeNum": 52748.37,
-      "currentPrice": 0.305,
+      "volumeNum": 52836.51,
+      "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 51
+      "rank": 50
     },
     {
       "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 10, 2026?",
       "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
       "lastTradePrice": 0.928,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "rank": 52
+      "rank": 51
     },
     {
       "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "eventSlug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "question": "Ukraine agrees to limit size of armed forces before 2027?",
       "volume24hr": 1279.4,
-      "volumeNum": 49959.83,
-      "currentPrice": 0.445,
+      "volumeNum": 50011.12,
+      "currentPrice": 0.42,
       "lastTradePrice": 0.4,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "rank": 53
+      "rank": 52
     },
     {
       "slug": "will-vladimir-putin-win-the-nobel-peace-prize-in-2026-126",
@@ -1851,19 +1839,19 @@
       "lastTradePrice": 0.009,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "rank": 54
+      "rank": 53
     },
     {
       "slug": "ukraine-hits-moscow-by-january-15",
       "eventSlug": "ukraine-hits-moscow-by-september-30",
       "question": "Ukraine hits Moscow by January 15?",
       "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
+      "volumeNum": 48350.11,
       "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
+      "lastTradePrice": 0.05,
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
-      "rank": 55
+      "rank": 54
     },
     {
       "slug": "ukraine-election-called-by-march-31-2026",
@@ -1875,7 +1863,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
-      "rank": 56
+      "rank": 55
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-australia-459-332-211",
@@ -1887,7 +1875,7 @@
       "lastTradePrice": 0.001,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 57
+      "rank": 56
     },
     {
       "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
@@ -1895,11 +1883,11 @@
       "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
       "volume24hr": 520.43,
       "volumeNum": 45335.57,
-      "currentPrice": 0.32,
+      "currentPrice": 0.35,
       "lastTradePrice": 0.33,
       "endDate": "2026-01-22T00:00:00Z",
       "market_type": "political",
-      "rank": 58
+      "rank": 57
     },
     {
       "slug": "ukraine-election-called-by-june-30-2026-392",
@@ -1911,19 +1899,19 @@
       "lastTradePrice": 0.28,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
-      "rank": 59
+      "rank": 58
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-31",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 31?",
       "volume24hr": 2058.0,
-      "volumeNum": 41502.55,
-      "currentPrice": 0.285,
+      "volumeNum": 41529.95,
+      "currentPrice": 0.28,
       "lastTradePrice": 0.3,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 60
+      "rank": 59
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-before-2027",
@@ -1935,7 +1923,7 @@
       "lastTradePrice": 0.55,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 61
+      "rank": 60
     },
     {
       "slug": "will-russia-enter-sumy-by-june-30-893-434",
@@ -1947,7 +1935,7 @@
       "lastTradePrice": 0.14,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 62
+      "rank": 61
     },
     {
       "slug": "will-ukraine-qualify-for-the-2026-fifa-world-cup",
@@ -1959,7 +1947,7 @@
       "lastTradePrice": 0.29,
       "endDate": "2026-04-12T00:00:00Z",
       "market_type": "general",
-      "rank": 63
+      "rank": 62
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
@@ -1967,11 +1955,11 @@
       "question": "Will Trump and Putin meet next in another EU country?",
       "volume24hr": 192.31,
       "volumeNum": 36716.31,
-      "currentPrice": 0.2845,
+      "currentPrice": 0.2875,
       "lastTradePrice": 0.313,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 64
+      "rank": 63
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-31-2026",
@@ -1983,19 +1971,19 @@
       "lastTradePrice": 0.081,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 65
+      "rank": 64
     },
     {
       "slug": "will-russia-enter-kramatorsk-by-june-30-821-192",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Kramatorsk by June 30?",
       "volume24hr": 8598.84,
-      "volumeNum": 35896.53,
+      "volumeNum": 35924.7,
       "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 66
+      "rank": 65
     },
     {
       "slug": "eunato-country-announces-peacekeeping-force-in-ukraine-before-2027",
@@ -2007,7 +1995,7 @@
       "lastTradePrice": 0.08,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 67
+      "rank": 66
     },
     {
       "slug": "european-country-agrees-to-give-ukraine-security-guarantee-by-june-30",
@@ -2019,7 +2007,7 @@
       "lastTradePrice": 0.14,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "diplomatic",
-      "rank": 68
+      "rank": 67
     },
     {
       "slug": "will-russia-enter-orikhiv-by-march-31",
@@ -2031,19 +2019,19 @@
       "lastTradePrice": 0.62,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 69
+      "rank": 68
     },
     {
       "slug": "natoeu-troops-fighting-in-ukraine-in-june-30-2026",
       "eventSlug": "natoeu-troops-fighting-in-ukraine-in-2025",
       "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
       "volume24hr": 105.49,
-      "volumeNum": 33573.31,
+      "volumeNum": 33582.76,
       "currentPrice": 0.0535,
       "lastTradePrice": 0.062,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "diplomatic",
-      "rank": 70
+      "rank": 69
     },
     {
       "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31",
@@ -2055,7 +2043,7 @@
       "lastTradePrice": 0.33,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 71
+      "rank": 70
     },
     {
       "slug": "will-russia-enter-dobropillia-by-january-31",
@@ -2067,7 +2055,7 @@
       "lastTradePrice": 0.057,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 72
+      "rank": 71
     },
     {
       "slug": "will-russia-enter-borova-by-march-31",
@@ -2079,7 +2067,7 @@
       "lastTradePrice": 0.51,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 73
+      "rank": 72
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
@@ -2087,11 +2075,11 @@
       "question": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
       "volume24hr": 187.36,
       "volumeNum": 30980.97,
-      "currentPrice": 0.0505,
+      "currentPrice": 0.0485,
       "lastTradePrice": 0.037,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 74
+      "rank": 73
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-january-31",
@@ -2099,11 +2087,11 @@
       "question": "Ukraine signs peace deal with Russia by January 31?",
       "volume24hr": 5299.58,
       "volumeNum": 30952.57,
-      "currentPrice": 0.0435,
+      "currentPrice": 0.043,
       "lastTradePrice": 0.042,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
-      "rank": 75
+      "rank": 74
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-finland-772-412",
@@ -2115,7 +2103,7 @@
       "lastTradePrice": 0.003,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 76
+      "rank": 75
     },
     {
       "slug": "will-russia-capture-lyman-by-march-31-2026",
@@ -2127,7 +2115,7 @@
       "lastTradePrice": 0.73,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
-      "rank": 77
+      "rank": 76
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-ukraine",
@@ -2135,10 +2123,22 @@
       "question": "Will Zelenskyy and Putin meet next in Ukraine before 2027?",
       "volume24hr": 1242.91,
       "volumeNum": 28477.72,
-      "currentPrice": 0.027,
+      "currentPrice": 0.0255,
       "lastTradePrice": 0.011,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
+      "rank": 77
+    },
+    {
+      "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
+      "volume24hr": 223.54,
+      "volumeNum": 28140.01,
+      "currentPrice": 0.195,
+      "lastTradePrice": 0.21,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "general",
       "rank": 78
     },
     {
@@ -2159,35 +2159,23 @@
       "question": "Will Russia capture all of Kupiansk by January 31?",
       "volume24hr": 495.56,
       "volumeNum": 27348.52,
-      "currentPrice": 0.0165,
+      "currentPrice": 0.016,
       "lastTradePrice": 0.02,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "rank": 80
     },
     {
-      "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
-      "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
-      "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
-      "volume24hr": 223.54,
-      "volumeNum": 27080.77,
-      "currentPrice": 0.19,
-      "lastTradePrice": 0.19,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "general",
-      "rank": 81
-    },
-    {
       "slug": "will-russia-capture-lyman-by-january-31-2026",
       "eventSlug": "will-russia-capture-lyman-in-2025",
       "question": "Will Russia capture Lyman by January 31, 2026?",
       "volume24hr": 2811.29,
-      "volumeNum": 26816.02,
-      "currentPrice": 0.17,
-      "lastTradePrice": 0.18,
+      "volumeNum": 26826.02,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
-      "rank": 82
+      "rank": 81
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-japan-711-288-527",
@@ -2198,6 +2186,18 @@
       "currentPrice": 0.004,
       "lastTradePrice": 0.004,
       "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "rank": 82
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-not-meet",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin not meet before 2027?",
+      "volume24hr": 984.84,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
+      "lastTradePrice": 0.8,
+      "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "rank": 83
     },
@@ -2214,18 +2214,6 @@
       "rank": 84
     },
     {
-      "slug": "will-zelenskyy-and-putin-not-meet",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin not meet before 2027?",
-      "volume24hr": 984.84,
-      "volumeNum": 24925.82,
-      "currentPrice": 0.785,
-      "lastTradePrice": 0.8,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "rank": 85
-    },
-    {
       "slug": "nuclear-weapon-detonation-by-december-31",
       "eventSlug": "nuclear-weapon-detonation-by-562",
       "question": "Nuclear weapon detonation by December 31?",
@@ -2235,7 +2223,7 @@
       "lastTradePrice": 0.1,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "aid",
-      "rank": 86
+      "rank": 85
     },
     {
       "slug": "will-russia-enter-zaporizhia-by-june-30-845",
@@ -2247,7 +2235,7 @@
       "lastTradePrice": 0.21,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 87
+      "rank": 86
     },
     {
       "slug": "will-russia-test-a-nuclear-weapon-by-march-31-2026",
@@ -2259,7 +2247,7 @@
       "lastTradePrice": 0.049,
       "endDate": null,
       "market_type": "aid",
-      "rank": 88
+      "rank": 87
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
@@ -2271,7 +2259,7 @@
       "lastTradePrice": 0.151,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "rank": 89
+      "rank": 88
     },
     {
       "slug": "will-russia-enter-kherson-by-june-30-645",
@@ -2283,7 +2271,7 @@
       "lastTradePrice": 0.1,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 90
+      "rank": 89
     },
     {
       "slug": "will-trump-send-tomahawk-to-ukraine-by-march-31",
@@ -2295,7 +2283,7 @@
       "lastTradePrice": 0.06,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "general",
-      "rank": 91
+      "rank": 90
     },
     {
       "slug": "ukraine-strikes-another-tanker-in-black-sea-by-january-15-2026",
@@ -2307,7 +2295,7 @@
       "lastTradePrice": 0.11,
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
-      "rank": 92
+      "rank": 91
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-june-30-933-897",
@@ -2319,7 +2307,7 @@
       "lastTradePrice": 0.47,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 93
+      "rank": 92
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-january-31-2026",
@@ -2331,7 +2319,7 @@
       "lastTradePrice": 0.15,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 94
+      "rank": 93
     },
     {
       "slug": "ukraine-joins-nato-before-2027",
@@ -2343,7 +2331,7 @@
       "lastTradePrice": 0.032,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "diplomatic",
-      "rank": 95
+      "rank": 94
     },
     {
       "slug": "will-russia-enter-orikhiv-by-january-31",
@@ -2355,7 +2343,7 @@
       "lastTradePrice": 0.14,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 96
+      "rank": 95
     },
     {
       "slug": "will-trump-and-putin-not-meet-315-857-437-514",
@@ -2367,7 +2355,7 @@
       "lastTradePrice": 0.519,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
-      "rank": 97
+      "rank": 96
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-march-31-2026-627",
@@ -2379,7 +2367,7 @@
       "lastTradePrice": 0.75,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
-      "rank": 98
+      "rank": 97
     },
     {
       "slug": "will-russia-enter-dopropillia-by-june-30-122-495",
@@ -2391,7 +2379,7 @@
       "lastTradePrice": 0.65,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "rank": 99
+      "rank": 98
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-south-korea-582-297-268",
@@ -2403,35 +2391,34 @@
       "lastTradePrice": 0.005,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
+      "rank": 99
+    },
+    {
+      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
+      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
+      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
+      "volume24hr": 9161.7,
+      "volumeNum": 17001.82,
+      "currentPrice": 0.9285,
+      "lastTradePrice": 0.933,
+      "endDate": "2026-01-17T00:00:00Z",
+      "market_type": "general",
       "rank": 100
     }
   ],
   "hottest_markets": [
     {
-      "slug": "khl-hcs-hcd-2026-01-05",
-      "eventSlug": "khl-hcs-hcd-2026-01-05",
-      "question": "KHL: HC Sochi vs. HC Dynamo Moscow",
-      "volume24hr": 71094.55,
-      "volumeNum": 71874.65,
-      "currentPrice": 0.9995,
-      "lastTradePrice": 0.999,
-      "endDate": "2026-01-05T14:00:00Z",
-      "market_type": "general",
-      "heat_score": 98.91,
-      "rank": 1
-    },
-    {
       "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 10, 2026?",
       "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
       "lastTradePrice": 0.928,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "heat_score": 77.15,
-      "rank": 2
+      "heat_score": 76.85,
+      "rank": 1
     },
     {
       "slug": "will-ukraine-qualify-for-the-2026-fifa-world-cup",
@@ -2444,20 +2431,20 @@
       "endDate": "2026-04-12T00:00:00Z",
       "market_type": "general",
       "heat_score": 68.68,
-      "rank": 3
+      "rank": 2
     },
     {
       "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 17, 2026?",
       "volume24hr": 9161.7,
-      "volumeNum": 16918.43,
-      "currentPrice": 0.9835,
-      "lastTradePrice": 0.986,
+      "volumeNum": 17001.82,
+      "currentPrice": 0.9285,
+      "lastTradePrice": 0.933,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "heat_score": 54.15,
-      "rank": 4
+      "heat_score": 53.89,
+      "rank": 3
     },
     {
       "slug": "trump-putin-and-zelensky-seen-together-before-2027",
@@ -2470,7 +2457,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 49.84,
-      "rank": 5
+      "rank": 4
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-june-30-933-897",
@@ -2483,7 +2470,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 49.63,
-      "rank": 6
+      "rank": 5
     },
     {
       "slug": "nuclear-weapon-detonation-by-december-31",
@@ -2496,7 +2483,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "aid",
       "heat_score": 42.71,
-      "rank": 7
+      "rank": 6
     },
     {
       "slug": "will-zelenskyy-talk-to-putin-by-january-31",
@@ -2509,33 +2496,33 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 31.73,
-      "rank": 8
+      "rank": 7
     },
     {
       "slug": "nuclear-weapon-detonation-by-march-31",
       "eventSlug": "nuclear-weapon-detonation-by-562",
       "question": "Nuclear weapon detonation by March 31?",
       "volume24hr": 3743.16,
-      "volumeNum": 13491.49,
+      "volumeNum": 13548.9,
       "currentPrice": 0.0485,
       "lastTradePrice": 0.044,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "aid",
-      "heat_score": 27.74,
-      "rank": 9
+      "heat_score": 27.63,
+      "rank": 8
     },
     {
       "slug": "will-russia-enter-kramatorsk-by-june-30-821-192",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Kramatorsk by June 30?",
       "volume24hr": 8598.84,
-      "volumeNum": 35896.53,
+      "volumeNum": 35924.7,
       "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "heat_score": 23.95,
-      "rank": 10
+      "heat_score": 23.94,
+      "rank": 9
     },
     {
       "slug": "us-x-russia-nuclear-deal-by-february-4",
@@ -2548,7 +2535,7 @@
       "endDate": "2026-02-04T00:00:00Z",
       "market_type": "general",
       "heat_score": 22.3,
-      "rank": 11
+      "rank": 10
     },
     {
       "slug": "ukraine-strike-in-russia-on-26-november-2025",
@@ -2561,7 +2548,7 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 21.17,
-      "rank": 12
+      "rank": 11
     },
     {
       "slug": "will-russia-enter-dopropillia-by-june-30-122-495",
@@ -2574,33 +2561,33 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 20.33,
-      "rank": 13
+      "rank": 12
     },
     {
       "slug": "ukraine-hits-moscow-by-january-15",
       "eventSlug": "ukraine-hits-moscow-by-september-30",
       "question": "Ukraine hits Moscow by January 15?",
       "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
+      "volumeNum": 48350.11,
       "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
+      "lastTradePrice": 0.05,
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
-      "heat_score": 19.9,
-      "rank": 14
+      "heat_score": 19.89,
+      "rank": 13
     },
     {
       "slug": "will-russia-enter-sloviansk-by-june-30",
       "eventSlug": "which-cities-will-russia-enter-by-june-30",
       "question": "Will Russia enter Sloviansk by June 30?",
       "volume24hr": 9689.98,
-      "volumeNum": 52748.37,
-      "currentPrice": 0.305,
+      "volumeNum": 52836.51,
+      "currentPrice": 0.3,
       "lastTradePrice": 0.3,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "heat_score": 18.37,
-      "rank": 15
+      "heat_score": 18.34,
+      "rank": 14
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
@@ -2613,7 +2600,7 @@
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 18.29,
-      "rank": 16
+      "rank": 15
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-january-31",
@@ -2621,11 +2608,24 @@
       "question": "Ukraine signs peace deal with Russia by January 31?",
       "volume24hr": 5299.58,
       "volumeNum": 30952.57,
-      "currentPrice": 0.0435,
+      "currentPrice": 0.043,
       "lastTradePrice": 0.042,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 17.12,
+      "rank": 16
+    },
+    {
+      "slug": "will-russia-capture-rodynske-by-january-31",
+      "eventSlug": "will-russia-capture-rodynske-by-september-15",
+      "question": "Will Russia capture Rodynske by January 31?",
+      "volume24hr": 16521.72,
+      "volumeNum": 109179.43,
+      "currentPrice": 0.28,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T22:00:00Z",
+      "market_type": "territorial",
+      "heat_score": 15.13,
       "rank": 17
     },
     {
@@ -2633,26 +2633,13 @@
       "eventSlug": "ukraine-signs-peace-deal-with-russia-by-march-31",
       "question": "Ukraine signs peace deal with Russia by March 31?",
       "volume24hr": 20230.47,
-      "volumeNum": 131965.47,
-      "currentPrice": 0.225,
+      "volumeNum": 133737.97,
+      "currentPrice": 0.215,
       "lastTradePrice": 0.24,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
-      "heat_score": 15.33,
+      "heat_score": 15.13,
       "rank": 18
-    },
-    {
-      "slug": "will-russia-capture-rodynske-by-january-31",
-      "eventSlug": "will-russia-capture-rodynske-by-september-15",
-      "question": "Will Russia capture Rodynske by January 31?",
-      "volume24hr": 16521.72,
-      "volumeNum": 109143.81,
-      "currentPrice": 0.28,
-      "lastTradePrice": 0.27,
-      "endDate": "2025-12-31T22:00:00Z",
-      "market_type": "territorial",
-      "heat_score": 15.14,
-      "rank": 19
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-december-31-2026-936-942",
@@ -2665,7 +2652,7 @@
       "endDate": "2026-12-31T12:00:00Z",
       "market_type": "territorial",
       "heat_score": 14.87,
-      "rank": 20
+      "rank": 19
     },
     {
       "slug": "ukraine-coup-attempt-by-june-30",
@@ -2678,20 +2665,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "general",
       "heat_score": 13.13,
-      "rank": 21
-    },
-    {
-      "slug": "putin-out-as-president-of-russia-by-june-30",
-      "eventSlug": "putin-out-as-president-of-russia-by-june-30",
-      "question": "Putin out as President of Russia by June 30?",
-      "volume24hr": 13628.09,
-      "volumeNum": 120698.1,
-      "currentPrice": 0.0535,
-      "lastTradePrice": 0.054,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "heat_score": 11.29,
-      "rank": 22
+      "rank": 20
     },
     {
       "slug": "will-russia-enter-sumy-by-june-30-893-434",
@@ -2704,20 +2678,33 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 11.08,
-      "rank": 23
+      "rank": 21
+    },
+    {
+      "slug": "putin-out-as-president-of-russia-by-june-30",
+      "eventSlug": "putin-out-as-president-of-russia-by-june-30",
+      "question": "Putin out as President of Russia by June 30?",
+      "volume24hr": 13628.09,
+      "volumeNum": 124161.27,
+      "currentPrice": 0.0525,
+      "lastTradePrice": 0.054,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "heat_score": 10.98,
+      "rank": 22
     },
     {
       "slug": "will-russia-capture-lyman-by-january-31-2026",
       "eventSlug": "will-russia-capture-lyman-in-2025",
       "question": "Will Russia capture Lyman by January 31, 2026?",
       "volume24hr": 2811.29,
-      "volumeNum": 26816.02,
-      "currentPrice": 0.17,
-      "lastTradePrice": 0.18,
+      "volumeNum": 26826.02,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
       "heat_score": 10.48,
-      "rank": 24
+      "rank": 23
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-january-31",
@@ -2730,20 +2717,20 @@
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
       "heat_score": 10.45,
-      "rank": 25
+      "rank": 24
     },
     {
       "slug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
       "eventSlug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
       "question": "Will Ukraine agree to cede territory to Russia before 2027?",
       "volume24hr": 22583.27,
-      "volumeNum": 222646.06,
+      "volumeNum": 222661.68,
       "currentPrice": 0.315,
       "lastTradePrice": 0.32,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 10.14,
-      "rank": 26
+      "rank": 25
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-february-28",
@@ -2756,7 +2743,7 @@
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
       "heat_score": 10.09,
-      "rank": 27
+      "rank": 26
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-march-31-2026",
@@ -2769,7 +2756,7 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 10.06,
-      "rank": 28
+      "rank": 27
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
@@ -2777,12 +2764,12 @@
       "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
       "volume24hr": 5451.87,
       "volumeNum": 57359.58,
-      "currentPrice": 0.335,
+      "currentPrice": 0.33,
       "lastTradePrice": 0.38,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 9.5,
-      "rank": 29
+      "rank": 28
     },
     {
       "slug": "ukraine-agrees-not-to-join-nato-before-2027",
@@ -2795,20 +2782,20 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "diplomatic",
       "heat_score": 9.13,
-      "rank": 30
+      "rank": 29
     },
     {
       "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 31?",
       "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
       "lastTradePrice": 0.56,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "heat_score": 8.9,
-      "rank": 31
+      "heat_score": 8.85,
+      "rank": 30
     },
     {
       "slug": "will-russia-test-a-nuclear-weapon-by-march-31-2026",
@@ -2821,7 +2808,7 @@
       "endDate": null,
       "market_type": "aid",
       "heat_score": 8.27,
-      "rank": 32
+      "rank": 31
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-january-31",
@@ -2829,38 +2816,38 @@
       "question": "Will Russia enter Druzkhivka by January 31?",
       "volume24hr": 1269.62,
       "volumeNum": 15855.37,
-      "currentPrice": 0.064,
+      "currentPrice": 0.0645,
       "lastTradePrice": 0.06,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 8.01,
-      "rank": 33
+      "rank": 32
     },
     {
       "slug": "will-russia-announce-a-christmas-truce",
       "eventSlug": "will-russia-announce-a-christmas-truce",
       "question": "Will Russia announce a Christmas truce?",
       "volume24hr": 20426.09,
-      "volumeNum": 273956.6,
+      "volumeNum": 275097.24,
       "currentPrice": 0.075,
-      "lastTradePrice": 0.09,
+      "lastTradePrice": 0.07,
       "endDate": "2026-01-07T00:00:00Z",
       "market_type": "peace",
-      "heat_score": 7.46,
-      "rank": 34
+      "heat_score": 7.43,
+      "rank": 33
     },
     {
       "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
       "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
       "question": "Russia x Ukraine ceasefire by January 31, 2026?",
       "volume24hr": 539391.12,
-      "volumeNum": 7344984.13,
-      "currentPrice": 0.0375,
-      "lastTradePrice": 0.038,
+      "volumeNum": 7351364.38,
+      "currentPrice": 0.037,
+      "lastTradePrice": 0.037,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 7.34,
-      "rank": 35
+      "rank": 34
     },
     {
       "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31",
@@ -2873,7 +2860,7 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 7.26,
-      "rank": 36
+      "rank": 35
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
@@ -2886,7 +2873,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 7.24,
-      "rank": 37
+      "rank": 36
     },
     {
       "slug": "will-russia-capture-sumy-by-march-31-2027",
@@ -2899,7 +2886,7 @@
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 6.74,
-      "rank": 38
+      "rank": 37
     },
     {
       "slug": "will-russia-enter-toretske-by-january-31",
@@ -2912,7 +2899,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 6.69,
-      "rank": 39
+      "rank": 38
     },
     {
       "slug": "ukraine-peace-referendum-scheduled-by-june-30",
@@ -2925,7 +2912,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 6.27,
-      "rank": 40
+      "rank": 39
     },
     {
       "slug": "will-russia-enter-toretske-by-january-15",
@@ -2938,33 +2925,33 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 6.17,
-      "rank": 41
+      "rank": 40
     },
     {
       "slug": "will-russia-enter-zaliznychne-by-january-31",
       "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
       "question": "Will Russia enter Zaliznychne by January 31?",
       "volume24hr": 3284.71,
-      "volumeNum": 54265.38,
-      "currentPrice": 0.445,
+      "volumeNum": 54274.15,
+      "currentPrice": 0.44,
       "lastTradePrice": 0.43,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 6.05,
-      "rank": 42
+      "rank": 41
     },
     {
       "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
       "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
       "question": "Russia x Ukraine ceasefire by March 31, 2026?",
       "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
+      "volumeNum": 7328526.26,
       "currentPrice": 0.165,
       "lastTradePrice": 0.16,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 5.86,
-      "rank": 43
+      "rank": 42
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-saudi-arabia",
@@ -2977,46 +2964,46 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 5.73,
-      "rank": 44
+      "rank": 43
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 15?",
       "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
+      "volumeNum": 62300.27,
+      "currentPrice": 0.055,
       "lastTradePrice": 0.07,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
-      "heat_score": 5.61,
-      "rank": 45
+      "heat_score": 5.59,
+      "rank": 44
     },
     {
       "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-january-31",
       "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
       "question": "Ukraine officially agrees to a US backed ceasefire framework by January 31?",
       "volume24hr": 8464.45,
-      "volumeNum": 157409.21,
+      "volumeNum": 157489.21,
       "currentPrice": 0.14,
-      "lastTradePrice": 0.13,
+      "lastTradePrice": 0.15,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
-      "heat_score": 5.38,
-      "rank": 46
+      "heat_score": 5.37,
+      "rank": 45
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-31",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 31?",
       "volume24hr": 2058.0,
-      "volumeNum": 41502.55,
-      "currentPrice": 0.285,
+      "volumeNum": 41529.95,
+      "currentPrice": 0.28,
       "lastTradePrice": 0.3,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 4.96,
-      "rank": 47
+      "rank": 46
     },
     {
       "slug": "will-russia-invade-a-nato-country-by-june-30-2026",
@@ -3024,12 +3011,12 @@
       "question": "Will Russia invade a NATO country by June 30, 2026?",
       "volume24hr": 12183.09,
       "volumeNum": 261540.33,
-      "currentPrice": 0.05,
+      "currentPrice": 0.045,
       "lastTradePrice": 0.06,
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "diplomatic",
       "heat_score": 4.66,
-      "rank": 48
+      "rank": 47
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-ukraine",
@@ -3037,12 +3024,12 @@
       "question": "Will Zelenskyy and Putin meet next in Ukraine before 2027?",
       "volume24hr": 1242.91,
       "volumeNum": 28477.72,
-      "currentPrice": 0.027,
+      "currentPrice": 0.0255,
       "lastTradePrice": 0.011,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 4.36,
-      "rank": 49
+      "rank": 48
     },
     {
       "slug": "will-russia-capture-all-of-stepnohirsk-by-march-31-2026-627",
@@ -3055,7 +3042,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 4.2,
-      "rank": 50
+      "rank": 49
     },
     {
       "slug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
@@ -3068,7 +3055,7 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 4.2,
-      "rank": 51
+      "rank": 50
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-31-2026",
@@ -3081,7 +3068,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 4.19,
-      "rank": 52
+      "rank": 51
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344",
@@ -3094,20 +3081,20 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 4.17,
-      "rank": 53
+      "rank": 52
     },
     {
       "slug": "will-russia-capture-kostyantynivka-by-march-31-872-578",
       "eventSlug": "will-russia-capture-kostyantynivka-by",
       "question": "Will Russia capture Kostyantynivka by March 31?",
       "volume24hr": 8119.47,
-      "volumeNum": 200205.59,
-      "currentPrice": 0.865,
+      "volumeNum": 200872.25,
+      "currentPrice": 0.86,
       "lastTradePrice": 0.86,
       "endDate": "2026-03-31T12:00:00Z",
       "market_type": "territorial",
-      "heat_score": 4.06,
-      "rank": 54
+      "heat_score": 4.04,
+      "rank": 53
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-january-31-2026",
@@ -3120,20 +3107,20 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 3.97,
-      "rank": 55
+      "rank": 54
     },
     {
       "slug": "will-zelenskyy-and-putin-not-meet",
       "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
       "question": "Will Zelenskyy and Putin not meet before 2027?",
       "volume24hr": 984.84,
-      "volumeNum": 24925.82,
-      "currentPrice": 0.785,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
       "lastTradePrice": 0.8,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "heat_score": 3.95,
-      "rank": 56
+      "heat_score": 3.91,
+      "rank": 55
     },
     {
       "slug": "european-country-agrees-to-give-ukraine-security-guarantee-by-june-30",
@@ -3146,20 +3133,20 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "diplomatic",
       "heat_score": 3.44,
-      "rank": 57
+      "rank": 56
     },
     {
       "slug": "putin-out-before-2027",
       "eventSlug": "putin-out-before-2027",
       "question": "Putin out as President of Russia by end of 2026?",
       "volume24hr": 41014.71,
-      "volumeNum": 1277734.47,
+      "volumeNum": 1277755.36,
       "currentPrice": 0.095,
       "lastTradePrice": 0.1,
       "endDate": "2026-12-31T18:30:00Z",
       "market_type": "political",
       "heat_score": 3.21,
-      "rank": 58
+      "rank": 57
     },
     {
       "slug": "will-russia-enter-orikhiv-by-january-31",
@@ -3172,7 +3159,7 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 3.11,
-      "rank": 59
+      "rank": 58
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-15-2026",
@@ -3185,7 +3172,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 3.09,
-      "rank": 60
+      "rank": 59
     },
     {
       "slug": "will-russia-enter-orikhiv-by-march-31",
@@ -3198,7 +3185,7 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 2.97,
-      "rank": 61
+      "rank": 60
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-by-june-30",
@@ -3211,7 +3198,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "peace",
       "heat_score": 2.8,
-      "rank": 62
+      "rank": 61
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-italy-vatican",
@@ -3224,20 +3211,20 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 2.74,
-      "rank": 63
+      "rank": 62
     },
     {
       "slug": "russia-x-ukraine-ceasefire-before-2027",
       "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
       "question": "Russia x Ukraine ceasefire by end of 2026?",
       "volume24hr": 153695.24,
-      "volumeNum": 5737092.24,
+      "volumeNum": 5737707.86,
       "currentPrice": 0.445,
       "lastTradePrice": 0.45,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 2.68,
-      "rank": 64
+      "rank": 63
     },
     {
       "slug": "will-russia-capture-lyman-by-march-31-2026",
@@ -3250,7 +3237,7 @@
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
       "heat_score": 2.65,
-      "rank": 65
+      "rank": 64
     },
     {
       "slug": "ukraine-strikes-another-tanker-in-black-sea-by-january-15-2026",
@@ -3263,7 +3250,7 @@
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
       "heat_score": 2.61,
-      "rank": 66
+      "rank": 65
     },
     {
       "slug": "nato-x-russia-military-clash-by-march-31-2026",
@@ -3276,46 +3263,46 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "diplomatic",
       "heat_score": 2.58,
-      "rank": 67
+      "rank": 66
     },
     {
       "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "eventSlug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
       "question": "Ukraine agrees to limit size of armed forces before 2027?",
       "volume24hr": 1279.4,
-      "volumeNum": 49959.83,
-      "currentPrice": 0.445,
+      "volumeNum": 50011.12,
+      "currentPrice": 0.42,
       "lastTradePrice": 0.4,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 2.56,
-      "rank": 68
+      "rank": 67
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
       "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
       "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
       "volume24hr": 226.14,
-      "volumeNum": 8904.63,
-      "currentPrice": 0.0305,
-      "lastTradePrice": 0.022,
+      "volumeNum": 9032.46,
+      "currentPrice": 0.065,
+      "lastTradePrice": 0.039,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "heat_score": 2.54,
-      "rank": 69
+      "heat_score": 2.5,
+      "rank": 68
     },
     {
       "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 15?",
       "volume24hr": 12856.71,
-      "volumeNum": 532176.02,
+      "volumeNum": 532246.48,
       "currentPrice": 0.21,
-      "lastTradePrice": 0.22,
+      "lastTradePrice": 0.2,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 2.42,
-      "rank": 70
+      "rank": 69
     },
     {
       "slug": "will-ukraine-agree-to-give-up-the-rest-of-donbas-before-2027",
@@ -3328,7 +3315,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 2.38,
-      "rank": 71
+      "rank": 70
     },
     {
       "slug": "eunato-country-announces-peacekeeping-force-in-ukraine-before-2027",
@@ -3341,7 +3328,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 2.32,
-      "rank": 72
+      "rank": 71
     },
     {
       "slug": "will-trump-send-tomahawk-to-ukraine-by-march-31",
@@ -3354,20 +3341,20 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 2.28,
-      "rank": 73
+      "rank": 72
     },
     {
       "slug": "russia-x-ukraine-peace-parlay",
       "eventSlug": "russia-x-ukraine-peace-parlay",
       "question": "Russia x Ukraine Peace Parlay",
       "volume24hr": 3068.15,
-      "volumeNum": 152751.31,
+      "volumeNum": 152828.23,
       "currentPrice": 0.25,
-      "lastTradePrice": 0.24,
+      "lastTradePrice": 0.26,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 2.01,
-      "rank": 74
+      "rank": 73
     },
     {
       "slug": "will-russia-capture-all-of-kupiansk-by-january-31",
@@ -3375,25 +3362,25 @@
       "question": "Will Russia capture all of Kupiansk by January 31?",
       "volume24hr": 495.56,
       "volumeNum": 27348.52,
-      "currentPrice": 0.0165,
+      "currentPrice": 0.016,
       "lastTradePrice": 0.02,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 1.81,
-      "rank": 75
+      "rank": 74
     },
     {
       "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
       "eventSlug": "nobel-peace-prize-winner-2026-139",
       "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
       "volume24hr": 21608.79,
-      "volumeNum": 1205764.1,
+      "volumeNum": 1212313.27,
       "currentPrice": 0.135,
       "lastTradePrice": 0.14,
       "endDate": "2026-10-10T00:00:00Z",
       "market_type": "peace",
-      "heat_score": 1.79,
-      "rank": 76
+      "heat_score": 1.78,
+      "rank": 75
     },
     {
       "slug": "ukraine-election-called-by-march-31-2026",
@@ -3406,7 +3393,7 @@
       "endDate": "2025-12-31T12:00:00Z",
       "market_type": "political",
       "heat_score": 1.77,
-      "rank": 77
+      "rank": 76
     },
     {
       "slug": "ukraine-signs-peace-deal-with-russia-before-2027",
@@ -3419,7 +3406,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 1.67,
-      "rank": 78
+      "rank": 77
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
@@ -3427,12 +3414,12 @@
       "question": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
       "volume24hr": 122.3,
       "volumeNum": 7934.25,
-      "currentPrice": 0.0195,
+      "currentPrice": 0.0385,
       "lastTradePrice": 0.036,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 1.54,
-      "rank": 79
+      "rank": 78
     },
     {
       "slug": "will-russia-enter-vozdvyzhivka-by-january-31",
@@ -3445,7 +3432,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 1.49,
-      "rank": 80
+      "rank": 79
     },
     {
       "slug": "will-russia-enter-zaporizhia-by-june-30-845",
@@ -3458,7 +3445,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 1.47,
-      "rank": 81
+      "rank": 80
     },
     {
       "slug": "will-trump-and-putin-not-meet-315-857-437-514",
@@ -3471,7 +3458,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 1.39,
-      "rank": 82
+      "rank": 81
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
@@ -3479,12 +3466,12 @@
       "question": "Will Trump and Putin meet next in another country?",
       "volume24hr": 169.5,
       "volumeNum": 12195.29,
-      "currentPrice": 0.038,
+      "currentPrice": 0.036,
       "lastTradePrice": 0.067,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 1.39,
-      "rank": 83
+      "rank": 82
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-switzerland-448-348",
@@ -3497,7 +3484,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 1.31,
-      "rank": 84
+      "rank": 83
     },
     {
       "slug": "will-russia-capture-all-of-vovchansk-by-march-31",
@@ -3510,7 +3497,7 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 1.27,
-      "rank": 85
+      "rank": 84
     },
     {
       "slug": "ukraine-peace-referendum-passed-by-december-31-2026",
@@ -3518,12 +3505,12 @@
       "question": "Ukraine peace referendum passed before 2027?",
       "volume24hr": 42.93,
       "volumeNum": 3389.94,
-      "currentPrice": 0.255,
+      "currentPrice": 0.265,
       "lastTradePrice": 0.27,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 1.27,
-      "rank": 86
+      "rank": 85
     },
     {
       "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
@@ -3531,12 +3518,12 @@
       "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
       "volume24hr": 520.43,
       "volumeNum": 45335.57,
-      "currentPrice": 0.32,
+      "currentPrice": 0.35,
       "lastTradePrice": 0.33,
       "endDate": "2026-01-22T00:00:00Z",
       "market_type": "political",
       "heat_score": 1.15,
-      "rank": 87
+      "rank": 86
     },
     {
       "slug": "will-russia-capture-all-of-kupiansk-by-march-31",
@@ -3549,7 +3536,7 @@
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
       "heat_score": 1.14,
-      "rank": 88
+      "rank": 87
     },
     {
       "slug": "nuclear-weapon-detonation-by-june-30-299",
@@ -3562,7 +3549,7 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "aid",
       "heat_score": 1.02,
-      "rank": 89
+      "rank": 88
     },
     {
       "slug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
@@ -3575,7 +3562,7 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
       "heat_score": 1.01,
-      "rank": 90
+      "rank": 89
     },
     {
       "slug": "ukraine-election-held-by-december-31-2026-344-142",
@@ -3588,20 +3575,20 @@
       "endDate": "2026-12-31T12:00:00Z",
       "market_type": "political",
       "heat_score": 0.98,
-      "rank": 91
+      "rank": 90
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-before-2027",
       "eventSlug": "zelenskyy-out-as-ukraine-president-before-2027",
       "question": "Zelenskyy out as Ukraine president by end of 2026?",
       "volume24hr": 11099.04,
-      "volumeNum": 1160551.07,
+      "volumeNum": 1160576.05,
       "currentPrice": 0.325,
-      "lastTradePrice": 0.32,
+      "lastTradePrice": 0.33,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.96,
-      "rank": 92
+      "rank": 91
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-a-gulf-country-733-116",
@@ -3609,12 +3596,12 @@
       "question": "Will Trump and Putin meet next in a Gulf country?",
       "volume24hr": 108.5,
       "volumeNum": 11436.39,
-      "currentPrice": 0.027,
+      "currentPrice": 0.0235,
       "lastTradePrice": 0.012,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.95,
-      "rank": 93
+      "rank": 92
     },
     {
       "slug": "will-russia-rejoin-the-g7-before-2027",
@@ -3627,7 +3614,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "heat_score": 0.94,
-      "rank": 94
+      "rank": 93
     },
     {
       "slug": "will-trump-meet-with-putin-by-march-31",
@@ -3640,20 +3627,7 @@
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.9,
-      "rank": 95
-    },
-    {
-      "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
-      "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
-      "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
-      "volume24hr": 223.54,
-      "volumeNum": 27080.77,
-      "currentPrice": 0.19,
-      "lastTradePrice": 0.19,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "general",
-      "heat_score": 0.83,
-      "rank": 96
+      "rank": 94
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-united-states-224-875-469",
@@ -3661,25 +3635,38 @@
       "question": "Will Trump and Putin meet next in United States?",
       "volume24hr": 85.72,
       "volumeNum": 10649.98,
-      "currentPrice": 0.0875,
+      "currentPrice": 0.087,
       "lastTradePrice": 0.075,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.8,
-      "rank": 97
+      "rank": 95
+    },
+    {
+      "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
+      "volume24hr": 223.54,
+      "volumeNum": 28140.01,
+      "currentPrice": 0.195,
+      "lastTradePrice": 0.21,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "general",
+      "heat_score": 0.79,
+      "rank": 96
     },
     {
       "slug": "ukraine-agrees-not-to-join-nato-by-march-31",
       "eventSlug": "ukraine-agrees-not-to-join-nato-by-march-31",
       "question": "Ukraine agrees not to join NATO by March 31? ",
       "volume24hr": 123.6,
-      "volumeNum": 16331.1,
+      "volumeNum": 16364.07,
       "currentPrice": 0.0895,
-      "lastTradePrice": 0.088,
+      "lastTradePrice": 0.091,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "diplomatic",
       "heat_score": 0.76,
-      "rank": 98
+      "rank": 97
     },
     {
       "slug": "will-trump-and-putin-meet-next-in-turkey-182-161-789",
@@ -3687,12 +3674,12 @@
       "question": "Will Trump and Putin meet next in Turkey?",
       "volume24hr": 90.53,
       "volumeNum": 11991.41,
-      "currentPrice": 0.039,
+      "currentPrice": 0.035,
       "lastTradePrice": 0.117,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.75,
-      "rank": 99
+      "rank": 98
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
@@ -3705,6 +3692,19 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "heat_score": 0.64,
+      "rank": 99
+    },
+    {
+      "slug": "will-russia-enter-dobropillia-by-january-31",
+      "eventSlug": "will-russia-enter-dobropillia-by-january-31",
+      "question": "Will Russia enter Dobropillia by January 31?",
+      "volume24hr": 200.16,
+      "volumeNum": 32773.87,
+      "currentPrice": 0.049,
+      "lastTradePrice": 0.057,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "heat_score": 0.61,
       "rank": 100
     }
   ],
@@ -3714,390 +3714,39 @@
       "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
       "question": "Russia strike on Kyiv municipality by January 10, 2026?",
       "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
       "lastTradePrice": 0.928,
       "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "price_change_1h": 4.1,
+      "price_change_1h": 4.0,
       "rank": 1
-    },
-    {
-      "slug": "will-russia-enter-sloviansk-by-june-30",
-      "eventSlug": "which-cities-will-russia-enter-by-june-30",
-      "question": "Will Russia enter Sloviansk by June 30?",
-      "volume24hr": 9689.98,
-      "volumeNum": 52748.37,
-      "currentPrice": 0.305,
-      "lastTradePrice": 0.3,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -3.0,
-      "rank": 2
-    },
-    {
-      "slug": "will-russia-rejoin-the-g7-before-2027",
-      "eventSlug": "will-russia-rejoin-the-g7-before-2027",
-      "question": "Will Russia rejoin the G7 before 2027?",
-      "volume24hr": 26.59,
-      "volumeNum": 2830.57,
-      "currentPrice": 0.12,
-      "lastTradePrice": 0.14,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "general",
-      "price_change_1h": 3.0,
-      "rank": 3
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-february-28",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by February 28?",
-      "volume24hr": 7001.02,
-      "volumeNum": 69394.21,
-      "currentPrice": 0.725,
-      "lastTradePrice": 0.69,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -2.5,
-      "rank": 4
-    },
-    {
-      "slug": "khl-hcs-hcd-2026-01-05",
-      "eventSlug": "khl-hcs-hcd-2026-01-05",
-      "question": "KHL: HC Sochi vs. HC Dynamo Moscow",
-      "volume24hr": 71094.55,
-      "volumeNum": 71874.65,
-      "currentPrice": 0.9995,
-      "lastTradePrice": 0.999,
-      "endDate": "2026-01-05T14:00:00Z",
-      "market_type": "general",
-      "price_change_1h": -2.5,
-      "rank": 5
-    },
-    {
-      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
-      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
-      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
-      "volume24hr": 9161.7,
-      "volumeNum": 16918.43,
-      "currentPrice": 0.9835,
-      "lastTradePrice": 0.986,
-      "endDate": "2026-01-17T00:00:00Z",
-      "market_type": "general",
-      "price_change_1h": 2.05,
-      "rank": 6
-    },
-    {
-      "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
-      "eventSlug": "oscars-2026-best-documentary-feature-film-nominations",
-      "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
-      "volume24hr": 520.43,
-      "volumeNum": 45335.57,
-      "currentPrice": 0.32,
-      "lastTradePrice": 0.33,
-      "endDate": "2026-01-22T00:00:00Z",
-      "market_type": "political",
-      "price_change_1h": 2.0,
-      "rank": 7
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
-      "volume24hr": 226.14,
-      "volumeNum": 8904.63,
-      "currentPrice": 0.0305,
-      "lastTradePrice": 0.022,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_1h": 1.55,
-      "rank": 8
     },
     {
       "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
       "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
       "question": "Will Russia capture all of Myrnohrad by January 31?",
       "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
       "lastTradePrice": 0.56,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "price_change_1h": -1.5,
-      "rank": 9
+      "price_change_1h": 3.5,
+      "rank": 2
     },
     {
-      "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-january-31",
-      "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
-      "question": "Ukraine officially agrees to a US backed ceasefire framework by January 31?",
-      "volume24hr": 8464.45,
-      "volumeNum": 157409.21,
-      "currentPrice": 0.14,
-      "lastTradePrice": 0.13,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": 1.5,
-      "rank": 10
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
-      "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in another country?",
-      "volume24hr": 169.5,
-      "volumeNum": 12195.29,
-      "currentPrice": 0.038,
-      "lastTradePrice": 0.067,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_1h": 1.35,
-      "rank": 11
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-january-31",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by January 31?",
-      "volume24hr": 22877.54,
-      "volumeNum": 219014.11,
-      "currentPrice": 0.415,
-      "lastTradePrice": 0.42,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 1.0,
-      "rank": 12
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-march-31-872-578",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by March 31?",
-      "volume24hr": 8119.47,
-      "volumeNum": 200205.59,
-      "currentPrice": 0.865,
-      "lastTradePrice": 0.86,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -1.0,
-      "rank": 13
-    },
-    {
-      "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
-      "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
-      "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
-      "volume24hr": 5451.87,
-      "volumeNum": 57359.58,
-      "currentPrice": 0.335,
-      "lastTradePrice": 0.38,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -1.0,
-      "rank": 14
-    },
-    {
-      "slug": "will-russia-capture-all-of-pokrovsk-by-january-31",
-      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by January 31?",
-      "volume24hr": 2058.0,
-      "volumeNum": 41502.55,
-      "currentPrice": 0.285,
-      "lastTradePrice": 0.3,
-      "endDate": "2025-09-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -1.0,
-      "rank": 15
-    },
-    {
-      "slug": "will-russia-enter-borova-by-march-31",
-      "eventSlug": "will-russia-enter-borova-by-december-31",
-      "question": "Will Russia enter Borova by March 31?",
-      "volume24hr": 181.88,
-      "volumeNum": 31498.12,
-      "currentPrice": 0.5,
-      "lastTradePrice": 0.51,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 1.0,
-      "rank": 16
-    },
-    {
-      "slug": "will-russia-announce-a-christmas-truce",
-      "eventSlug": "will-russia-announce-a-christmas-truce",
-      "question": "Will Russia announce a Christmas truce?",
-      "volume24hr": 20426.09,
-      "volumeNum": 273956.6,
-      "currentPrice": 0.075,
-      "lastTradePrice": 0.09,
-      "endDate": "2026-01-07T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": 1.0,
-      "rank": 17
-    },
-    {
-      "slug": "ukraine-peace-referendum-passed-by-december-31-2026",
-      "eventSlug": "ukraine-peace-referendum-passed-by-december-31-2026",
-      "question": "Ukraine peace referendum passed before 2027?",
-      "volume24hr": 42.93,
-      "volumeNum": 3389.94,
-      "currentPrice": 0.255,
-      "lastTradePrice": 0.27,
+      "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "eventSlug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "question": "Ukraine agrees to limit size of armed forces before 2027?",
+      "volume24hr": 1279.4,
+      "volumeNum": 50011.12,
+      "currentPrice": 0.42,
+      "lastTradePrice": 0.4,
       "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": 1.0,
-      "rank": 18
-    },
-    {
-      "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
-      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
-      "question": "Will Russia capture all of Myrnohrad by January 15?",
-      "volume24hr": 12856.71,
-      "volumeNum": 532176.02,
-      "currentPrice": 0.21,
-      "lastTradePrice": 0.22,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 0.5,
-      "rank": 19
-    },
-    {
-      "slug": "will-russia-capture-rodynske-by-january-31",
-      "eventSlug": "will-russia-capture-rodynske-by-september-15",
-      "question": "Will Russia capture Rodynske by January 31?",
-      "volume24hr": 16521.72,
-      "volumeNum": 109143.81,
-      "currentPrice": 0.28,
-      "lastTradePrice": 0.27,
-      "endDate": "2025-12-31T22:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 0.5,
-      "rank": 20
-    },
-    {
-      "slug": "will-russia-capture-all-of-kupiansk-by-march-31",
-      "eventSlug": "will-russia-capture-all-of-kupiansk-by",
-      "question": "Will Russia capture all of Kupiansk by March 31?",
-      "volume24hr": 1001.64,
-      "volumeNum": 87828.57,
-      "currentPrice": 0.115,
-      "lastTradePrice": 0.13,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 21
-    },
-    {
-      "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
-      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by January 15?",
-      "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
-      "lastTradePrice": 0.07,
-      "endDate": "2025-09-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 22
-    },
-    {
-      "slug": "will-russia-enter-zaliznychne-by-january-31",
-      "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
-      "question": "Will Russia enter Zaliznychne by January 31?",
-      "volume24hr": 3284.71,
-      "volumeNum": 54265.38,
-      "currentPrice": 0.445,
-      "lastTradePrice": 0.43,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 23
-    },
-    {
-      "slug": "will-russia-capture-lyman-by-march-31-2026",
-      "eventSlug": "will-russia-capture-lyman-in-2025",
-      "question": "Will Russia capture Lyman by March 31, 2026?",
-      "volume24hr": 808.65,
-      "volumeNum": 30571.98,
-      "currentPrice": 0.72,
-      "lastTradePrice": 0.73,
-      "endDate": "2025-12-31T23:55:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 24
-    },
-    {
-      "slug": "will-russia-capture-lyman-by-january-31-2026",
-      "eventSlug": "will-russia-capture-lyman-in-2025",
-      "question": "Will Russia capture Lyman by January 31, 2026?",
-      "volume24hr": 2811.29,
-      "volumeNum": 26816.02,
-      "currentPrice": 0.17,
-      "lastTradePrice": 0.18,
-      "endDate": "2025-12-31T23:55:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 25
-    },
-    {
-      "slug": "will-russia-enter-dopropillia-by-june-30-122-495",
-      "eventSlug": "which-cities-will-russia-enter-by-june-30",
-      "question": "Will Russia enter Dopropillia by June 30?",
-      "volume24hr": 3589.18,
-      "volumeNum": 17655.02,
-      "currentPrice": 0.64,
-      "lastTradePrice": 0.65,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.5,
-      "rank": 26
-    },
-    {
-      "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "question": "Russia x Ukraine ceasefire by March 31, 2026?",
-      "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
-      "currentPrice": 0.165,
-      "lastTradePrice": 0.16,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": -0.5,
-      "rank": 27
-    },
-    {
-      "slug": "ukraine-election-held-by-june-30-2026-465-757",
-      "eventSlug": "ukraine-election-held-in-2025",
-      "question": "Ukraine election held by June 30, 2026?",
-      "volume24hr": 230.95,
-      "volumeNum": 136229.59,
-      "currentPrice": 0.2,
-      "lastTradePrice": 0.22,
-      "endDate": "2025-12-31T12:00:00Z",
-      "market_type": "political",
-      "price_change_1h": -0.5,
-      "rank": 28
-    },
-    {
-      "slug": "ukraine-election-called-by-march-31-2026",
-      "eventSlug": "ukraine-election-called-in-2025",
-      "question": "Ukraine election called by March 31, 2026?",
-      "volume24hr": 848.9,
-      "volumeNum": 47862.34,
-      "currentPrice": 0.125,
-      "lastTradePrice": 0.11,
-      "endDate": "2025-12-31T12:00:00Z",
-      "market_type": "political",
-      "price_change_1h": -0.5,
-      "rank": 29
-    },
-    {
-      "slug": "ukraine-election-called-by-june-30-2026-392",
-      "eventSlug": "ukraine-election-called-in-2025",
-      "question": "Ukraine election called by June 30, 2026?",
-      "volume24hr": 172.21,
-      "volumeNum": 43613.96,
-      "currentPrice": 0.27,
-      "lastTradePrice": 0.28,
-      "endDate": "2025-12-31T12:00:00Z",
-      "market_type": "political",
-      "price_change_1h": -0.5,
-      "rank": 30
+      "market_type": "general",
+      "price_change_1h": 3.5,
+      "rank": 3
     },
     {
       "slug": "ukraine-agrees-not-to-join-nato-before-2027",
@@ -4109,8 +3758,255 @@
       "lastTradePrice": 0.3,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "diplomatic",
+      "price_change_1h": 2.5,
+      "rank": 4
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-united-states-224-875-469",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in United States?",
+      "volume24hr": 85.72,
+      "volumeNum": 10649.98,
+      "currentPrice": 0.087,
+      "lastTradePrice": 0.075,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": 2.35,
+      "rank": 5
+    },
+    {
+      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
+      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
+      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
+      "volume24hr": 9161.7,
+      "volumeNum": 17001.82,
+      "currentPrice": 0.9285,
+      "lastTradePrice": 0.933,
+      "endDate": "2026-01-17T00:00:00Z",
+      "market_type": "general",
+      "price_change_1h": -2.25,
+      "rank": 6
+    },
+    {
+      "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
+      "eventSlug": "oscars-2026-best-documentary-feature-film-nominations",
+      "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
+      "volume24hr": 520.43,
+      "volumeNum": 45335.57,
+      "currentPrice": 0.35,
+      "lastTradePrice": 0.33,
+      "endDate": "2026-01-22T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": 2.0,
+      "rank": 7
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
+      "volume24hr": 122.3,
+      "volumeNum": 7934.25,
+      "currentPrice": 0.0385,
+      "lastTradePrice": 0.036,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": 1.75,
+      "rank": 8
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-turkey-182-161-789",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Turkey?",
+      "volume24hr": 90.53,
+      "volumeNum": 11991.41,
+      "currentPrice": 0.035,
+      "lastTradePrice": 0.117,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -1.15,
+      "rank": 9
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in another country?",
+      "volume24hr": 169.5,
+      "volumeNum": 12195.29,
+      "currentPrice": 0.036,
+      "lastTradePrice": 0.067,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -1.05,
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-enter-sloviansk-by-june-30",
+      "eventSlug": "which-cities-will-russia-enter-by-june-30",
+      "question": "Will Russia enter Sloviansk by June 30?",
+      "volume24hr": 9689.98,
+      "volumeNum": 52836.51,
+      "currentPrice": 0.3,
+      "lastTradePrice": 0.3,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": 1.0,
+      "rank": 11
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
+      "volume24hr": 226.14,
+      "volumeNum": 9032.46,
+      "currentPrice": 0.065,
+      "lastTradePrice": 0.039,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.95,
+      "rank": 12
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in another EU country?",
+      "volume24hr": 192.31,
+      "volumeNum": 36716.31,
+      "currentPrice": 0.2875,
+      "lastTradePrice": 0.313,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.8,
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
+      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
+      "question": "Will Russia capture all of Myrnohrad by January 15?",
+      "volume24hr": 12856.71,
+      "volumeNum": 532246.48,
+      "currentPrice": 0.21,
+      "lastTradePrice": 0.2,
+      "endDate": "2025-12-31T00:00:00Z",
+      "market_type": "territorial",
       "price_change_1h": -0.5,
-      "rank": 31
+      "rank": 14
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-january-31",
+      "eventSlug": "will-russia-capture-kostyantynivka-by",
+      "question": "Will Russia capture Kostyantynivka by January 31?",
+      "volume24hr": 22877.54,
+      "volumeNum": 219014.11,
+      "currentPrice": 0.415,
+      "lastTradePrice": 0.42,
+      "endDate": "2026-03-31T12:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": 0.5,
+      "rank": 15
+    },
+    {
+      "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
+      "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
+      "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
+      "volume24hr": 5451.87,
+      "volumeNum": 57359.58,
+      "currentPrice": 0.33,
+      "lastTradePrice": 0.38,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": -0.5,
+      "rank": 16
+    },
+    {
+      "slug": "will-russia-enter-zaliznychne-by-january-31",
+      "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
+      "question": "Will Russia enter Zaliznychne by January 31?",
+      "volume24hr": 3284.71,
+      "volumeNum": 54274.15,
+      "currentPrice": 0.44,
+      "lastTradePrice": 0.43,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": 0.5,
+      "rank": 17
+    },
+    {
+      "slug": "will-russia-capture-lyman-by-january-31-2026",
+      "eventSlug": "will-russia-capture-lyman-in-2025",
+      "question": "Will Russia capture Lyman by January 31, 2026?",
+      "volume24hr": 2811.29,
+      "volumeNum": 26826.02,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
+      "endDate": "2025-12-31T23:55:00Z",
+      "market_type": "territorial",
+      "price_change_1h": -0.5,
+      "rank": 18
+    },
+    {
+      "slug": "will-russia-enter-toretske-by-january-31",
+      "eventSlug": "will-russia-enter-toretske-by-december-31",
+      "question": "Will Russia enter Toretske by January 31?",
+      "volume24hr": 1118.13,
+      "volumeNum": 16725.04,
+      "currentPrice": 0.235,
+      "lastTradePrice": 0.21,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": 0.5,
+      "rank": 19
+    },
+    {
+      "slug": "will-russia-enter-kharkiv-by-june-30-967",
+      "eventSlug": "which-cities-will-russia-enter-by-june-30",
+      "question": "Will Russia enter Kharkiv by June 30?",
+      "volume24hr": 16.84,
+      "volumeNum": 9730.42,
+      "currentPrice": 0.06,
+      "lastTradePrice": 0.07,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": 0.5,
+      "rank": 20
+    },
+    {
+      "slug": "will-russia-announce-a-christmas-truce",
+      "eventSlug": "will-russia-announce-a-christmas-truce",
+      "question": "Will Russia announce a Christmas truce?",
+      "volume24hr": 20426.09,
+      "volumeNum": 275097.24,
+      "currentPrice": 0.075,
+      "lastTradePrice": 0.07,
+      "endDate": "2026-01-07T00:00:00Z",
+      "market_type": "peace",
+      "price_change_1h": -0.5,
+      "rank": 21
+    },
+    {
+      "slug": "ukraine-signs-peace-deal-with-russia-by-march-31",
+      "eventSlug": "ukraine-signs-peace-deal-with-russia-by-march-31",
+      "question": "Ukraine signs peace deal with Russia by March 31?",
+      "volume24hr": 20230.47,
+      "volumeNum": 133737.97,
+      "currentPrice": 0.215,
+      "lastTradePrice": 0.24,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "peace",
+      "price_change_1h": 0.5,
+      "rank": 22
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-not-meet",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin not meet before 2027?",
+      "volume24hr": 984.84,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
+      "lastTradePrice": 0.8,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": 0.5,
+      "rank": 23
     },
     {
       "slug": "ukraine-strikes-another-tanker-in-black-sea-by-january-15-2026",
@@ -4123,59 +4019,111 @@
       "endDate": "2026-01-15T00:00:00Z",
       "market_type": "general",
       "price_change_1h": 0.5,
-      "rank": 32
+      "rank": 24
     },
     {
-      "slug": "zelenskyy-out-as-ukraine-president-by-january-31-2026",
-      "eventSlug": "zelenskyy-out-as-ukraine-president-by-january-31-2026",
-      "question": "Zelenskyy out as Ukraine president by June 30, 2026?",
-      "volume24hr": 803.83,
-      "volumeNum": 20229.24,
-      "currentPrice": 0.13,
-      "lastTradePrice": 0.15,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_1h": -0.5,
-      "rank": 33
+      "slug": "nuclear-weapon-detonation-by-march-31",
+      "eventSlug": "nuclear-weapon-detonation-by-562",
+      "question": "Nuclear weapon detonation by March 31?",
+      "volume24hr": 3743.16,
+      "volumeNum": 13548.9,
+      "currentPrice": 0.0485,
+      "lastTradePrice": 0.044,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "aid",
+      "price_change_1h": 0.5,
+      "rank": 25
     },
     {
-      "slug": "will-ukraine-agree-to-give-up-the-rest-of-donbas-before-2027",
-      "eventSlug": "will-ukraine-agree-to-give-up-the-rest-of-donbas-before-2027",
-      "question": "Will Ukraine agree to give up the rest of Donbas before 2027?",
-      "volume24hr": 312.57,
-      "volumeNum": 13133.2,
-      "currentPrice": 0.18,
-      "lastTradePrice": 0.2,
+      "slug": "ukraine-peace-referendum-passed-by-december-31-2026",
+      "eventSlug": "ukraine-peace-referendum-passed-by-december-31-2026",
+      "question": "Ukraine peace referendum passed before 2027?",
+      "volume24hr": 42.93,
+      "volumeNum": 3389.94,
+      "currentPrice": 0.265,
+      "lastTradePrice": 0.27,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "peace",
+      "price_change_1h": 0.5,
+      "rank": 26
+    },
+    {
+      "slug": "will-russia-rejoin-the-g7-before-2027",
+      "eventSlug": "will-russia-rejoin-the-g7-before-2027",
+      "question": "Will Russia rejoin the G7 before 2027?",
+      "volume24hr": 26.59,
+      "volumeNum": 2830.57,
+      "currentPrice": 0.12,
+      "lastTradePrice": 0.14,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
-      "price_change_1h": 0.5,
-      "rank": 34
+      "price_change_1h": -0.5,
+      "rank": 27
     },
     {
-      "slug": "trump-putin-and-zelensky-meet-together-before-2027",
-      "eventSlug": "trump-putin-and-zelensky-meet-together-before-2027",
-      "question": "Trump, Putin, and Zelensky meet together before 2027?",
-      "volume24hr": 0,
-      "volumeNum": 3525.48,
-      "currentPrice": 0.18,
-      "lastTradePrice": 0.21,
+      "slug": "trump-putin-and-zelensky-seen-together-before-2027",
+      "eventSlug": "trump-putin-and-zelensky-seen-together-before-2027",
+      "question": "Trump, Putin, and Zelensky seen together before 2027?",
+      "volume24hr": 517.69,
+      "volumeNum": 1038.68,
+      "currentPrice": 0.215,
+      "lastTradePrice": 0.24,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "price_change_1h": 0.5,
-      "rank": 35
+      "rank": 28
     },
     {
-      "slug": "will-russia-enter-dobropillia-by-january-31",
-      "eventSlug": "will-russia-enter-dobropillia-by-january-31",
-      "question": "Will Russia enter Dobropillia by January 31?",
-      "volume24hr": 200.16,
-      "volumeNum": 32773.87,
-      "currentPrice": 0.049,
-      "lastTradePrice": 0.057,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 0.45,
-      "rank": 36
+      "slug": "will-trump-and-putin-meet-next-in-a-gulf-country-733-116",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in a Gulf country?",
+      "volume24hr": 108.5,
+      "volumeNum": 11436.39,
+      "currentPrice": 0.0235,
+      "lastTradePrice": 0.012,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.45,
+      "rank": 29
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-meet-next-in-us",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in US before 2027?",
+      "volume24hr": 37.5,
+      "volumeNum": 12250.84,
+      "currentPrice": 0.056,
+      "lastTradePrice": 0.053,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.35,
+      "rank": 30
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-meet-next-in-russia",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Russia before 2027?",
+      "volume24hr": 71.19,
+      "volumeNum": 16534.44,
+      "currentPrice": 0.0305,
+      "lastTradePrice": 0.014,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.3,
+      "rank": 31
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-china-586-328",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in China?",
+      "volume24hr": 74.06,
+      "volumeNum": 57787.77,
+      "currentPrice": 0.0235,
+      "lastTradePrice": 0.046,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.25,
+      "rank": 32
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
@@ -4183,38 +4131,12 @@
       "question": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
       "volume24hr": 187.36,
       "volumeNum": 30980.97,
-      "currentPrice": 0.0505,
+      "currentPrice": 0.0485,
       "lastTradePrice": 0.037,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "price_change_1h": 0.45,
-      "rank": 37
-    },
-    {
-      "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
-      "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
-      "question": "Russia x Ukraine ceasefire by January 31, 2026?",
-      "volume24hr": 539391.12,
-      "volumeNum": 7344984.13,
-      "currentPrice": 0.0375,
-      "lastTradePrice": 0.038,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": -0.4,
-      "rank": 38
-    },
-    {
-      "slug": "will-russia-capture-all-of-kupiansk-by-january-31",
-      "eventSlug": "will-russia-capture-all-of-kupiansk-by",
-      "question": "Will Russia capture all of Kupiansk by January 31?",
-      "volume24hr": 495.56,
-      "volumeNum": 27348.52,
-      "currentPrice": 0.0165,
-      "lastTradePrice": 0.02,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": 0.1,
-      "rank": 39
+      "price_change_1h": -0.2,
+      "rank": 33
     },
     {
       "slug": "zelenskyy-out-as-ukraine-president-by-march-31-2026",
@@ -4226,73 +4148,47 @@
       "lastTradePrice": 0.068,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "political",
-      "price_change_1h": 0.1,
-      "rank": 40
+      "price_change_1h": -0.15,
+      "rank": 34
     },
     {
-      "slug": "ukraine-hits-moscow-by-january-15",
-      "eventSlug": "ukraine-hits-moscow-by-september-30",
-      "question": "Ukraine hits Moscow by January 15?",
-      "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
+      "slug": "natoeu-troops-fighting-in-ukraine-in-june-30-2026",
+      "eventSlug": "natoeu-troops-fighting-in-ukraine-in-2025",
+      "question": "NATO/EU troops fighting in Ukraine in June 30, 2026?",
+      "volume24hr": 105.49,
+      "volumeNum": 33582.76,
       "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
-      "endDate": "2026-01-15T00:00:00Z",
-      "market_type": "general",
-      "price_change_1h": 0.1,
-      "rank": 41
+      "lastTradePrice": 0.062,
+      "endDate": "2025-12-31T12:00:00Z",
+      "market_type": "diplomatic",
+      "price_change_1h": 0.15,
+      "rank": 35
     },
     {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-ukraine",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Ukraine before 2027?",
-      "volume24hr": 1242.91,
-      "volumeNum": 28477.72,
-      "currentPrice": 0.027,
-      "lastTradePrice": 0.011,
-      "endDate": "2026-12-31T00:00:00Z",
+      "slug": "will-russia-capture-all-of-kupiansk-by-january-31",
+      "eventSlug": "will-russia-capture-all-of-kupiansk-by",
+      "question": "Will Russia capture all of Kupiansk by January 31?",
+      "volume24hr": 495.56,
+      "volumeNum": 27348.52,
+      "currentPrice": 0.016,
+      "lastTradePrice": 0.02,
+      "endDate": "2025-12-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_1h": -0.1,
+      "rank": 36
+    },
+    {
+      "slug": "will-zelenskyy-talk-to-putin-by-january-31",
+      "eventSlug": "will-zelenskyy-talk-to-putin-by-november-30-821",
+      "question": "Will Zelenskyy talk to Putin by January 31?",
+      "volume24hr": 2427.1,
+      "volumeNum": 7648.92,
+      "currentPrice": 0.0355,
+      "lastTradePrice": 0.039,
+      "endDate": "2025-12-31T00:00:00Z",
       "market_type": "political",
       "price_change_1h": 0.1,
-      "rank": 42
-    },
-    {
-      "slug": "will-charlie-kirk-win-the-nobel-peace-prize-in-2026",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will Charlie Kirk win the Nobel Peace Prize in 2026?",
-      "volume24hr": 356.0,
-      "volumeNum": 135016.75,
-      "currentPrice": 0.0255,
-      "lastTradePrice": 0.027,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": 0.1,
-      "rank": 43
-    },
-    {
-      "slug": "will-volodymyr-zelensky-win-the-nobel-peace-prize-in-2026-637",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will Volodymyr Zelenskyy win the Nobel Peace Prize in 2026?",
-      "volume24hr": 73.8,
-      "volumeNum": 60533.22,
-      "currentPrice": 0.031,
-      "lastTradePrice": 0.038,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "price_change_1h": 0.1,
-      "rank": 44
-    },
-    {
-      "slug": "will-russia-enter-druzkhivka-by-january-31",
-      "eventSlug": "will-russia-enter-druzkhivka-by-january-31",
-      "question": "Will Russia enter Druzkhivka by January 31?",
-      "volume24hr": 1269.62,
-      "volumeNum": 15855.37,
-      "currentPrice": 0.064,
-      "lastTradePrice": 0.06,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_1h": -0.05,
-      "rank": 45
+      "rank": 37
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-15-2026",
@@ -4305,7 +4201,33 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "price_change_1h": -0.05,
-      "rank": 46
+      "rank": 38
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
+      "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
+      "question": "Russia x Ukraine ceasefire by January 31, 2026?",
+      "volume24hr": 539391.12,
+      "volumeNum": 7351364.38,
+      "currentPrice": 0.037,
+      "lastTradePrice": 0.037,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "peace",
+      "price_change_1h": -0.05,
+      "rank": 39
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-ukraine-328-474",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Ukraine?",
+      "volume24hr": 219.2,
+      "volumeNum": 92562.49,
+      "currentPrice": 0.0045,
+      "lastTradePrice": 0.003,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.05,
+      "rank": 40
     },
     {
       "slug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
@@ -4317,8 +4239,75 @@
       "lastTradePrice": 0.034,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "peace",
+      "price_change_1h": 0.05,
+      "rank": 41
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-finland-772-412",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Finland?",
+      "volume24hr": 55,
+      "volumeNum": 30729.36,
+      "currentPrice": 0.0035,
+      "lastTradePrice": 0.003,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
       "price_change_1h": -0.05,
-      "rank": 47
+      "rank": 42
+    },
+    {
+      "slug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
+      "eventSlug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
+      "question": "Will Putin meet with Zelenskyy by March 31, 2026?",
+      "volume24hr": 413.54,
+      "volumeNum": 9845.19,
+      "currentPrice": 0.0755,
+      "lastTradePrice": 0.075,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_1h": -0.05,
+      "rank": 43
+    },
+    {
+      "slug": "will-charlie-kirk-win-the-nobel-peace-prize-in-2026",
+      "eventSlug": "nobel-peace-prize-winner-2026-139",
+      "question": "Will Charlie Kirk win the Nobel Peace Prize in 2026?",
+      "volume24hr": 356.0,
+      "volumeNum": 135016.75,
+      "currentPrice": 0.0255,
+      "lastTradePrice": 0.027,
+      "endDate": "2026-10-10T00:00:00Z",
+      "market_type": "peace",
+      "price_change_1h": 0.05,
+      "rank": 44
+    }
+  ],
+  "top_movers_24h": [
+    {
+      "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
+      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
+      "question": "Russia strike on Kyiv municipality by January 10, 2026?",
+      "volume24hr": 39697.41,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
+      "lastTradePrice": 0.928,
+      "endDate": "2026-01-17T00:00:00Z",
+      "market_type": "general",
+      "price_change_24h": 22.9,
+      "rank": 1
+    },
+    {
+      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
+      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
+      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
+      "volume24hr": 9161.7,
+      "volumeNum": 17001.82,
+      "currentPrice": 0.9285,
+      "lastTradePrice": 0.933,
+      "endDate": "2026-01-17T00:00:00Z",
+      "market_type": "general",
+      "price_change_24h": 15.85,
+      "rank": 2
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
@@ -4330,88 +4319,34 @@
       "lastTradePrice": 0.151,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "price_change_1h": -0.05,
-      "rank": 48
-    },
-    {
-      "slug": "nuclear-weapon-detonation-by-march-31",
-      "eventSlug": "nuclear-weapon-detonation-by-562",
-      "question": "Nuclear weapon detonation by March 31?",
-      "volume24hr": 3743.16,
-      "volumeNum": 13491.49,
-      "currentPrice": 0.0485,
-      "lastTradePrice": 0.044,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "aid",
-      "price_change_1h": -0.05,
-      "rank": 49
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-us",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in US before 2027?",
-      "volume24hr": 37.5,
-      "volumeNum": 12250.84,
-      "currentPrice": 0.0495,
-      "lastTradePrice": 0.053,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_1h": 0.05,
-      "rank": 50
-    }
-  ],
-  "top_movers_24h": [
-    {
-      "slug": "khl-hcs-hcd-2026-01-05",
-      "eventSlug": "khl-hcs-hcd-2026-01-05",
-      "question": "KHL: HC Sochi vs. HC Dynamo Moscow",
-      "volume24hr": 71094.55,
-      "volumeNum": 71874.65,
-      "currentPrice": 0.9995,
-      "lastTradePrice": 0.999,
-      "endDate": "2026-01-05T14:00:00Z",
-      "market_type": "general",
-      "price_change_24h": 37.5,
-      "rank": 1
-    },
-    {
-      "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
-      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
-      "question": "Russia strike on Kyiv municipality by January 10, 2026?",
-      "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
-      "lastTradePrice": 0.928,
-      "endDate": "2026-01-17T00:00:00Z",
-      "market_type": "general",
-      "price_change_24h": 22.7,
-      "rank": 2
-    },
-    {
-      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
-      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
-      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
-      "volume24hr": 9161.7,
-      "volumeNum": 16918.43,
-      "currentPrice": 0.9835,
-      "lastTradePrice": 0.986,
-      "endDate": "2026-01-17T00:00:00Z",
-      "market_type": "general",
-      "price_change_24h": 17.6,
+      "price_change_24h": -7.05,
       "rank": 3
     },
     {
-      "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
-      "eventSlug": "oscars-2026-best-documentary-feature-film-nominations",
-      "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
-      "volume24hr": 520.43,
-      "volumeNum": 45335.57,
-      "currentPrice": 0.32,
-      "lastTradePrice": 0.33,
-      "endDate": "2026-01-22T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 11.0,
+      "slug": "will-russia-enter-zaliznychne-by-january-31",
+      "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
+      "question": "Will Russia enter Zaliznychne by January 31?",
+      "volume24hr": 3284.71,
+      "volumeNum": 54274.15,
+      "currentPrice": 0.44,
+      "lastTradePrice": 0.43,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -7.0,
       "rank": 4
+    },
+    {
+      "slug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "eventSlug": "ukraine-agrees-to-limit-size-of-armed-forces-before-2027",
+      "question": "Ukraine agrees to limit size of armed forces before 2027?",
+      "volume24hr": 1279.4,
+      "volumeNum": 50011.12,
+      "currentPrice": 0.42,
+      "lastTradePrice": 0.4,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "general",
+      "price_change_24h": 7.0,
+      "rank": 5
     },
     {
       "slug": "will-russia-enter-druzkhivka-by-june-30-933-897",
@@ -4423,112 +4358,47 @@
       "lastTradePrice": 0.47,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "territorial",
-      "price_change_24h": -7.0,
-      "rank": 5
-    },
-    {
-      "slug": "will-russia-enter-zaliznychne-by-january-31",
-      "eventSlug": "will-russia-enter-zaliznychne-by-january-31",
-      "question": "Will Russia enter Zaliznychne by January 31?",
-      "volume24hr": 3284.71,
-      "volumeNum": 54265.38,
-      "currentPrice": 0.445,
-      "lastTradePrice": 0.43,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
       "price_change_24h": -6.5,
       "rank": 6
     },
     {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-india-416-286",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in India before 2027?",
-      "volume24hr": 144.4,
-      "volumeNum": 22575.19,
-      "currentPrice": 0.026,
-      "lastTradePrice": 0.151,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": -6.1,
+      "slug": "ukraine-peace-referendum-scheduled-by-june-30",
+      "eventSlug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
+      "question": "Ukraine peace referendum scheduled by June 30?",
+      "volume24hr": 82.59,
+      "volumeNum": 1317.55,
+      "currentPrice": 0.24,
+      "lastTradePrice": 0.28,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "peace",
+      "price_change_24h": -5.5,
       "rank": 7
     },
     {
-      "slug": "will-russia-enter-sloviansk-by-june-30",
-      "eventSlug": "which-cities-will-russia-enter-by-june-30",
-      "question": "Will Russia enter Sloviansk by June 30?",
-      "volume24hr": 9689.98,
-      "volumeNum": 52748.37,
-      "currentPrice": 0.305,
-      "lastTradePrice": 0.3,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -5.0,
+      "slug": "ukraine-hits-moscow-by-january-15",
+      "eventSlug": "ukraine-hits-moscow-by-september-30",
+      "question": "Ukraine hits Moscow by January 15?",
+      "volume24hr": 9617.27,
+      "volumeNum": 48350.11,
+      "currentPrice": 0.0535,
+      "lastTradePrice": 0.05,
+      "endDate": "2026-01-15T00:00:00Z",
+      "market_type": "general",
+      "price_change_24h": -4.2,
       "rank": 8
-    },
-    {
-      "slug": "will-russia-enter-toretske-by-january-31",
-      "eventSlug": "will-russia-enter-toretske-by-december-31",
-      "question": "Will Russia enter Toretske by January 31?",
-      "volume24hr": 1118.13,
-      "volumeNum": 16725.04,
-      "currentPrice": 0.235,
-      "lastTradePrice": 0.21,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -4.5,
-      "rank": 9
-    },
-    {
-      "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
-      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
-      "question": "Will Russia capture all of Myrnohrad by January 31?",
-      "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
-      "lastTradePrice": 0.56,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -4.0,
-      "rank": 10
     },
     {
       "slug": "will-russia-capture-all-of-pokrovsk-by-january-31",
       "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
       "question": "Will Russia capture all of Pokrovsk by January 31?",
       "volume24hr": 2058.0,
-      "volumeNum": 41502.55,
-      "currentPrice": 0.285,
+      "volumeNum": 41529.95,
+      "currentPrice": 0.28,
       "lastTradePrice": 0.3,
       "endDate": "2025-09-30T00:00:00Z",
       "market_type": "territorial",
       "price_change_24h": -4.0,
-      "rank": 11
-    },
-    {
-      "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31",
-      "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
-      "question": "Ukraine officially agrees to a US backed ceasefire framework by March 31?",
-      "volume24hr": 2391.79,
-      "volumeNum": 32952.38,
-      "currentPrice": 0.34,
-      "lastTradePrice": 0.33,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_24h": 4.0,
-      "rank": 12
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-february-28",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by February 28?",
-      "volume24hr": 7001.02,
-      "volumeNum": 69394.21,
-      "currentPrice": 0.725,
-      "lastTradePrice": 0.69,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": 3.0,
-      "rank": 13
+      "rank": 9
     },
     {
       "slug": "will-russia-enter-borova-by-march-31",
@@ -4540,8 +4410,86 @@
       "lastTradePrice": 0.51,
       "endDate": "2026-03-31T00:00:00Z",
       "market_type": "territorial",
+      "price_change_24h": -4.0,
+      "rank": 10
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-february-28",
+      "eventSlug": "will-russia-capture-kostyantynivka-by",
+      "question": "Will Russia capture Kostyantynivka by February 28?",
+      "volume24hr": 7001.02,
+      "volumeNum": 69394.21,
+      "currentPrice": 0.725,
+      "lastTradePrice": 0.69,
+      "endDate": "2026-03-31T12:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": 3.5,
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
+      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
+      "question": "Will Russia capture all of Myrnohrad by January 31?",
+      "volume24hr": 33495.1,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
+      "lastTradePrice": 0.56,
+      "endDate": "2025-12-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -3.0,
+      "rank": 12
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
+      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
+      "question": "Will Russia capture all of Pokrovsk by February 28?",
+      "volume24hr": 11154.0,
+      "volumeNum": 60998.99,
+      "currentPrice": 0.655,
+      "lastTradePrice": 0.67,
+      "endDate": "2025-09-30T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -3.0,
+      "rank": 13
+    },
+    {
+      "slug": "will-russia-capture-lyman-by-january-31-2026",
+      "eventSlug": "will-russia-capture-lyman-in-2025",
+      "question": "Will Russia capture Lyman by January 31, 2026?",
+      "volume24hr": 2811.29,
+      "volumeNum": 26826.02,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
+      "endDate": "2025-12-31T23:55:00Z",
+      "market_type": "territorial",
       "price_change_24h": -3.0,
       "rank": 14
+    },
+    {
+      "slug": "ukraine-election-called-by-june-30-2026-392",
+      "eventSlug": "ukraine-election-called-in-2025",
+      "question": "Ukraine election called by June 30, 2026?",
+      "volume24hr": 172.21,
+      "volumeNum": 43613.96,
+      "currentPrice": 0.27,
+      "lastTradePrice": 0.28,
+      "endDate": "2025-12-31T12:00:00Z",
+      "market_type": "political",
+      "price_change_24h": -3.0,
+      "rank": 15
+    },
+    {
+      "slug": "ukraine-agrees-not-to-join-nato-before-2027",
+      "eventSlug": "ukraine-agrees-not-to-join-nato-before-2027",
+      "question": "Ukraine agrees not to join NATO before 2027? ",
+      "volume24hr": 2560.14,
+      "volumeNum": 28049.74,
+      "currentPrice": 0.31,
+      "lastTradePrice": 0.3,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "diplomatic",
+      "price_change_24h": -3.0,
+      "rank": 16
     },
     {
       "slug": "will-russia-rejoin-the-g7-before-2027",
@@ -4554,20 +4502,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "price_change_24h": 3.0,
-      "rank": 15
-    },
-    {
-      "slug": "ukraine-peace-referendum-scheduled-by-june-30",
-      "eventSlug": "ukraine-calls-a-referendum-on-peace-deal-with-russia-by-january-31",
-      "question": "Ukraine peace referendum scheduled by June 30?",
-      "volume24hr": 82.59,
-      "volumeNum": 1317.55,
-      "currentPrice": 0.24,
-      "lastTradePrice": 0.28,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "peace",
-      "price_change_24h": 3.0,
-      "rank": 16
+      "rank": 17
     },
     {
       "slug": "will-a-us-ally-get-a-nuke-before-2027",
@@ -4580,7 +4515,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "price_change_24h": -3.0,
-      "rank": 17
+      "rank": 18
     },
     {
       "slug": "us-x-russia-nuclear-deal-by-june-30",
@@ -4593,32 +4528,19 @@
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "general",
       "price_change_24h": -3.0,
-      "rank": 18
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
-      "volume24hr": 122.3,
-      "volumeNum": 7934.25,
-      "currentPrice": 0.0195,
-      "lastTradePrice": 0.036,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": -2.65,
       "rank": 19
     },
     {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
-      "volume24hr": 187.36,
-      "volumeNum": 30980.97,
-      "currentPrice": 0.0505,
-      "lastTradePrice": 0.037,
-      "endDate": "2026-12-31T00:00:00Z",
+      "slug": "will-mr-nobody-against-putin-be-nominated-for-best-documentary-feature-at-the-98th-academy-awards",
+      "eventSlug": "oscars-2026-best-documentary-feature-film-nominations",
+      "question": "Will Mr. Nobody Against Putin be nominated for Best Documentary Feature at the 98th Academy Awards?",
+      "volume24hr": 520.43,
+      "volumeNum": 45335.57,
+      "currentPrice": 0.35,
+      "lastTradePrice": 0.33,
+      "endDate": "2026-01-22T00:00:00Z",
       "market_type": "political",
-      "price_change_24h": 2.6,
+      "price_change_24h": 3.0,
       "rank": 20
     },
     {
@@ -4627,7 +4549,7 @@
       "question": "Will Russia enter Druzkhivka by January 31?",
       "volume24hr": 1269.62,
       "volumeNum": 15855.37,
-      "currentPrice": 0.064,
+      "currentPrice": 0.0645,
       "lastTradePrice": 0.06,
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
@@ -4648,30 +4570,43 @@
       "rank": 22
     },
     {
-      "slug": "ukraine-agrees-not-to-join-nato-before-2027",
-      "eventSlug": "ukraine-agrees-not-to-join-nato-before-2027",
-      "question": "Ukraine agrees not to join NATO before 2027? ",
-      "volume24hr": 2560.14,
-      "volumeNum": 28049.74,
-      "currentPrice": 0.31,
-      "lastTradePrice": 0.3,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "diplomatic",
-      "price_change_24h": -2.5,
+      "slug": "will-russia-enter-vozdvyzhivka-by-january-31",
+      "eventSlug": "will-russia-enter-vozdvyzhivka-by-january-31",
+      "question": "Will Russia enter Vozdvyzhivka by January 31?",
+      "volume24hr": 229.23,
+      "volumeNum": 15433.73,
+      "currentPrice": 0.135,
+      "lastTradePrice": 0.13,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": 2.5,
       "rank": 23
     },
     {
-      "slug": "will-zelenskyy-and-putin-not-meet",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin not meet before 2027?",
-      "volume24hr": 984.84,
-      "volumeNum": 24925.82,
-      "currentPrice": 0.785,
-      "lastTradePrice": 0.8,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
+      "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
+      "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
+      "question": "Russia x Ukraine ceasefire by March 31, 2026?",
+      "volume24hr": 429587.86,
+      "volumeNum": 7328526.26,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "peace",
       "price_change_24h": 2.5,
       "rank": 24
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-united-states-224-875-469",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in United States?",
+      "volume24hr": 85.72,
+      "volumeNum": 10649.98,
+      "currentPrice": 0.087,
+      "lastTradePrice": 0.075,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": 2.5,
+      "rank": 25
     },
     {
       "slug": "trump-putin-and-zelensky-seen-together-before-2027",
@@ -4684,59 +4619,7 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
       "price_change_24h": 2.5,
-      "rank": 25
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-us",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in US before 2027?",
-      "volume24hr": 37.5,
-      "volumeNum": 12250.84,
-      "currentPrice": 0.0495,
-      "lastTradePrice": 0.053,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 2.35,
       "rank": 26
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
-      "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in another country?",
-      "volume24hr": 169.5,
-      "volumeNum": 12195.29,
-      "currentPrice": 0.038,
-      "lastTradePrice": 0.067,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 2.3,
-      "rank": 27
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
-      "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in another EU country?",
-      "volume24hr": 192.31,
-      "volumeNum": 36716.31,
-      "currentPrice": 0.2845,
-      "lastTradePrice": 0.313,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 2.25,
-      "rank": 28
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-turkey-182-161-789",
-      "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in Turkey?",
-      "volume24hr": 90.53,
-      "volumeNum": 11991.41,
-      "currentPrice": 0.039,
-      "lastTradePrice": 0.117,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 2.15,
-      "rank": 29
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-russia",
@@ -4744,51 +4627,38 @@
       "question": "Will Zelenskyy and Putin meet next in Russia before 2027?",
       "volume24hr": 71.19,
       "volumeNum": 16534.44,
-      "currentPrice": 0.032,
+      "currentPrice": 0.0305,
       "lastTradePrice": 0.014,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "price_change_24h": 2.1,
-      "rank": 30
+      "price_change_24h": 2.3,
+      "rank": 27
     },
     {
-      "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
-      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by January 15?",
-      "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
-      "lastTradePrice": 0.07,
-      "endDate": "2025-09-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -2.0,
-      "rank": 31
-    },
-    {
-      "slug": "will-russia-capture-all-of-pokrovsk-by-february-28",
-      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by February 28?",
-      "volume24hr": 11154.0,
-      "volumeNum": 60998.99,
-      "currentPrice": 0.655,
-      "lastTradePrice": 0.67,
-      "endDate": "2025-09-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -2.0,
-      "rank": 32
-    },
-    {
-      "slug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
-      "eventSlug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
-      "question": "Will Ukraine agree to cede territory to Russia before 2027?",
-      "volume24hr": 22583.27,
-      "volumeNum": 222646.06,
-      "currentPrice": 0.315,
-      "lastTradePrice": 0.32,
+      "slug": "will-zelenskyy-and-putin-meet-next-in-qatar-uae",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Qatar / UAE before 2027?",
+      "volume24hr": 187.36,
+      "volumeNum": 30980.97,
+      "currentPrice": 0.0485,
+      "lastTradePrice": 0.037,
       "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "general",
-      "price_change_24h": -2.0,
-      "rank": 33
+      "market_type": "political",
+      "price_change_24h": 2.2,
+      "rank": 28
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-another-european-country-954-837-364",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in another EU country?",
+      "volume24hr": 192.31,
+      "volumeNum": 36716.31,
+      "currentPrice": 0.2875,
+      "lastTradePrice": 0.313,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": -2.1,
+      "rank": 29
     },
     {
       "slug": "will-zelenskyy-and-putin-meet-next-in-ukraine",
@@ -4796,12 +4666,25 @@
       "question": "Will Zelenskyy and Putin meet next in Ukraine before 2027?",
       "volume24hr": 1242.91,
       "volumeNum": 28477.72,
-      "currentPrice": 0.027,
+      "currentPrice": 0.0255,
       "lastTradePrice": 0.011,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "price_change_24h": 1.95,
-      "rank": 34
+      "price_change_24h": 2.1,
+      "rank": 30
+    },
+    {
+      "slug": "will-russia-enter-toretske-by-january-31",
+      "eventSlug": "will-russia-enter-toretske-by-december-31",
+      "question": "Will Russia enter Toretske by January 31?",
+      "volume24hr": 1118.13,
+      "volumeNum": 16725.04,
+      "currentPrice": 0.235,
+      "lastTradePrice": 0.21,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -2.0,
+      "rank": 31
     },
     {
       "slug": "will-russia-capture-all-of-prymorske-by-january-31-2026",
@@ -4814,72 +4697,46 @@
       "endDate": "2026-01-31T00:00:00Z",
       "market_type": "territorial",
       "price_change_24h": -1.8,
+      "rank": 32
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-switzerland-448-348",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Switzerland?",
+      "volume24hr": 157.45,
+      "volumeNum": 12013.77,
+      "currentPrice": 0.01,
+      "lastTradePrice": 0.006,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": -1.6,
+      "rank": 33
+    },
+    {
+      "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
+      "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
+      "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
+      "volume24hr": 5451.87,
+      "volumeNum": 57359.58,
+      "currentPrice": 0.33,
+      "lastTradePrice": 0.38,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -1.5,
+      "rank": 34
+    },
+    {
+      "slug": "will-russia-enter-sloviansk-by-june-30",
+      "eventSlug": "which-cities-will-russia-enter-by-june-30",
+      "question": "Will Russia enter Sloviansk by June 30?",
+      "volume24hr": 9689.98,
+      "volumeNum": 52836.51,
+      "currentPrice": 0.3,
+      "lastTradePrice": 0.3,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -1.5,
       "rank": 35
-    },
-    {
-      "slug": "nuclear-weapon-detonation-by-march-31",
-      "eventSlug": "nuclear-weapon-detonation-by-562",
-      "question": "Nuclear weapon detonation by March 31?",
-      "volume24hr": 3743.16,
-      "volumeNum": 13491.49,
-      "currentPrice": 0.0485,
-      "lastTradePrice": 0.044,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "aid",
-      "price_change_24h": 1.7,
-      "rank": 36
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
-      "volume24hr": 226.14,
-      "volumeNum": 8904.63,
-      "currentPrice": 0.0305,
-      "lastTradePrice": 0.022,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 1.65,
-      "rank": 37
-    },
-    {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
-      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Switzerland before 2027?",
-      "volume24hr": 568.07,
-      "volumeNum": 7846.31,
-      "currentPrice": 0.0265,
-      "lastTradePrice": 0.029,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": 1.6,
-      "rank": 38
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-january-31",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by January 31?",
-      "volume24hr": 22877.54,
-      "volumeNum": 219014.11,
-      "currentPrice": 0.415,
-      "lastTradePrice": 0.42,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -1.5,
-      "rank": 39
-    },
-    {
-      "slug": "will-russia-capture-rodynske-by-january-31",
-      "eventSlug": "will-russia-capture-rodynske-by-september-15",
-      "question": "Will Russia capture Rodynske by January 31?",
-      "volume24hr": 16521.72,
-      "volumeNum": 109143.81,
-      "currentPrice": 0.28,
-      "lastTradePrice": 0.27,
-      "endDate": "2025-12-31T22:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -1.5,
-      "rank": 40
     },
     {
       "slug": "will-russia-capture-lyman-by-march-31-2026",
@@ -4891,60 +4748,60 @@
       "lastTradePrice": 0.73,
       "endDate": "2025-12-31T23:55:00Z",
       "market_type": "territorial",
-      "price_change_24h": 1.5,
-      "rank": 41
-    },
-    {
-      "slug": "will-russia-capture-lyman-by-january-31-2026",
-      "eventSlug": "will-russia-capture-lyman-in-2025",
-      "question": "Will Russia capture Lyman by January 31, 2026?",
-      "volume24hr": 2811.29,
-      "volumeNum": 26816.02,
-      "currentPrice": 0.17,
-      "lastTradePrice": 0.18,
-      "endDate": "2025-12-31T23:55:00Z",
-      "market_type": "territorial",
       "price_change_24h": -1.5,
-      "rank": 42
+      "rank": 36
     },
     {
-      "slug": "will-russia-enter-zaporizhia-by-june-30-845",
-      "eventSlug": "which-cities-will-russia-enter-by-june-30",
-      "question": "Will Russia enter Zaporizhia by June 30?",
-      "volume24hr": 346.13,
-      "volumeNum": 23575.2,
-      "currentPrice": 0.21,
-      "lastTradePrice": 0.21,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "territorial",
-      "price_change_24h": -1.5,
-      "rank": 43
-    },
-    {
-      "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "question": "Russia x Ukraine ceasefire by March 31, 2026?",
-      "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
-      "currentPrice": 0.165,
-      "lastTradePrice": 0.16,
-      "endDate": "2026-03-31T00:00:00Z",
+      "slug": "will-russia-announce-a-christmas-truce",
+      "eventSlug": "will-russia-announce-a-christmas-truce",
+      "question": "Will Russia announce a Christmas truce?",
+      "volume24hr": 20426.09,
+      "volumeNum": 275097.24,
+      "currentPrice": 0.075,
+      "lastTradePrice": 0.07,
+      "endDate": "2026-01-07T00:00:00Z",
       "market_type": "peace",
-      "price_change_24h": 1.5,
-      "rank": 44
+      "price_change_24h": -1.5,
+      "rank": 37
     },
     {
-      "slug": "will-trump-meet-with-putin-by-march-31",
-      "eventSlug": "will-trump-meet-with-putin-again-by",
-      "question": "Will Trump meet with Putin by March 31, 2026?",
-      "volume24hr": 531.02,
-      "volumeNum": 59307.9,
-      "currentPrice": 0.195,
-      "lastTradePrice": 0.22,
-      "endDate": "2026-03-31T00:00:00Z",
+      "slug": "will-zelenskyy-and-putin-not-meet",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin not meet before 2027?",
+      "volume24hr": 984.84,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
+      "lastTradePrice": 0.8,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": 1.5,
+      "rank": 38
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-russia-594-493-482",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Russia?",
+      "volume24hr": 62.91,
+      "volumeNum": 14677.27,
+      "currentPrice": 0.0405,
+      "lastTradePrice": 0.05,
+      "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "price_change_24h": -1.5,
-      "rank": 45
+      "rank": 39
+    },
+    {
+      "slug": "will-trump-and-putin-meet-next-in-turkey-182-161-789",
+      "eventSlug": "where-will-trump-and-putin-meet-next-584",
+      "question": "Will Trump and Putin meet next in Turkey?",
+      "volume24hr": 90.53,
+      "volumeNum": 11991.41,
+      "currentPrice": 0.035,
+      "lastTradePrice": 0.117,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": -1.5,
+      "rank": 40
     },
     {
       "slug": "us-recognizes-russian-sovereignty-over-ukraine-before-2027",
@@ -4957,321 +4814,33 @@
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "general",
       "price_change_24h": -1.5,
-      "rank": 46
+      "rank": 41
     },
     {
-      "slug": "russia-ukraine-ceasefire-before-gta-vi-554",
-      "eventSlug": "what-will-happen-before-gta-vi",
-      "question": "Russia-Ukraine Ceasefire before GTA VI?",
-      "volume24hr": 250.41,
-      "volumeNum": 394043.59,
-      "currentPrice": 0.62,
-      "lastTradePrice": 0.61,
-      "endDate": "2026-07-31T12:00:00Z",
-      "market_type": "peace",
-      "price_change_24h": -1.5,
-      "rank": 47
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-russia-594-493-482",
+      "slug": "will-trump-and-putin-meet-next-in-another-country-313-781-734-447",
       "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in Russia?",
-      "volume24hr": 62.91,
-      "volumeNum": 14677.27,
-      "currentPrice": 0.0405,
-      "lastTradePrice": 0.05,
-      "endDate": "2026-06-30T00:00:00Z",
-      "market_type": "political",
-      "price_change_24h": -1.45,
-      "rank": 48
-    },
-    {
-      "slug": "ukraine-hits-moscow-by-january-15",
-      "eventSlug": "ukraine-hits-moscow-by-september-30",
-      "question": "Ukraine hits Moscow by January 15?",
-      "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
-      "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
-      "endDate": "2026-01-15T00:00:00Z",
-      "market_type": "general",
-      "price_change_24h": -1.35,
-      "rank": 49
-    },
-    {
-      "slug": "will-trump-and-putin-meet-next-in-united-states-224-875-469",
-      "eventSlug": "where-will-trump-and-putin-meet-next-584",
-      "question": "Will Trump and Putin meet next in United States?",
-      "volume24hr": 85.72,
-      "volumeNum": 10649.98,
-      "currentPrice": 0.0875,
-      "lastTradePrice": 0.075,
+      "question": "Will Trump and Putin meet next in another country?",
+      "volume24hr": 169.5,
+      "volumeNum": 12195.29,
+      "currentPrice": 0.036,
+      "lastTradePrice": 0.067,
       "endDate": "2026-06-30T00:00:00Z",
       "market_type": "political",
       "price_change_24h": -1.3,
-      "rank": 50
-    }
-  ],
-  "volume_spikes": [
-    {
-      "slug": "will-russia-announce-a-christmas-truce",
-      "eventSlug": "will-russia-announce-a-christmas-truce",
-      "question": "Will Russia announce a Christmas truce?",
-      "volume24hr": 20426.09,
-      "volumeNum": 273956.6,
-      "currentPrice": 0.075,
-      "lastTradePrice": 0.09,
-      "endDate": "2026-01-07T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 14044.69,
-      "rank": 1
+      "rank": 42
     },
     {
-      "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
-      "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
-      "question": "Russia x Ukraine ceasefire by January 31, 2026?",
-      "volume24hr": 539391.12,
-      "volumeNum": 7344984.13,
-      "currentPrice": 0.0375,
-      "lastTradePrice": 0.038,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 4473.63,
-      "rank": 2
-    },
-    {
-      "slug": "ukraine-agrees-not-to-join-nato-before-2027",
-      "eventSlug": "ukraine-agrees-not-to-join-nato-before-2027",
-      "question": "Ukraine agrees not to join NATO before 2027? ",
-      "volume24hr": 2560.14,
-      "volumeNum": 28049.74,
-      "currentPrice": 0.31,
-      "lastTradePrice": 0.3,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "diplomatic",
-      "volume_delta": 2891.31,
-      "rank": 3
-    },
-    {
-      "slug": "will-charlie-kirk-win-the-nobel-peace-prize-in-2026",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will Charlie Kirk win the Nobel Peace Prize in 2026?",
-      "volume24hr": 356.0,
-      "volumeNum": 135016.75,
-      "currentPrice": 0.0255,
-      "lastTradePrice": 0.027,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 2000.0,
-      "rank": 4
-    },
-    {
-      "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
-      "question": "Russia x Ukraine ceasefire by March 31, 2026?",
-      "volume24hr": 429587.86,
-      "volumeNum": 7327168.68,
-      "currentPrice": 0.165,
-      "lastTradePrice": 0.16,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 1832.66,
-      "rank": 5
-    },
-    {
-      "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
-      "volume24hr": 21608.79,
-      "volumeNum": 1205764.1,
-      "currentPrice": 0.135,
-      "lastTradePrice": 0.14,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 1428.86,
-      "rank": 6
-    },
-    {
-      "slug": "russia-x-ukraine-peace-parlay",
-      "eventSlug": "russia-x-ukraine-peace-parlay",
-      "question": "Russia x Ukraine Peace Parlay",
-      "volume24hr": 3068.15,
-      "volumeNum": 152751.31,
-      "currentPrice": 0.25,
-      "lastTradePrice": 0.24,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 952.0,
-      "rank": 7
-    },
-    {
-      "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
-      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
-      "question": "Russia strike on Kyiv municipality by January 10, 2026?",
-      "volume24hr": 39697.41,
-      "volumeNum": 51455.15,
-      "currentPrice": 0.9305,
-      "lastTradePrice": 0.928,
-      "endDate": "2026-01-17T00:00:00Z",
-      "market_type": "general",
-      "volume_delta": 584.28,
-      "rank": 8
-    },
-    {
-      "slug": "russia-x-ukraine-ceasefire-before-2027",
-      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
-      "question": "Russia x Ukraine ceasefire by end of 2026?",
-      "volume24hr": 153695.24,
-      "volumeNum": 5737092.24,
-      "currentPrice": 0.445,
-      "lastTradePrice": 0.45,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 568.46,
-      "rank": 9
-    },
-    {
-      "slug": "zelenskyy-out-as-ukraine-president-before-2027",
-      "eventSlug": "zelenskyy-out-as-ukraine-president-before-2027",
-      "question": "Zelenskyy out as Ukraine president by end of 2026?",
-      "volume24hr": 11099.04,
-      "volumeNum": 1160551.07,
-      "currentPrice": 0.325,
-      "lastTradePrice": 0.32,
+      "slug": "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Switzerland before 2027?",
+      "volume24hr": 568.07,
+      "volumeNum": 7846.31,
+      "currentPrice": 0.0265,
+      "lastTradePrice": 0.029,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "volume_delta": 531.15,
-      "rank": 10
-    },
-    {
-      "slug": "russia-strike-on-kyiv-municipality-by-january-17-2026",
-      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
-      "question": "Russia strike on Kyiv municipality by January 17, 2026?",
-      "volume24hr": 9161.7,
-      "volumeNum": 16918.43,
-      "currentPrice": 0.9835,
-      "lastTradePrice": 0.986,
-      "endDate": "2026-01-17T00:00:00Z",
-      "market_type": "general",
-      "volume_delta": 494.8,
-      "rank": 11
-    },
-    {
-      "slug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-january-31",
-      "eventSlug": "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-in-2025",
-      "question": "Ukraine officially agrees to a US backed ceasefire framework by January 31?",
-      "volume24hr": 8464.45,
-      "volumeNum": 157409.21,
-      "currentPrice": 0.14,
-      "lastTradePrice": 0.13,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 427.42,
-      "rank": 12
-    },
-    {
-      "slug": "ukraine-agrees-not-to-join-nato-by-march-31",
-      "eventSlug": "ukraine-agrees-not-to-join-nato-by-march-31",
-      "question": "Ukraine agrees not to join NATO by March 31? ",
-      "volume24hr": 123.6,
-      "volumeNum": 16331.1,
-      "currentPrice": 0.0895,
-      "lastTradePrice": 0.088,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "diplomatic",
-      "volume_delta": 418.41,
-      "rank": 13
-    },
-    {
-      "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
-      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
-      "question": "Will Russia capture all of Myrnohrad by January 15?",
-      "volume24hr": 12856.71,
-      "volumeNum": 532176.02,
-      "currentPrice": 0.21,
-      "lastTradePrice": 0.22,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 415.37,
-      "rank": 14
-    },
-    {
-      "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
-      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
-      "question": "Will Russia capture all of Pokrovsk by January 15?",
-      "volume24hr": 3480.04,
-      "volumeNum": 62008.67,
-      "currentPrice": 0.05,
-      "lastTradePrice": 0.07,
-      "endDate": "2025-09-30T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 366.17,
-      "rank": 15
-    },
-    {
-      "slug": "nuclear-weapon-detonation-by-march-31",
-      "eventSlug": "nuclear-weapon-detonation-by-562",
-      "question": "Nuclear weapon detonation by March 31?",
-      "volume24hr": 3743.16,
-      "volumeNum": 13491.49,
-      "currentPrice": 0.0485,
-      "lastTradePrice": 0.044,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "aid",
-      "volume_delta": 300.0,
-      "rank": 16
-    },
-    {
-      "slug": "will-russia-capture-all-of-stepnohirsk-by-january-31-2026-147",
-      "eventSlug": "will-russia-capture-all-of-stepnohirsk-by",
-      "question": "Will Russia capture all of Stepnohirsk by January 31, 2026?",
-      "volume24hr": 5451.87,
-      "volumeNum": 57359.58,
-      "currentPrice": 0.335,
-      "lastTradePrice": 0.38,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 297.69,
-      "rank": 17
-    },
-    {
-      "slug": "will-russia-capture-kostyantynivka-by-january-31",
-      "eventSlug": "will-russia-capture-kostyantynivka-by",
-      "question": "Will Russia capture Kostyantynivka by January 31?",
-      "volume24hr": 22877.54,
-      "volumeNum": 219014.11,
-      "currentPrice": 0.415,
-      "lastTradePrice": 0.42,
-      "endDate": "2026-03-31T12:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 235.19,
-      "rank": 18
-    },
-    {
-      "slug": "putin-out-before-2027",
-      "eventSlug": "putin-out-before-2027",
-      "question": "Putin out as President of Russia by end of 2026?",
-      "volume24hr": 41014.71,
-      "volumeNum": 1277734.47,
-      "currentPrice": 0.095,
-      "lastTradePrice": 0.1,
-      "endDate": "2026-12-31T18:30:00Z",
-      "market_type": "political",
-      "volume_delta": 200.0,
-      "rank": 19
-    },
-    {
-      "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
-      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
-      "question": "Will Russia capture all of Myrnohrad by January 31?",
-      "volume24hr": 33495.1,
-      "volumeNum": 376446.56,
-      "currentPrice": 0.57,
-      "lastTradePrice": 0.56,
-      "endDate": "2025-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 161.43,
-      "rank": 20
+      "price_change_24h": 1.3,
+      "rank": 43
     },
     {
       "slug": "will-russia-capture-all-of-kupiansk-by-january-31",
@@ -5279,77 +4848,287 @@
       "question": "Will Russia capture all of Kupiansk by January 31?",
       "volume24hr": 495.56,
       "volumeNum": 27348.52,
-      "currentPrice": 0.0165,
+      "currentPrice": 0.016,
       "lastTradePrice": 0.02,
       "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "volume_delta": 152.88,
-      "rank": 21
+      "price_change_24h": -1.2,
+      "rank": 44
     },
     {
-      "slug": "ukraine-hits-moscow-by-january-15",
-      "eventSlug": "ukraine-hits-moscow-by-september-30",
-      "question": "Ukraine hits Moscow by January 15?",
-      "volume24hr": 9617.27,
-      "volumeNum": 48324.49,
-      "currentPrice": 0.0535,
-      "lastTradePrice": 0.056,
-      "endDate": "2026-01-15T00:00:00Z",
-      "market_type": "general",
-      "volume_delta": 144.99,
-      "rank": 22
+      "slug": "zelenskyy-out-as-ukraine-president-by-march-31-2026",
+      "eventSlug": "zelenskyy-out-as-ukraine-president-by-march-31-2026",
+      "question": "Zelenskyy out as Ukraine president by March 31, 2026?",
+      "volume24hr": 16219.56,
+      "volumeNum": 161148.41,
+      "currentPrice": 0.052,
+      "lastTradePrice": 0.068,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": -1.2,
+      "rank": 45
     },
     {
-      "slug": "will-russia-enter-kharkiv-by-june-30-967",
-      "eventSlug": "which-cities-will-russia-enter-by-june-30",
-      "question": "Will Russia enter Kharkiv by June 30?",
-      "volume24hr": 16.84,
-      "volumeNum": 9730.42,
-      "currentPrice": 0.06,
-      "lastTradePrice": 0.07,
-      "endDate": "2026-06-30T00:00:00Z",
+      "slug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
+      "eventSlug": "will-putin-meet-with-zelenskyy-by-march-31-2026",
+      "question": "Will Putin meet with Zelenskyy by March 31, 2026?",
+      "volume24hr": 413.54,
+      "volumeNum": 9845.19,
+      "currentPrice": 0.0755,
+      "lastTradePrice": 0.075,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "political",
+      "price_change_24h": 1.2,
+      "rank": 46
+    },
+    {
+      "slug": "nuclear-weapon-detonation-by-march-31",
+      "eventSlug": "nuclear-weapon-detonation-by-562",
+      "question": "Nuclear weapon detonation by March 31?",
+      "volume24hr": 3743.16,
+      "volumeNum": 13548.9,
+      "currentPrice": 0.0485,
+      "lastTradePrice": 0.044,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "aid",
+      "price_change_24h": 1.15,
+      "rank": 47
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-january-15",
+      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
+      "question": "Will Russia capture all of Myrnohrad by January 15?",
+      "volume24hr": 12856.71,
+      "volumeNum": 532246.48,
+      "currentPrice": 0.21,
+      "lastTradePrice": 0.2,
+      "endDate": "2025-12-31T00:00:00Z",
       "market_type": "territorial",
-      "volume_delta": 142.86,
-      "rank": 23
+      "price_change_24h": -1.0,
+      "rank": 48
     },
     {
-      "slug": "will-zelenskyy-and-putin-meet-next-in-turkey",
+      "slug": "will-russia-capture-rodynske-by-january-31",
+      "eventSlug": "will-russia-capture-rodynske-by-september-15",
+      "question": "Will Russia capture Rodynske by January 31?",
+      "volume24hr": 16521.72,
+      "volumeNum": 109179.43,
+      "currentPrice": 0.28,
+      "lastTradePrice": 0.27,
+      "endDate": "2025-12-31T22:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -1.0,
+      "rank": 49
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
+      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
+      "question": "Will Russia capture all of Pokrovsk by January 15?",
+      "volume24hr": 3480.04,
+      "volumeNum": 62300.27,
+      "currentPrice": 0.055,
+      "lastTradePrice": 0.07,
+      "endDate": "2025-09-30T00:00:00Z",
+      "market_type": "territorial",
+      "price_change_24h": -1.0,
+      "rank": 50
+    }
+  ],
+  "volume_spikes": [
+    {
+      "slug": "will-donald-trump-win-the-nobel-peace-prize-in-2026-382",
+      "eventSlug": "nobel-peace-prize-winner-2026-139",
+      "question": "Will Donald Trump win the Nobel Peace Prize in 2026?",
+      "volume24hr": 21608.79,
+      "volumeNum": 1212313.27,
+      "currentPrice": 0.135,
+      "lastTradePrice": 0.14,
+      "endDate": "2026-10-10T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 6549.17,
+      "rank": 1
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-by-january-31-2026",
+      "eventSlug": "russia-x-ukraine-ceasefire-by-january-31-2026",
+      "question": "Russia x Ukraine ceasefire by January 31, 2026?",
+      "volume24hr": 539391.12,
+      "volumeNum": 7351364.38,
+      "currentPrice": 0.037,
+      "lastTradePrice": 0.037,
+      "endDate": "2026-01-31T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 6380.25,
+      "rank": 2
+    },
+    {
+      "slug": "putin-out-as-president-of-russia-by-june-30",
+      "eventSlug": "putin-out-as-president-of-russia-by-june-30",
+      "question": "Putin out as President of Russia by June 30?",
+      "volume24hr": 13628.09,
+      "volumeNum": 124161.27,
+      "currentPrice": 0.0525,
+      "lastTradePrice": 0.054,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "political",
+      "volume_delta": 3463.17,
+      "rank": 3
+    },
+    {
+      "slug": "will-russia-capture-all-of-myrnohrad-by-january-31-425",
+      "eventSlug": "will-russia-capture-all-of-myrnohrad-by",
+      "question": "Will Russia capture all of Myrnohrad by January 31?",
+      "volume24hr": 33495.1,
+      "volumeNum": 378352.95,
+      "currentPrice": 0.545,
+      "lastTradePrice": 0.56,
+      "endDate": "2025-12-31T00:00:00Z",
+      "market_type": "territorial",
+      "volume_delta": 1906.39,
+      "rank": 4
+    },
+    {
+      "slug": "ukraine-signs-peace-deal-with-russia-by-march-31",
+      "eventSlug": "ukraine-signs-peace-deal-with-russia-by-march-31",
+      "question": "Ukraine signs peace deal with Russia by March 31?",
+      "volume24hr": 20230.47,
+      "volumeNum": 133737.97,
+      "currentPrice": 0.215,
+      "lastTradePrice": 0.24,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 1772.5,
+      "rank": 5
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-by-march-31-2026",
+      "eventSlug": "russia-x-ukraine-ceasefire-by-march-31-2026",
+      "question": "Russia x Ukraine ceasefire by March 31, 2026?",
+      "volume24hr": 429587.86,
+      "volumeNum": 7328526.26,
+      "currentPrice": 0.165,
+      "lastTradePrice": 0.16,
+      "endDate": "2026-03-31T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 1357.57,
+      "rank": 6
+    },
+    {
+      "slug": "will-russia-announce-a-christmas-truce",
+      "eventSlug": "will-russia-announce-a-christmas-truce",
+      "question": "Will Russia announce a Christmas truce?",
+      "volume24hr": 20426.09,
+      "volumeNum": 275097.24,
+      "currentPrice": 0.075,
+      "lastTradePrice": 0.07,
+      "endDate": "2026-01-07T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 1140.63,
+      "rank": 7
+    },
+    {
+      "slug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "eventSlug": "us-agrees-to-give-ukraine-security-guarantee-by-june-30",
+      "question": "U.S. agrees to give Ukraine security guarantee by June 30? ",
+      "volume24hr": 223.54,
+      "volumeNum": 28140.01,
+      "currentPrice": 0.195,
+      "lastTradePrice": 0.21,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "general",
+      "volume_delta": 1059.24,
+      "rank": 8
+    },
+    {
+      "slug": "will-russia-capture-kostyantynivka-by-march-31-872-578",
+      "eventSlug": "will-russia-capture-kostyantynivka-by",
+      "question": "Will Russia capture Kostyantynivka by March 31?",
+      "volume24hr": 8119.47,
+      "volumeNum": 200872.25,
+      "currentPrice": 0.86,
+      "lastTradePrice": 0.86,
+      "endDate": "2026-03-31T12:00:00Z",
+      "market_type": "territorial",
+      "volume_delta": 666.67,
+      "rank": 9
+    },
+    {
+      "slug": "russia-x-ukraine-ceasefire-before-2027",
+      "eventSlug": "russia-x-ukraine-ceasefire-before-2027",
+      "question": "Russia x Ukraine ceasefire by end of 2026?",
+      "volume24hr": 153695.24,
+      "volumeNum": 5737707.86,
+      "currentPrice": 0.445,
+      "lastTradePrice": 0.45,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "peace",
+      "volume_delta": 615.61,
+      "rank": 10
+    },
+    {
+      "slug": "ukraine-agrees-not-to-join-nato-by-june-30",
+      "eventSlug": "ukraine-agrees-not-to-join-nato-by-june-30",
+      "question": "Ukraine agrees not to join NATO by June 30? ",
+      "volume24hr": 6.32,
+      "volumeNum": 3987.37,
+      "currentPrice": 0.245,
+      "lastTradePrice": 0.25,
+      "endDate": "2026-06-30T00:00:00Z",
+      "market_type": "diplomatic",
+      "volume_delta": 407.04,
+      "rank": 11
+    },
+    {
+      "slug": "will-russia-capture-all-of-pokrovsk-by-january-15",
+      "eventSlug": "will-russia-capture-all-of-pokrovsk-by-september-30",
+      "question": "Will Russia capture all of Pokrovsk by January 15?",
+      "volume24hr": 3480.04,
+      "volumeNum": 62300.27,
+      "currentPrice": 0.055,
+      "lastTradePrice": 0.07,
+      "endDate": "2025-09-30T00:00:00Z",
+      "market_type": "territorial",
+      "volume_delta": 291.6,
+      "rank": 12
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-not-meet",
       "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
-      "question": "Will Zelenskyy and Putin meet next in Turkey before 2027?",
-      "volume24hr": 122.3,
-      "volumeNum": 7934.25,
-      "currentPrice": 0.0195,
-      "lastTradePrice": 0.036,
+      "question": "Will Zelenskyy and Putin not meet before 2027?",
+      "volume24hr": 984.84,
+      "volumeNum": 25190.7,
+      "currentPrice": 0.8,
+      "lastTradePrice": 0.8,
       "endDate": "2026-12-31T00:00:00Z",
       "market_type": "political",
-      "volume_delta": 139.14,
-      "rank": 24
+      "volume_delta": 264.88,
+      "rank": 13
     },
     {
-      "slug": "will-russia-capture-all-of-prymorske-by-january-15-2026",
-      "eventSlug": "will-russia-capture-all-of-prymorske-by",
-      "question": "Will Russia capture all of Prymorske by January 15, 2026?",
-      "volume24hr": 424.2,
-      "volumeNum": 13739.73,
-      "currentPrice": 0.012,
-      "lastTradePrice": 0.013,
-      "endDate": "2026-01-31T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 120.77,
-      "rank": 25
-    },
-    {
-      "slug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
-      "eventSlug": "will-ukraine-agree-to-cede-territory-to-russia-before-2027",
-      "question": "Will Ukraine agree to cede territory to Russia before 2027?",
-      "volume24hr": 22583.27,
-      "volumeNum": 222646.06,
-      "currentPrice": 0.315,
-      "lastTradePrice": 0.32,
-      "endDate": "2026-12-31T00:00:00Z",
+      "slug": "russia-strike-on-kyiv-municipality-by-january-10-2026",
+      "eventSlug": "russia-strike-on-kyiv-municipality-by-168",
+      "question": "Russia strike on Kyiv municipality by January 10, 2026?",
+      "volume24hr": 39697.41,
+      "volumeNum": 51653.99,
+      "currentPrice": 0.9205,
+      "lastTradePrice": 0.928,
+      "endDate": "2026-01-17T00:00:00Z",
       "market_type": "general",
-      "volume_delta": 108.12,
-      "rank": 26
+      "volume_delta": 198.84,
+      "rank": 14
+    },
+    {
+      "slug": "will-zelenskyy-and-putin-meet-next-in-hungary",
+      "eventSlug": "where-will-zelenskyy-and-putin-meet-next",
+      "question": "Will Zelenskyy and Putin meet next in Hungary before 2027?",
+      "volume24hr": 226.14,
+      "volumeNum": 9032.46,
+      "currentPrice": 0.065,
+      "lastTradePrice": 0.039,
+      "endDate": "2026-12-31T00:00:00Z",
+      "market_type": "political",
+      "volume_delta": 127.82,
+      "rank": 15
     }
   ]
 }
