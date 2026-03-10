@@ -1,14 +1,14 @@
 {
-  "timestamp": "2026-03-10T07:07:10.280688+00:00",
+  "timestamp": "2026-03-10T07:53:22.170513+00:00",
   "markets": {
     "will-russia-capture-kostyantynivka-by-march-31-872-578": {
-      "volumeNum": 831415.3269610032,
-      "volume24hr": 12234.699936,
+      "volumeNum": 831577.0569610032,
+      "volume24hr": 11741.819936,
       "lastTradePrice": 0.07
     },
     "will-russia-capture-lyman-by-march-31-2026-494": {
-      "volumeNum": 588913.6061470006,
-      "volume24hr": 14955.987161,
+      "volumeNum": 589356.5161470005,
+      "volume24hr": 15398.897160999999,
       "lastTradePrice": 0.06
     },
     "will-russia-capture-all-of-donetsk-oblast-by-march-31-2026": {
@@ -38,12 +38,12 @@
     },
     "will-russia-capture-hryshyne-by-march-31-2026-299": {
       "volumeNum": 165711.52411000026,
-      "volume24hr": 1920.1256480000002,
+      "volume24hr": 1917.800068,
       "lastTradePrice": 0.61
     },
     "will-russia-capture-all-of-rodynske-by-march-31": {
       "volumeNum": 163206.0161590002,
-      "volume24hr": 1827.663817,
+      "volume24hr": 1826.0509150000003,
       "lastTradePrice": 0.35
     },
     "will-russia-capture-all-of-vovchansk-by-march-31": {
@@ -52,8 +52,8 @@
       "lastTradePrice": 0.07
     },
     "will-russia-capture-all-of-prymorske-by-march-31-2026-597": {
-      "volumeNum": 124123.44786499997,
-      "volume24hr": 2438.1,
+      "volumeNum": 124178.45786499996,
+      "volume24hr": 2493.11,
       "lastTradePrice": 0.041
     },
     "will-russia-enter-dopropillia-by-june-30-122-495": {
@@ -67,8 +67,8 @@
       "lastTradePrice": 0.17
     },
     "will-russia-capture-all-of-huliaipole-by-march-31": {
-      "volumeNum": 98568.88559800001,
-      "volume24hr": 8766.041002,
+      "volumeNum": 98680.59559800001,
+      "volume24hr": 8777.751001999999,
       "lastTradePrice": 0.21
     },
     "will-russia-enter-druzkhivka-by-june-30-933-897": {
@@ -102,19 +102,19 @@
       "lastTradePrice": 0.12
     },
     "will-russia-capture-kostyantynivka-by-april-30": {
-      "volumeNum": 63691.94088999993,
-      "volume24hr": 1904.724026,
-      "lastTradePrice": 0.39
+      "volumeNum": 63716.94088999993,
+      "volume24hr": 1869.0891080000001,
+      "lastTradePrice": 0.37
     },
     "will-russia-enter-borova-by-march-31": {
       "volumeNum": 61538.73016100004,
-      "volume24hr": 85.05,
+      "volume24hr": 45.05,
       "lastTradePrice": 0.09
     },
     "will-russia-capture-bilytske-by-march-31-2026": {
-      "volumeNum": 48971.14611100002,
-      "volume24hr": 4389.96,
-      "lastTradePrice": 0.09
+      "volumeNum": 49091.14611100002,
+      "volume24hr": 4409.96,
+      "lastTradePrice": 0.07
     },
     "will-russia-capture-all-of-donetsk-oblast-by-june-30-2026": {
       "volumeNum": 46357.36864700001,
@@ -122,13 +122,13 @@
       "lastTradePrice": 0.033
     },
     "will-russia-capture-lyman-by-april-30-2026": {
-      "volumeNum": 45942.919964,
-      "volume24hr": 8459.058451,
-      "lastTradePrice": 0.35
+      "volumeNum": 46344.679963999995,
+      "volume24hr": 8847.99794,
+      "lastTradePrice": 0.21
     },
     "will-russia-capture-rodynske-by-march-31": {
-      "volumeNum": 44709.46200399998,
-      "volume24hr": 6450.118584,
+      "volumeNum": 44749.666966999976,
+      "volume24hr": 6438.599411999999,
       "lastTradePrice": 0.43
     },
     "will-russia-capture-sofiivka-by-march-31": {
@@ -257,8 +257,8 @@
       "lastTradePrice": 0.38
     },
     "will-russia-capture-all-of-prymorske-by-april-30-2026": {
-      "volumeNum": 3566.4242879999997,
-      "volume24hr": 467.200587,
+      "volumeNum": 3636.054288,
+      "volume24hr": 536.830587,
       "lastTradePrice": 0.19
     },
     "will-russia-capture-viroliubivka-by-march-31": {
@@ -275,6 +275,11 @@
       "volumeNum": 3193.706195,
       "volume24hr": 34.378395000000005,
       "lastTradePrice": 0.047
+    },
+    "will-ukraine-re-enter-obratne-or-temyrivka-by-march-31": {
+      "volumeNum": 3032.993744000001,
+      "volume24hr": 3032.9937439999994,
+      "lastTradePrice": 0.3
     },
     "will-russia-enter-havrylivka-by-march-31-2026": {
       "volumeNum": 2630.5554,
@@ -296,20 +301,20 @@
       "volume24hr": 926.344573,
       "lastTradePrice": 0.22
     },
-    "will-ukraine-re-enter-obratne-or-temyrivka-by-march-31": {
-      "volumeNum": 1606.9815430000003,
-      "volume24hr": 1606.9815429999996,
-      "lastTradePrice": 0.4
-    },
     "will-ukraine-re-enter-maliivka-by-march-31": {
-      "volumeNum": 1234.166665,
-      "volume24hr": 1234.1666650000002,
-      "lastTradePrice": 0.59
+      "volumeNum": 1357.23833,
+      "volume24hr": 1357.2383300000001,
+      "lastTradePrice": 0.24
     },
     "will-russia-enter-kindrashivka-by-march-31": {
       "volumeNum": 599.0288939999999,
-      "volume24hr": 74.6,
+      "volume24hr": 62.8,
       "lastTradePrice": 0.36
+    },
+    "will-russia-enter-shevchenko-by-march-31": {
+      "volumeNum": 153,
+      "volume24hr": 153,
+      "lastTradePrice": 0
     },
     "will-russia-capture-rodynske-by-april-30": {
       "volumeNum": 113.333332,
@@ -322,14 +327,9 @@
       "lastTradePrice": 0.42
     },
     "will-russia-enter-svitle-by-march-31": {
-      "volumeNum": 1.12359,
-      "volume24hr": 1.12359,
+      "volumeNum": 46.24718,
+      "volume24hr": 46.24718,
       "lastTradePrice": 0
-    },
-    "will-russia-enter-sloviansk-by-june-30": {
-      "volumeNum": 0,
-      "volume24hr": 0,
-      "lastTradePrice": 0.19
     },
     "will-russia-enter-dobropillia-by-march-31": {
       "volumeNum": 0,
@@ -365,11 +365,6 @@
       "volumeNum": 0,
       "volume24hr": 0,
       "lastTradePrice": 0.12
-    },
-    "will-russia-enter-shevchenko-by-march-31": {
-      "volumeNum": 0,
-      "volume24hr": 0,
-      "lastTradePrice": 0
     },
     "will-russia-capture-all-of-vovchansk-by-april-30": {
       "volumeNum": 0,
@@ -411,39 +406,44 @@
       "volume24hr": 0,
       "lastTradePrice": 0.034
     },
+    "will-russia-enter-sloviansk-by-june-30": {
+      "volumeNum": 0,
+      "volume24hr": 0,
+      "lastTradePrice": 0.19
+    },
     "russia-x-ukraine-ceasefire-by-march-31-2026": {
-      "volumeNum": 23705711.360846385,
-      "volume24hr": 299112.6818090001,
+      "volumeNum": 23713077.641642384,
+      "volume24hr": 276206.48716000014,
       "lastTradePrice": 0.022
     },
     "russia-x-ukraine-ceasefire-before-2027": {
-      "volumeNum": 11401423.881776065,
-      "volume24hr": 76587.25851,
-      "lastTradePrice": 0.41
+      "volumeNum": 11403186.151939064,
+      "volume24hr": 77349.468673,
+      "lastTradePrice": 0.42
     },
     "russia-x-ukraine-ceasefire-by-june-30-2026": {
-      "volumeNum": 2879654.784736035,
-      "volume24hr": 172043.17893299993,
+      "volumeNum": 2880010.311050035,
+      "volume24hr": 171712.43296099995,
       "lastTradePrice": 0.19
     },
     "putin-out-before-2027": {
-      "volumeNum": 2623755.302271006,
-      "volume24hr": 6097.124941999999,
+      "volumeNum": 2624553.092271006,
+      "volume24hr": 6894.9149419999985,
       "lastTradePrice": 0.1
     },
     "will-putin-meet-with-zelenskyy-by-march-31-2026": {
-      "volumeNum": 2443591.747221993,
-      "volume24hr": 659.8100450000001,
+      "volumeNum": 2443864.467221993,
+      "volume24hr": 932.530045,
       "lastTradePrice": 0.007
     },
     "will-russia-invade-a-nato-country-by-june-30-2026": {
-      "volumeNum": 2085942.8211560014,
-      "volume24hr": 19042.258238000002,
-      "lastTradePrice": 0.05
+      "volumeNum": 2089322.5211560016,
+      "volume24hr": 21616.116786,
+      "lastTradePrice": 0.054
     },
     "zelenskyy-out-as-ukraine-president-before-2027": {
-      "volumeNum": 1897995.4367600128,
-      "volume24hr": 3262.100346,
+      "volumeNum": 1897998.0008600128,
+      "volume24hr": 3264.664446,
       "lastTradePrice": 0.23
     },
     "ukraine-joins-nato-before-2027": {
@@ -458,27 +458,27 @@
     },
     "putin-out-as-president-of-russia-by-june-30": {
       "volumeNum": 790519.2722039986,
-      "volume24hr": 8772.861168000001,
+      "volume24hr": 8251.373328,
       "lastTradePrice": 0.047
     },
     "will-ukraine-agree-to-cede-territory-to-russia-before-2027": {
-      "volumeNum": 501670.6955320013,
-      "volume24hr": 444.99999700000006,
+      "volumeNum": 501710.6955320013,
+      "volume24hr": 484.99999700000006,
       "lastTradePrice": 0.25
     },
     "will-trump-and-putin-not-meet-315-857-437-514": {
       "volumeNum": 490627.73563900014,
-      "volume24hr": 905.6926380000001,
+      "volume24hr": 801.500328,
       "lastTradePrice": 0.708
     },
     "zelenskyy-out-as-ukraine-president-by-march-31-2026": {
-      "volumeNum": 441619.0844059993,
-      "volume24hr": 2539.0891300000003,
+      "volumeNum": 441622.12082199927,
+      "volume24hr": 2537.039135,
       "lastTradePrice": 0.013
     },
     "nato-x-russia-military-clash-by-march-31-2026": {
       "volumeNum": 399095.0188469999,
-      "volume24hr": 13394.642078000003,
+      "volume24hr": 13389.476797000003,
       "lastTradePrice": 0.024
     },
     "russia-x-ukraine-peace-parlay": {
@@ -487,8 +487,8 @@
       "lastTradePrice": 0.22
     },
     "russia-x-ukraine-ceasefire-by-april-30-2026": {
-      "volumeNum": 330690.93387299986,
-      "volume24hr": 77053.863966,
+      "volumeNum": 335778.9038729998,
+      "volume24hr": 80864.418706,
       "lastTradePrice": 0.07
     },
     "ukraine-signs-peace-deal-with-russia-by-march-31": {
@@ -503,23 +503,23 @@
     },
     "ukraine-election-called-by-june-30-2026-392": {
       "volumeNum": 195409.07388900025,
-      "volume24hr": 2118.0626630000006,
+      "volume24hr": 2097.5835800000004,
       "lastTradePrice": 0.1
+    },
+    "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31-214": {
+      "volumeNum": 194247.8178630001,
+      "volume24hr": 13568.212886,
+      "lastTradePrice": 0.007
     },
     "ukraine-election-held-by-june-30-2026-465-757": {
       "volumeNum": 193957.83863399987,
       "volume24hr": 282.8,
       "lastTradePrice": 0.07
     },
-    "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-march-31-214": {
-      "volumeNum": 193155.8578630001,
-      "volume24hr": 13434.970805999998,
-      "lastTradePrice": 0.007
-    },
     "will-trump-meet-with-putin-by-march-31": {
-      "volumeNum": 186546.95190800022,
-      "volume24hr": 230.956427,
-      "lastTradePrice": 0.022
+      "volumeNum": 186622.0019080002,
+      "volume24hr": 306.006427,
+      "lastTradePrice": 0.023
     },
     "will-the-us-test-a-nuclear-weapon-by-march-31-2026": {
       "volumeNum": 172800.644151,
@@ -527,9 +527,9 @@
       "lastTradePrice": 0.025
     },
     "ukraine-signs-peace-deal-with-russia-before-2027": {
-      "volumeNum": 171452.610724,
-      "volume24hr": 166.90999599999998,
-      "lastTradePrice": 0.35
+      "volumeNum": 172083.610724,
+      "volume24hr": 797.909996,
+      "lastTradePrice": 0.32
     },
     "ukraine-election-held-by-december-31-2026-344-142": {
       "volumeNum": 165693.63270399993,
@@ -548,7 +548,7 @@
     },
     "will-zelenskyy-and-putin-meet-next-in-belarus": {
       "volumeNum": 136002.982799,
-      "volume24hr": 18959.312099,
+      "volume24hr": 18944.312099,
       "lastTradePrice": 0.03
     },
     "will-putin-meet-with-zelenskyy-by-june-30-2026": {
@@ -563,7 +563,7 @@
     },
     "will-trump-and-putin-meet-next-in-ukraine-328-474": {
       "volumeNum": 106573.63350399997,
-      "volume24hr": 551.95387,
+      "volume24hr": 538.62,
       "lastTradePrice": 0.004
     },
     "will-zelenskyy-talk-to-putin-by-march-31": {
@@ -593,12 +593,12 @@
     },
     "will-trump-and-putin-meet-next-in-belarus-572": {
       "volumeNum": 76619.33605999993,
-      "volume24hr": 2377.337666,
+      "volume24hr": 2364,
       "lastTradePrice": 0.007
     },
     "will-trump-and-putin-meet-next-in-china-586-328": {
       "volumeNum": 74298.130922,
-      "volume24hr": 23.68412,
+      "volume24hr": 10.341242,
       "lastTradePrice": 0.033
     },
     "will-zelenskyy-and-putin-not-meet": {
@@ -608,7 +608,7 @@
     },
     "will-trump-and-putin-meet-next-in-australia-459-332-211": {
       "volumeNum": 68823.377891,
-      "volume24hr": 113.33900000000001,
+      "volume24hr": 100,
       "lastTradePrice": 0.002
     },
     "eunato-country-announces-peacekeeping-force-in-ukraine-before-2027": {
@@ -623,8 +623,13 @@
     },
     "will-trump-and-putin-meet-next-in-switzerland-448-348": {
       "volumeNum": 63479.371448,
-      "volume24hr": 480.66316599999993,
+      "volume24hr": 467.33,
       "lastTradePrice": 0.024
+    },
+    "will-zelenskyy-and-putin-meet-next-in-ukraine": {
+      "volumeNum": 61166.89978400001,
+      "volume24hr": 17052.99,
+      "lastTradePrice": 0.007
     },
     "will-zelenskyy-and-putin-meet-next-in-qatar-uae": {
       "volumeNum": 60118.623581,
@@ -632,9 +637,9 @@
       "lastTradePrice": 0.024
     },
     "russia-strike-impacts-kyiv-municipality-during-week-of-march-2-2026": {
-      "volumeNum": 58592.54604199995,
-      "volume24hr": 5692.6524819999995,
-      "lastTradePrice": 0.131
+      "volumeNum": 58819.37604199995,
+      "volume24hr": 5165.712481999999,
+      "lastTradePrice": 0.077
     },
     "ukraine-signs-peace-deal-with-russia-by-june-30": {
       "volumeNum": 57677.01809199991,
@@ -662,38 +667,33 @@
       "lastTradePrice": 0.014
     },
     "will-trump-and-putin-meet-next-in-south-korea-582-297-268": {
-      "volumeNum": 48389.40073,
-      "volume24hr": 2395.1330000000003,
-      "lastTradePrice": 0.007
+      "volumeNum": 48396.54073,
+      "volume24hr": 2388.94,
+      "lastTradePrice": 0.004
     },
     "will-trump-and-putin-meet-next-in-japan-711-288-527": {
       "volumeNum": 47304.671204,
-      "volume24hr": 5063.3362,
+      "volume24hr": 5050,
       "lastTradePrice": 0.012
     },
     "will-trump-and-putin-meet-next-in-another-european-country-954-837-364": {
       "volumeNum": 46584.93783699997,
-      "volume24hr": 107.643332,
+      "volume24hr": 94.31,
       "lastTradePrice": 0.058
     },
     "will-trump-and-putin-meet-next-in-finland-772-412": {
-      "volumeNum": 45999.10265899973,
-      "volume24hr": 1512.063285,
+      "volumeNum": 46004.65265899973,
+      "volume24hr": 1504.274285,
       "lastTradePrice": 0.002
-    },
-    "will-zelenskyy-and-putin-meet-next-in-ukraine": {
-      "volumeNum": 45855.54978400001,
-      "volume24hr": 1741.64,
-      "lastTradePrice": 0.007
     },
     "will-trump-and-putin-meet-next-in-a-gulf-country-733-116": {
       "volumeNum": 39513.07635499998,
-      "volume24hr": 951.507953,
+      "volume24hr": 938.169089,
       "lastTradePrice": 0.04
     },
     "will-trump-and-putin-meet-next-in-united-states-224-875-469": {
       "volumeNum": 39380.55565900002,
-      "volume24hr": 9817.280955,
+      "volume24hr": 9803.942857,
       "lastTradePrice": 0.027
     },
     "will-zelenskyy-and-putin-meet-next-in-kazakhstan-485-344": {
@@ -708,7 +708,7 @@
     },
     "will-trump-and-putin-meet-next-in-turkey-182-161-789": {
       "volumeNum": 30020.272605000027,
-      "volume24hr": 2174.323712,
+      "volume24hr": 1765.58657,
       "lastTradePrice": 0.032
     },
     "will-zelenskyy-and-putin-meet-next-in-hungary": {
@@ -733,7 +733,7 @@
     },
     "will-trump-and-putin-meet-next-in-russia-594-493-482": {
       "volumeNum": 27553.87116299999,
-      "volume24hr": 18.492652,
+      "volume24hr": 5.15,
       "lastTradePrice": 0.02
     },
     "us-x-russia-nuclear-deal-by-june-30": {
@@ -748,7 +748,7 @@
     },
     "will-trump-and-putin-meet-next-in-another-country-313-781-734-447": {
       "volumeNum": 22363.798199,
-      "volume24hr": 156.89538900000002,
+      "volume24hr": 143.555989,
       "lastTradePrice": 0.016
     },
     "will-russia-strike-kyiv-on-march-31-2026": {
@@ -758,7 +758,7 @@
     },
     "ukraine-officially-agrees-to-a-us-backed-ceasefire-framework-by-june-30": {
       "volumeNum": 17150.09655299998,
-      "volume24hr": 3492.6155849999996,
+      "volume24hr": 3374.915585,
       "lastTradePrice": 0.14
     },
     "ukraine-peace-referendum-scheduled-by-march-31": {
@@ -866,15 +866,15 @@
       "volume24hr": 0,
       "lastTradePrice": 0.003
     },
-    "ukraine-agrees-not-to-join-nato-by-march-31": {
-      "volumeNum": 0,
-      "volume24hr": 0,
-      "lastTradePrice": 0.035
-    },
     "will-zelenskyy-and-putin-meet-next-in-switzerland-848-193": {
       "volumeNum": 0,
       "volume24hr": 0,
       "lastTradePrice": 0.006
+    },
+    "ukraine-agrees-not-to-join-nato-by-march-31": {
+      "volumeNum": 0,
+      "volume24hr": 0,
+      "lastTradePrice": 0.035
     },
     "will-russia-rejoin-the-g7-before-2027": {
       "volumeNum": 0,
@@ -887,23 +887,23 @@
       "lastTradePrice": 0.08
     },
     "will-unrwa-win-the-nobel-peace-prize-in-2026-983": {
-      "volumeNum": 1381930.0745020024,
-      "volume24hr": 17945.976077000007,
-      "lastTradePrice": 0.034
+      "volumeNum": 1382513.1045020025,
+      "volume24hr": 17825.780644000002,
+      "lastTradePrice": 0.03
     },
     "russia-ukraine-ceasefire-before-gta-vi-554": {
-      "volumeNum": 1366210.7575809986,
-      "volume24hr": 1109.0326349999998,
+      "volumeNum": 1366219.3175759986,
+      "volume24hr": 1035.5649719999994,
       "lastTradePrice": 0.57
     },
     "will-greta-thunberg-win-the-nobel-peace-prize-in-2026-767": {
-      "volumeNum": 762255.9321749972,
-      "volume24hr": 10109.229999999998,
+      "volumeNum": 762259.0621749972,
+      "volume24hr": 9138.15,
       "lastTradePrice": 0.019
     },
     "will-elon-musk-win-the-nobel-peace-prize-in-2026-756": {
-      "volumeNum": 450297.8812389986,
-      "volume24hr": 2147.157199,
+      "volumeNum": 450375.5712389986,
+      "volume24hr": 2224.847199,
       "lastTradePrice": 0.011
     },
     "will-ahmed-al-sharaa-win-the-nobel-peace-prize-in-2026": {
@@ -912,33 +912,33 @@
       "lastTradePrice": 0.006
     },
     "will-ukraine-win-eurovision-2026": {
-      "volumeNum": 348737.3722479988,
-      "volume24hr": 30692.246287000005,
+      "volumeNum": 348948.73474799877,
+      "volume24hr": 30573.918788000006,
       "lastTradePrice": 0.019
     },
     "will-vladimir-putin-win-the-nobel-peace-prize-in-2026-126": {
       "volumeNum": 337403.75984700007,
-      "volume24hr": 35054.96,
+      "volume24hr": 34504.96,
       "lastTradePrice": 0.005
+    },
+    "will-xi-jinping-win-the-nobel-peace-prize-in-2026": {
+      "volumeNum": 321255.413994,
+      "volume24hr": 72339.186768,
+      "lastTradePrice": 0.004
     },
     "will-volodymyr-zelensky-win-the-nobel-peace-prize-in-2026-637": {
       "volumeNum": 306203.64229999983,
       "volume24hr": 425.936402,
       "lastTradePrice": 0.1
     },
-    "will-xi-jinping-win-the-nobel-peace-prize-in-2026": {
-      "volumeNum": 290340.693994,
-      "volume24hr": 41535.966768000006,
-      "lastTradePrice": 0.004
-    },
     "will-charlie-kirk-win-the-nobel-peace-prize-in-2026": {
-      "volumeNum": 276758.58544999955,
-      "volume24hr": 12844.892691000005,
+      "volumeNum": 277548.88584099954,
+      "volume24hr": 13477.843082000005,
       "lastTradePrice": 0.02
     },
     "will-julian-assange-win-the-nobel-peace-prize-in-2026-899": {
       "volumeNum": 251770.023108,
-      "volume24hr": 984.98,
+      "volume24hr": 865.76,
       "lastTradePrice": 0.007
     },
     "will-mohammed-bin-salman-win-the-nobel-peace-prize-in-2026": {
@@ -947,18 +947,18 @@
       "lastTradePrice": 0.008
     },
     "will-recep-tayyip-erdoan-win-the-nobel-peace-prize-in-2026": {
-      "volumeNum": 236070.76640100006,
-      "volume24hr": 3444.782909,
-      "lastTradePrice": 0.005
+      "volumeNum": 236653.58640100004,
+      "volume24hr": 3770.682909,
+      "lastTradePrice": 0.006
     },
     "will-benjamin-netanyahu-win-the-nobel-peace-prize-in-2026": {
       "volumeNum": 227626.01234500005,
-      "volume24hr": 57051.9834,
+      "volume24hr": 34204.003399999994,
       "lastTradePrice": 0.005
     },
     "will-narendra-modi-win-the-nobel-peace-prize-in-2026": {
       "volumeNum": 190461.7751190002,
-      "volume24hr": 6186.508035000002,
+      "volume24hr": 5919.358035000001,
       "lastTradePrice": 0.023
     },
     "will-pope-leo-xiv-win-the-nobel-peace-prize-in-2026-698": {
@@ -968,17 +968,17 @@
     },
     "will-tamim-bin-hamad-al-thani-win-the-nobel-peace-prize-in-2026-755": {
       "volumeNum": 146066.70585500004,
-      "volume24hr": 946.9599999999999,
+      "volume24hr": 912.43,
       "lastTradePrice": 0.057
     },
     "will-ukraine-qualify-for-the-2026-fifa-world-cup": {
       "volumeNum": 137844.92464800013,
-      "volume24hr": 304.7624289999999,
+      "volume24hr": 284.682429,
       "lastTradePrice": 0.27
     },
     "will-the-international-court-of-justice-win-the-nobel-peace-prize-in-2026-885": {
-      "volumeNum": 129537.09424700002,
-      "volume24hr": 602.96,
+      "volumeNum": 129569.80424700002,
+      "volume24hr": 635.6700000000001,
       "lastTradePrice": 0.038
     },
     "will-khaled-mashal-win-the-nobel-peace-prize-in-2026-787": {
