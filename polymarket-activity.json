@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T16:56:34.459212+00:00",
-  "previous_snapshot": "2026-04-03T15:52:46.060646+00:00",
+  "generated_at": "2026-04-03T17:52:24.165675+00:00",
+  "previous_snapshot": "2026-04-03T16:56:34.465774+00:00",
   "total_markets": 181,
   "top_volume_24h": [
     {
@@ -4661,84 +4661,5 @@
       "rank": 50
     }
   ],
-  "volume_spikes": [
-    {
-      "slug": "ukraine-strikes-another-tanker-in-black-sea-by-march-31-2026",
-      "eventSlug": "ukraine-strikes-another-tanker-in-black-sea-by-835",
-      "question": "Ukraine strikes another tanker in Black Sea by March 31, 2026?",
-      "volume24hr": 386350.22,
-      "volumeNum": 491671.34,
-      "currentPrice": 0.9955,
-      "lastTradePrice": 0.998,
-      "endDate": "2026-03-31T00:00:00Z",
-      "market_type": "general",
-      "volume_delta": 11223.57,
-      "rank": 1
-    },
-    {
-      "slug": "will-russia-capture-all-of-kostyantynivka-by-december-31-2026",
-      "eventSlug": "will-russia-capture-all-of-kostyantynivka-by",
-      "question": "Will Russia capture all of Kostyantynivka by December 31, 2026?",
-      "volume24hr": 5255.37,
-      "volumeNum": 39369.17,
-      "currentPrice": 0.425,
-      "lastTradePrice": 0.45,
-      "endDate": "2026-12-31T00:00:00Z",
-      "market_type": "territorial",
-      "volume_delta": 4165.41,
-      "rank": 2
-    },
-    {
-      "slug": "will-us-withdraw-from-nato-by-april-30-583-663",
-      "eventSlug": "will-us-withdraw-from-nato-before-2027",
-      "question": "Will US withdraw from NATO by April 30?",
-      "volume24hr": 91968.58,
-      "volumeNum": 285859.52,
-      "currentPrice": 0.01,
-      "lastTradePrice": 0.01,
-      "endDate": "2026-04-30T00:00:00Z",
-      "market_type": "diplomatic",
-      "volume_delta": 3200.54,
-      "rank": 3
-    },
-    {
-      "slug": "will-xi-jinping-win-the-nobel-peace-prize-in-2026",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will Xi Jinping win the Nobel Peace Prize in 2026?",
-      "volume24hr": 8912.62,
-      "volumeNum": 795921.02,
-      "currentPrice": 0.0185,
-      "lastTradePrice": 0.019,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 254.92,
-      "rank": 4
-    },
-    {
-      "slug": "will-the-international-court-of-justice-win-the-nobel-peace-prize-in-2026-885",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will the International Court of Justice win the Nobel Peace Prize in 2026?",
-      "volume24hr": 12118.64,
-      "volumeNum": 552009.63,
-      "currentPrice": 0.0365,
-      "lastTradePrice": 0.038,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 162.27,
-      "rank": 5
-    },
-    {
-      "slug": "will-unrwa-win-the-nobel-peace-prize-in-2026-983",
-      "eventSlug": "nobel-peace-prize-winner-2026-139",
-      "question": "Will UNRWA win the Nobel Peace Prize in 2026?",
-      "volume24hr": 3022.5,
-      "volumeNum": 1670805.77,
-      "currentPrice": 0.0365,
-      "lastTradePrice": 0.034,
-      "endDate": "2026-10-10T00:00:00Z",
-      "market_type": "peace",
-      "volume_delta": 102.55,
-      "rank": 6
-    }
-  ]
+  "volume_spikes": []
 }
